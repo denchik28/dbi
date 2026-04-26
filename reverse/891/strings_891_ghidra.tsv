@@ -1,0 +1,4496 @@
+addr	xrefs	len	value
+7100000008	0	12	HOMEBREWNRO0
+7100837700	1	9	Location_
+71008377c9	83	15	293949596979899
+71008377e0	2	36	Disabled titles to check for updates
+7100837808	176	16	0123456789ABCDEF
+7100837820	6238	20	basic_string::append
+7100837838	4	22	Couldn't find the key.
+7100837850	1328	49	basic_string: construction from null is not valid
+7100837888	4	5	Local
+7100837890	2	10	MTPStorage
+71008378a0	2	15	Network sources
+71008378b0	2	13	Local sources
+71008378c0	2	19	MTP custom storages
+71008378d8	4	47	We reached the maximum size for the hash table.
+7100837908	19	47	cannot create std::deque larger than max_size()
+7100837940	0	5	False
+7100837960	8	5	false
+7100837968	3	5	FALSE
+7100837970	13	7	Install
+7100837978	1	9	EnableNSZ
+7100837988	13	12	Saved values
+7100837998	2	12	titledbfixed
+71008379a8	1	19	Title name override
+71008379c0	76	7	General
+71008379c8	1	10	AppSorting
+71008379d8	1	36	Name,LastPlayed,InstallLocation,Size
+7100837a00	0	10	LastPlayed
+7100837a10	0	15	InstallLocation
+7100837a20	1	11	SaveSorting
+7100837a30	1	39	AppName,AppLastPlayed,UserUid,Size,Time
+7100837a58	0	7	AppName
+7100837a60	0	13	AppLastPlayed
+7100837a70	0	7	UserUid
+7100837a78	4	10	ApacheHTTP
+7100837a90	1	7	URLList
+7100837ab0	172	25	vector::_M_realloc_append
+7100837ad0	3	33	The map exceeds its maximum size.
+7100837af8	26	48	cannot create std::vector larger than max_size()
+7100837b30	3	8	No error
+7100837b40	1	16	bad code lengths
+7100837b58	4	15	bad codelengths
+7100837b68	1	9	bad sizes
+7100837b78	16	8	outofmem
+7100837b88	1	19	output buffer limit
+7100837ba0	4	11	unsupported
+7100837bb0	2	15	bad zlib header
+7100837bc0	2	14	no preset dict
+7100837bd0	4	15	bad compression
+7100837be0	2	12	zlib corrupt
+7100837bf0	2	16	read past buffer
+7100837c08	5	16	bad huffman code
+7100837c20	2	8	bad dist
+7100837c30	7	9	too large
+7100837c40	1	17	not enough pixels
+7100837c58	1	14	invalid filter
+7100837c68	2	13	invalid width
+7100837cc8	1	21	can't merge dc and ac
+7100837ce0	2	15	expected marker
+7100837cf0	2	11	bad DRI len
+7100837d00	2	12	bad DQT type
+7100837d10	2	13	bad DQT table
+7100837d20	2	14	bad DHT header
+7100837d30	1	11	bad COM len
+7100837d40	1	11	bad APP len
+7100837d50	2	14	unknown marker
+7100837d60	4	6	no SOI
+7100837d68	2	6	no SOF
+7100837d70	2	11	bad SOF len
+7100837d80	2	10	only 8-bit
+7100837d90	2	16	no header height
+7100837da8	2	7	0 width
+7100837db0	2	19	bad component count
+7100837dc8	2	5	bad H
+7100837dd0	2	5	bad V
+7100837dd8	2	6	bad TQ
+7100837de8	3	11	bad png sig
+7100837df8	2	13	multiple IHDR
+7100837e08	2	12	bad IHDR len
+7100837e18	2	19	1/2/4/8/16-bit only
+7100837e30	2	9	bad ctype
+7100837e40	2	15	bad comp method
+7100837e50	2	17	bad filter method
+7100837e68	2	20	bad interlace method
+7100837e80	2	13	0-pixel image
+7100837e90	4	14	first not IHDR
+7100837ea0	2	12	invalid PLTE
+7100837eb0	2	15	tRNS after IDAT
+7100837ec0	2	16	tRNS before PLTE
+7100837ed8	2	12	bad tRNS len
+7100837ee8	2	15	tRNS with alpha
+7100837ef8	2	7	no PLTE
+7100837f00	2	9	outofdata
+7100837f10	2	7	no IDAT
+7100837f18	4	12	bad req_comp
+7100837f28	2	23	bad SOS component count
+7100837f40	2	11	bad SOS len
+7100837f50	2	11	bad DC huff
+7100837f60	2	11	bad AC huff
+7100837f70	2	7	bad SOS
+7100837f78	2	11	bad DNL len
+7100837f88	2	14	bad DNL height
+7100837f98	2	20	bad bits_per_channel
+7100837fb0	1	7	not PSD
+7100837fb8	1	13	wrong version
+7100837fc8	2	19	wrong channel count
+7100837fe0	2	21	unsupported bit depth
+7100837ff8	2	18	wrong color format
+7100838010	3	18	unknown image type
+7100838028	2	7	corrupt
+7100838030	0	11	can't fopen
+7100838058	1	16	ExitToHomeScreen
+71008380a0	2	64	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+7100838108	0	8	no error
+7100838118	0	15	undefined error
+7100838128	0	14	too many files
+7100838138	0	14	file too large
+7100838148	0	18	unsupported method
+7100838160	0	22	unsupported encryption
+7100838178	0	19	unsupported feature
+7100838190	0	32	failed finding central directory
+71008381b8	0	17	not a ZIP archive
+71008381d0	0	38	invalid header or archive is corrupted
+71008381f8	0	29	unsupported multidisk archive
+7100838218	0	44	decompression failed or archive is corrupted
+7100838248	0	28	unexpected decompressed size
+7100838268	0	19	CRC-32 check failed
+7100838280	0	34	unsupported central directory size
+71008382a8	0	16	file open failed
+71008382c0	0	18	file create failed
+71008382d8	0	17	file write failed
+71008382f0	0	16	file read failed
+7100838308	0	17	file close failed
+7100838320	0	16	file seek failed
+7100838338	0	16	file stat failed
+7100838350	0	17	invalid parameter
+7100838368	0	16	invalid filename
+7100838380	0	14	internal error
+7100838390	1	14	file not found
+71008383a0	0	20	archive is too large
+71008383b8	0	17	validation failed
+71008383d0	0	21	write callback failed
+71008383e8	0	12	total errors
+71008383f8	0	13	unknown error
+7100838408	1	15	not initialized
+7100838418	1	18	invalid entry name
+7100838430	1	15	entry not found
+7100838440	1	16	invalid zip mode
+7100838458	1	25	invalid compression level
+7100838478	1	17	no zip 64 support
+7100838490	1	12	memset error
+71008384a0	1	26	cannot write data to entry
+71008384c0	1	34	cannot initialize tdefl compressor
+71008384e8	1	13	invalid index
+71008384f8	1	16	header not found
+7100838510	1	25	cannot flush tdefl buffer
+7100838530	1	25	cannot write entry header
+7100838550	1	26	cannot create entry header
+7100838570	1	27	cannot write to central dir
+7100838590	1	16	cannot open file
+71008385a8	1	18	invalid entry type
+71008385c0	1	42	extracting data using no memory allocation
+71008385f0	1	13	no permission
+7100838600	3	13	out of memory
+7100838610	1	24	invalid zip archive name
+7100838630	1	14	make dir error
+7100838640	1	13	symlink error
+7100838650	1	19	close archive error
+7100838668	1	23	capacity size too small
+7100838680	1	11	fseek error
+7100838690	1	11	fread error
+71008386a0	1	12	fwrite error
+71008386b0	1	10	stream end
+71008386c0	1	15	need dictionary
+71008386d0	1	10	file error
+71008386e0	2	12	stream error
+71008386f0	1	10	data error
+7100838700	0	9	buf error
+7100838710	0	13	version error
+7100838720	0	15	parameter error
+7100838730	1	24	Truncate not implemented
+7100838750	12	13	Not supported
+7100838760	2	23	Error extracting record
+7100838778	1	19	Content not existed
+7100838798	1	11	read failed
+71008387a8	1	11	open failed
+71008387b8	1	12	write failed
+71008387c8	90	20	basic_string::substr
+71008387e0	108	54	%s: __pos (which is %zu) > this->size() (which is %zu)
+7100838818	25	5	sdmc:
+7100838828	1	52	{} open failed: File does not exist. Creating new...
+7100838860	2	9	anonymous
+7100838870	13	15	vector::reserve
+7100838890	1	11	ActivityLog
+71008388a0	1	16	HideUnknownUsers
+71008388b8	23	23	vector::_M_range_insert
+71008388d8	16	25	vector::_M_default_append
+71008388f8	1	15	Invalid version
+7100838908	1	22	vector::_M_fill_insert
+7100838920	1	18	Invalid code point
+7100838938	111	7	map::at
+7100838978	1	8	htc.stub
+7100838988	1	5	boot2
+7100838990	1	8	settings
+71008389a8	1	9	bluetooth
+71008389c8	1	7	friends
+71008389e0	1	5	shell
+71008389e8	1	10	bsdsockets
+7100838a00	1	5	audio
+7100838a08	1	10	LogManager
+7100838a30	1	10	nvservices
+7100838a48	1	6	capmtp
+7100838a50	1	10	nvnflinger
+7100838a68	1	7	account
+7100838a80	1	6	capsrv
+7100838ae8	1	5	eupld
+7100838af8	1	5	eclct
+7100838b00	1	5	fatal
+7100838b10	1	7	creport
+7100838b20	1	8	profiler
+7100838b38	1	9	migration
+7100838b50	1	7	jpegdec
+7100838b58	1	8	safemode
+7100838ba0	1	7	qlaunch
+7100838ba8	1	7	cabinet
+7100838bb0	1	10	controller
+7100838bc0	1	9	dataErase
+7100838bd0	1	10	netConnect
+7100838be0	1	12	playerSelect
+7100838bf0	1	5	swkbd
+7100838bf8	1	7	miiEdit
+7100838c00	1	12	LibAppletWeb
+7100838c10	1	13	LibAppletShop
+7100838c20	1	11	overlayDisp
+7100838c30	1	11	photoViewer
+7100838c40	1	12	LibAppletOff
+7100838c50	1	12	LibAppletLns
+7100838c60	1	13	LibAppletAuth
+7100838c70	1	7	starter
+7100838c78	1	6	myPage
+7100838c80	1	11	maintenance
+7100838c90	1	5	splay
+7100838c98	1	9	dmnt.gen2
+7100838ca8	1	7	SaltyNX
+7100838cb0	1	11	BootSoundNX
+7100838cc0	1	9	nx-reader
+7100838cd0	1	7	sys-clk
+7100838cd8	1	13	mtp-server-nx
+7100838ce8	1	6	SysDVR
+7100838cf0	1	9	sys-tweak
+7100838d00	1	8	nfp-mitm
+7100838d10	1	8	nx-btred
+7100838d20	1	7	emuiibo
+7100838d28	1	14	SwitchPresence
+7100838d38	1	8	aoc-mitm
+7100838d48	1	7	OJDS-NX
+7100838d58	1	7	fsp-usb
+7100838d60	1	10	nx_overlay
+7100838d70	1	6	Fizeau
+7100838d78	1	8	hid-mitm
+7100838d88	1	5	twili
+7100838d98	1	14	MissionControl
+7100838da8	1	8	Freebird
+7100838db8	1	5	dvdnx
+7100838dc0	1	8	usb-mitm
+7100838dd0	1	6	maydel
+7100838dd8	1	8	ams.mitm
+7100838de8	1	7	sys-rgb
+7100838df0	1	17	NX-input-recorder
+7100838e08	1	5	noexs
+7100838e10	1	7	SplitNX
+7100838e18	1	8	sys-http
+7100838e28	1	8	sys-tune
+7100838e38	1	9	sys-patch
+7100838e48	1	8	sys-ftpd
+7100838e58	1	7	SlideNX
+7100838e60	1	8	ldn_mitm
+7100838e70	1	6	ftpsrv
+7100838e78	1	12	network_mitm
+7100838e88	1	14	bitmap-printer
+7100838e98	1	8	BTSounds
+7100838ea8	1	6	SwiTAS
+7100838eb0	1	13	sys-triplayer
+7100838ec0	1	9	sys-scope
+7100838ed0	1	12	nx-ovlloader
+7100838ee0	1	11	sys-gdbstub
+7100838ef0	1	10	sys-logger
+7100838f00	1	15	ControllerSaver
+7100838f10	1	18	sys-screenuploader
+7100838f28	1	10	sys-script
+7100838f38	1	13	sfdnsres_mitm
+7100838f48	1	12	sys-netcheat
+7100838f58	1	11	sys-botbase
+7100838f68	1	15	sys-botbaseplus
+7100838f80	1	9	NXGallery
+7100838f90	1	6	NXCord
+7100838f98	1	7	sys-con
+7100838fa0	1	6	[Base]
+7100838fa8	1	8	[Update]
+7100838fc0	2	13	AddBaseUpdate
+7100838ff0	3	5	].nsp
+7100838ff8	1	12	][DLCUpdate 
+7100839008	2	15	ShowCombinedNSP
+7100839038	1	11	/registered
+7100839048	1	10	registered
+7100839058	0	20	Can not open FS : {}
+7100839070	1	25	Can not find file in rar 
+7100839090	1	17	Can not open rar 
+71008390a8	1	18	Can not open 7zip 
+71008390c0	1	26	Can not find file in 7zip 
+71008390e0	1	17	Can not open zip 
+71008390f8	1	25	Can not find file in zip 
+7100839118	4	18	.dbi_save_info.ini
+7100839130	2	15	.dbi_save_extra
+7100839170	1	5	alert
+7100839178	1	9	backspace
+7100839190	1	7	newline
+7100839198	1	12	vertical-tab
+71008391a8	1	9	form-feed
+71008391b8	1	15	carriage-return
+7100839250	3	5	space
+7100839258	1	16	exclamation-mark
+7100839270	1	14	quotation-mark
+7100839280	1	11	number-sign
+7100839290	1	11	dollar-sign
+71008392a0	1	12	percent-sign
+71008392b0	1	9	ampersand
+71008392c0	1	10	apostrophe
+71008392d0	1	16	left-parenthesis
+71008392e8	1	17	right-parenthesis
+7100839300	1	8	asterisk
+7100839310	1	9	plus-sign
+7100839320	1	5	comma
+7100839328	1	6	hyphen
+7100839330	1	6	period
+7100839338	1	5	slash
+7100839350	1	5	three
+7100839370	1	5	seven
+7100839378	1	5	eight
+7100839388	1	5	colon
+7100839390	1	9	semicolon
+71008393a0	1	14	less-than-sign
+71008393b0	1	11	equals-sign
+71008393c0	1	17	greater-than-sign
+71008393d8	1	13	question-mark
+71008393e8	1	13	commercial-at
+7100839458	1	19	left-square-bracket
+7100839470	1	9	backslash
+7100839480	1	20	right-square-bracket
+7100839498	1	10	circumflex
+71008394a8	1	10	underscore
+71008394b8	1	12	grave-accent
+7100839500	1	18	left-curly-bracket
+7100839518	1	13	vertical-line
+7100839528	1	19	right-curly-bracket
+7100839540	1	5	tilde
+7100839550	2	5	alnum
+7100839558	2	5	alpha
+7100839560	1	5	blank
+7100839568	2	5	cntrl
+7100839570	2	5	graph
+7100839578	2	5	lower
+7100839580	2	5	print
+7100839588	2	5	punct
+7100839590	2	5	upper
+7100839598	2	6	xdigit
+71008395a0	0	54	Invalid '\xNN' control character in regular expression
+71008395d8	0	56	Invalid '\uNNNN' control character in regular expression
+7100839618	1	53	invalid '\cX' control character in regular expression
+7100839650	1	43	Invalid escape at end of regular expression
+7100839680	1	59	Invalid '(?...)' zero-width assertion in regular expression
+71008396c0	1	53	Incomplete '[[' character class in regular expression
+71008396f8	5	14	^$\.*+?()[]{}|
+7100839708	3	6	.[\*^$
+7100839710	4	12	.[\()*+?{|^$
+7100839720	1	7	.[\*^$\n
+7100839728	1	13	.[\()*+?{|^$\n
+7100839738	18	144	Number of NFA states exceeds limit. Please use shorter regex string, or use smaller brace expression, or make _GLIBCXX_REGEX_STATE_LIMIT larger.
+71008397d0	1	22	invalid back reference
+71008397e8	1	45	Unexpected back-reference in polynomial mode.
+7100839818	1	58	Back-reference index exceeds current sub-expression count.
+7100839858	1	52	Back-reference referred to an opened sub-expression.
+7100839890	8	24	Invalid character class.
+71008398b0	4	24	Invalid collate element.
+71008398d0	4	26	Invalid equivalence class.
+71008398f0	4	52	Invalid start of '[x-x]' range in regular expression
+7100839928	4	36	Invalid range in bracket expression.
+7100839950	4	50	Invalid end of '[x-x]' range in regular expression
+7100839988	4	66	Invalid location of '-' within '[...]' in POSIX regular expression
+71008399d0	4	57	Unexpected character within '[...]' in regular expression
+7100839a10	1	27	conflicting grammar options
+7100839a40	2	26	Can not read ticket for {}
+7100839a78	1	7	Cleanup
+7100839a80	11	11	Application
+7100839a90	2	6	Update
+7100839a98	1	6	AddOn 
+7100839aa8	1	12	AddOnUpdate 
+7100839ab8	1	12	Unknown type
+7100839b80	11	7	Unknown
+7100839b88	1	40	RARCopyHelper::read should not be called
+7100839bb8	1	41	7ZIPCopyHelper::read should not be called
+7100839be8	1	40	ZIPCopyHelper::read should not be called
+7100839c18	3	23	Operation not supported
+7100839c38	1	26	Error reading input stream
+7100839c60	4	5	https
+7100839cc0	0	22	Exception while copy '
+7100839ce0	0	11	Exception: 
+7100839cf0	1	30	Invalid scheme for this helper
+7100839d10	2	17	Can not find save
+7100839d28	1	19	Unsupported scheme 
+7100839d48	2	35	Length must be multiple of sectors!
+7100839d70	1	14	Bad encryption
+7100839d80	1	14	Bad decryption
+7100839d90	0	42	Length must be multiple of AES_BLOCK_SIZE!
+7100839dc0	1	43	Failed to export exponentiated RSA message!
+7100839df0	1	15	RZN8MsG1rduUwzQ
+7100839e00	1	14	1X+0uVXbzRf2rF
+7100839e10	9	13	Invalid UTF-8
+7100839e20	1	14	Invalid UTF-16
+7100839e30	2	16	Not enough space
+7100839e48	3	5	%d;%n
+7100839e58	1	10	%u;%u;%u%n
+7100839e68	12	23	basic_string::_M_create
+7100839f08	1	12	{:.{}f} {:s}
+7100839f18	2	6	[%dA%n
+7100839f20	2	6	[%dB%n
+7100839f28	2	6	[%dC%n
+7100839f30	2	6	[%dD%n
+7100839f38	2	8	[%d;%d%c
+7100839f48	2	6	[%d;%c
+7100839f50	2	6	[;%d%c
+7100839f60	3	5	%dm%n
+7100839f68	1	22	{:02d}:{:02d}:{:06.3f}
+7100839f80	1	15	{:02d}:{:06.3f}
+7100839f90	3	20	Unsupported encoding
+7100839fa8	22	25	basic_string_view::substr
+7100839fc8	22	48	%s: __pos (which is %zu) > __size (which is %zu)
+710083a068	10	9	romfs.bin
+710083a088	1	7	{:016x}
+710083a090	1	26	/atmosphere/exefs_patches/
+710083a0c0	1	9	 Profile 
+710083a0d0	1	7	 Level 
+710083a0d8	1	17	AAC (Object Type 
+710083a0f0	4	9	Unknown (
+710083a100	2	16	Unexpected error
+710083a120	2	7	control
+710083a130	2	17	legal_information
+710083a148	2	13	html_document
+710083a158	4	8	Program 
+710083a168	2	6	vfsvfs
+710083a180	1	18	{"titles":[{"id":"
+710083a198	1	21	","required_version":
+710083a1b0	1	11	,"version":
+710083a1c0	1	38	}],"format_version":1,"last_modified":
+710083a1e8	22	10	MemoryFile
+710083a1f8	6	15	override_config
+710083a208	3	15	override_region
+710083a218	3	17	override_language
+710083a230	5	6	SDCard
+710083a238	2	8	PRODINFO
+710083a280	2	5	en-US
+710083a288	2	5	en-GB
+710083a2c8	2	7	zh-Hant
+710083a2d0	2	7	zh-Hans
+710083a321	1	18	[38;2;220;220;220m
+710083a348	0	41	[37;1m, TitleId: {:016X}, Version: {}({})
+710083a390	1	11	UnknownUser
+710083a3a0	3	7	<Error>
+710083a3b0	6	6	Device
+710083a3b8	3	6	Cache 
+710083a3c0	2	9	SD Cache 
+710083a440	1	13	Not available
+710083a468	1	43	nintendosdk_(.*?)-(\d+)_(\d+)_(\d+)-release
+710083a4b0	2	17	ScreenIdleTimeout
+710083a648	1	11	Unreachable
+710083a658	27	73	vector::_M_range_check: __n (which is %zu) >= this->size() (which is %zu)
+710083a6a8	6	79	vector<bool>::_M_range_check: __n (which is %zu) >= this->size() (which is %zu)
+710083a6f8	2	23	Mask value out of range
+710083a710	1	27	Version number out of range
+710083a730	3	16	Invalid argument
+710083a748	1	19	Degree out of range
+710083a760	2	13	Invalid value
+710083a770	6	25	vector::_M_realloc_insert
+710083a790	1	18	Value out of range
+710083a7a8	1	13	Data too long
+710083a7b8	1	38	String contains non-numeric characters
+710083a7e0	1	59	String contains unencodable characters in alphanumeric mode
+710083a820	0	33	ECI assignment value out of range
+710083a848	1	26	Version value out of range
+710083a868	1	16	Segment too long
+710083a880	1	14	Data length = 
+710083a890	1	7	 bits, 
+710083a898	1	15	Max capacity = 
+710083a8a8	1	5	 bits
+710083a8b0	1	29	vector<bool>::_M_insert_range
+710083a8d0	3	45	0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ $%*+-./:
+710083a900	1	27	vector<bool>::_M_insert_aux
+710083a920	2	5	saves
+710083a928	5	11	SavesFolder
+710083a938	4	23	sdmc:/switch/DBI/saves/
+710083a970	2	7	TitleId
+710083a978	3	9	TitleName
+710083a988	3	10	BackupDate
+710083a9a0	1	32	Can not create output zip file: 
+710083a9c8	1	6	<file>
+710083a9d0	1	5	<DIR>
+710083a9d8	1	12	Create dir: 
+710083a9e8	1	13	Committing FS
+710083a9f8	1	13	Create file: 
+710083aa10	1	14	Opening file: 
+710083aa20	1	17	Writing to file: 
+710083aa38	1	14	Committing FS 
+710083aa48	1	10	SaveBackup
+710083aa58	1	34	Backup of {} saves. Only newer: {}
+710083aa88	1	11	Save {}: {}
+710083aa98	1	20	Skipping save backup
+710083aab0	0	7	Error: 
+710083aab8	1	19	FoolproofSaveDelete
+710083aad0	0	26	Error backup restoring: {}
+710083aaf0	0	6	SdUser
+710083aaf8	1	9	TitleId: 
+710083ab08	1	9	Space  : 
+710083ab18	1	9	Type   : 
+710083ab28	1	9	User   : 
+710083ab38	1	9	Uid    : 
+710083ab48	1	9	Index  : 
+710083ab60	1	14	Restore failed
+710083ab70	1	9	Exception
+710083ab90	1	11	Space    : 
+710083aba0	1	11	Type     : 
+710083abb0	1	11	Account  : 
+710083abc0	1	11	Sys Id   : 
+710083abd0	1	11	App Id   : 
+710083abe0	1	11	Size     : 
+710083abf0	1	11	Index    : 
+710083ac00	1	11	Rank     : 
+710083ac10	1	11	Owner    : 
+710083ac20	1	17	%Y.%m.%d %H:%M:%S
+710083ac38	1	11	Timestamp: 
+710083ac48	1	11	Flags    : 
+710083ac58	1	11	D. Size  : 
+710083ac68	1	11	J. Size  : 
+710083ac78	1	11	Commit Id: 
+710083ac88	1	11	SaveRestore
+710083ac98	3	8	SD Cache
+710083aca8	1	19	Initialize timezone
+710083acc0	1	34	timeGetDeviceLocationName failed: 
+710083ace8	1	21	Location name: '{:s}'
+710083ad00	1	52	Additional info: tzName: '{:s}', offset: {}, DST: {}
+710083ad38	2	12	%Y%m%d%H%M%S
+710083ad48	1	17	%Y-%m-%d %H:%M:%S
+710083ad60	1	36	Content meta data size is too small!
+710083ad98	2	12	RotateScreen
+710083ada8	1	12	gamecard.xci
+710083adc8	1	5	].xci
+710083add0	1	12	RotateJoycon
+710083ade0	1	10	Autorepeat
+710083adf0	1	11	 is missing
+710083ae00	0	15	eticket_rsa_kek
+710083ae10	0	28	eticket_rsa_kek_personalized
+710083ae30	0	14	maker_note_key
+710083ae40	0	18	application_id_key
+710083ae58	0	31	key_area_key_application_{:02x}
+710083ae78	0	25	key_area_key_ocean_{:02x}
+710083ae98	0	26	key_area_key_system_{:02x}
+710083aec8	2	22	Failed to read section
+710083aee0	1	17	Invalid NCA magic
+710083aef8	1	17	RawNcaSubsection@
+710083af18	2	28	There is no single cnmt file
+710083af38	1	22	PFS0 section not found
+710083af50	3	13	/control.nacp
+710083af60	3	28	Valid control.nacp not found
+710083af80	1	23	RomFS section not found
+710083af98	1	21	DecodedNcaSubsection@
+710083afb8	1	5	.cert
+710083afc0	1	13	Access denied
+710083afd0	1	26	Error: Invalid PFS0 magic!
+710083aff0	15	12	Access point
+710083b000	12	5	UseAP
+710083b008	1	10	ticket.tik
+710083b018	1	13	WipeSignature
+710083b028	3	26	Root-CA00000003-XS00000020
+710083b048	11	11	DumpsFolder
+710083b058	10	23	sdmc:/switch/DBI/dumps/
+710083b090	1	9	EcdsaSha1
+710083b0a5	1	8	96Sha256
+710083b0b5	1	8	48Sha256
+710083b0c0	1	11	EcdsaSha256
+710083b0e0	1	7	Invalid
+710083b0e8	1	9	Permanent
+710083b0f8	1	5	Trial
+710083b100	1	6	Rental
+710083b108	1	12	Subscription
+710083b118	1	7	Service
+710083b120	6	6	Common
+710083b128	1	12	Personalized
+710083b138	1	18	Signature       : 
+710083b150	1	18	Issuer          : 
+710083b168	1	18	Format version  : 
+710083b180	1	18	Type            : 
+710083b198	1	18	Version         : 
+710083b1b0	1	18	License         : 
+710083b1c8	1	18	Key generation  : 
+710083b1e0	1	18	Properties      : 
+710083b1f8	1	34	                : Pre Installation
+710083b220	1	30	                : Shared Title
+710083b240	1	30	                : All Contents
+710083b260	1	40	                : Device Link Indepedent
+710083b290	1	27	                : Temporary
+710083b2b0	1	35	                : ELicense Required
+710083b2d8	1	18	Ticket ID       : 
+710083b2f0	1	18	Device ID       : 
+710083b308	1	18	RightsId        : 
+710083b320	1	18	Enc. title key  : 
+710083b338	1	18	Dec. title key  : 
+710083b350	0	32	Exception during listing XCI: {}
+710083b378	1	18	Can not read block
+710083b390	0	32	FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+710083b3b8	2	5	Root-
+710083b3c0	1	9	{:d}.{:d}
+710083b3d0	1	13	{:04X}-{:04X}
+710083b3e0	1	9	{:d}/{:d}
+710083b3f8	6	7	Russian
+710083b400	1	15	AmericanEnglish
+710083b410	1	14	BritishEnglish
+710083b420	6	6	German
+710083b428	1	20	LatinAmericanSpanish
+710083b440	6	7	Spanish
+710083b448	6	7	Italian
+710083b450	6	5	Dutch
+710083b458	1	14	CanadianFrench
+710083b468	6	10	Portuguese
+710083b478	6	6	Korean
+710083b480	1	18	TraditionalChinese
+710083b498	1	17	SimplifiedChinese
+710083b4b0	1	19	BrazilianPortuguese
+710083b4c8	2	6	/icon_
+710083b4e0	1	7	DBI MTP
+710083b4e8	1	11	DBI Backend
+710083b4f8	2	9	SingleURB
+710083b508	1	31	write: USB communication failed
+710083b528	1	32	read. USB communication failed: 
+710083b550	1	12	 readSize = 
+710083b560	1	20	Invalid ack received
+710083b578	1	25	Invalid response received
+710083b5b0	1	16	RWSameBrightness
+710083b5d0	1	10	TempFolder
+710083b5e0	1	22	sdmc:/switch/DBI/temp/
+710083b5f8	2	9	CheckHash
+710083b608	1	15	PatchScreenshot
+710083b618	1	13	PatchVideoRec
+710083b628	1	24	PatchMasterKeyGeneration
+710083b648	1	12	Patch21Names
+710083b668	13	56	.*\.?\[?([0-9a-fA-F]{16})\]?(\[v([0-9]+)\])?\.romfs\.bin
+710083b6f0	1	7	{:016X}
+710083b730	14	5	.jpeg
+710083b748	13	5	.webp
+710083b7b8	13	5	.json
+710083b7d0	13	5	.conf
+710083b7d8	13	10	dbi.config
+710083b7e8	13	13	dbi.locations
+710083b810	3	8	manifest
+710083b820	1	7	titleid
+710083b828	1	8	patchset
+710083b838	1	45	Manifest file not found. Installation aborted
+710083b890	2	16	Invalid filename
+710083b8a8	2	9	CreateLFS
+710083b8b8	1	6	secure
+710083b8c0	1	12	storage_root
+710083b8d0	2	7	Request
+710083b8d8	1	15	[[Binary data: 
+710083b8e8	1	8	 bytes]]
+710083b900	1	19	Start MTP debug log
+710083b918	3	22	ReportAndroidExtension
+710083b930	1	20	Android extensions: 
+710083b948	1	20	Finish MTP debug log
+710083b960	2	5	Other
+710083b968	1	42	{:04d}{:02d}{:02d}{:02d}{:02d}{:02d}{:02d}
+710083b9a8	1	5	 DLC 
+710083b9b0	0	22	Error during scanning 
+710083b9c8	2	7	ShowMAC
+710083b9d0	1	13	Mods & Cheats
+710083b9e0	2	10	BufferSize
+710083b9f0	2	16	NewBufferTimeout
+710083ba10	1	14	 (trimmed).xci
+710083ba20	1	17	gamecard_cert.dat
+710083ba38	1	10	/SD_Cache.
+710083ba48	1	15	Installed games
+710083ba58	0	17	Uninstalled games
+710083ba78	1	10	System    
+710083ba88	1	10	Account   
+710083baa8	1	10	Device    
+710083bab8	1	10	Temporary 
+710083bac8	1	10	Cache     
+710083bad8	1	10	SystemBCAT
+710083bae8	2	13	UnknownUser [
+710083baf8	4	6	Cache.
+710083bb08	4	5	stoul
+710083bb10	2	25	%04d%02d%02dT%02d%02d%02d
+710083bb30	1	37	microsoft.com: 1.0; android.com: 1.0;
+710083bb58	1	19	microsoft.com: 1.0;
+710083bb70	6	8	Nintendo
+710083bb80	1	6	Switch
+710083bb88	1	19	AutoremoveInstalled
+710083bba0	2	14	MinPassivePort
+710083bbb0	2	14	MaxPassivePort
+710083bbc8	1	9	%b %e %Y 
+710083bbe8	1	8	Type=%s;
+710083bbf8	1	10	Size=%lld;
+710083bc08	1	20	Modify=%Y%m%d%H%M%S;
+710083bc28	1	15	UNIX.mode=0%lo;
+710083bc38	1	40	%c%c%c%c%c%c%c%c%c%c %lu user user %lld 
+710083bc90	3	5	%s/%s
+710083bcb8	3	5	Type;
+710083bcc0	5	5	Size;
+710083bcc8	2	7	Modify;
+710083bcd0	1	5	Perm;
+710083bcd8	2	10	UNIX.mode;
+710083bcf0	1	7	UTF8 ON
+710083bcf8	1	9	UTF8 NLST
+710083bd08	1	5	MLST 
+710083bd10	1	6	"{:s}"
+710083bd28	1	12	FREESPACE SD
+710083bd38	1	14	FREESPACE NAND
+710083bd48	1	13	TOTALSPACE SD
+710083bd58	1	15	TOTALSPACE NAND
+710083bda0	2	10	UseWaitAll
+710083bdb8	1	12	File status.
+710083bdd8	1	5	USER 
+710083bde0	1	5	PASS 
+710083bde8	1	40	Missing path argument for file transfer\n
+710083be18	2	5	TYPE 
+710083be48	1	21	Invalid open type %d\n
+710083be60	1	16	Invalid mode %c\n
+710083be90	1	22	PORT %d,%d,%d,%d,%d,%d
+710083bea8	1	5	REST 
+710083beb0	1	32	timed out waiting for connection
+710083bed8	0	5	SITE 
+710083bf00	1	5	SIZE 
+710083bf08	1	5	%d %u
+710083bf30	1	5	DELE 
+710083bf38	1	9	FtpClient
+710083bfc8	1	6	DLC {}
+710083bfd0	1	17	Moved permanently
+710083bfe8	1	7	\n{}: {}
+710083c008	1	5	WIFI:
+710083c010	1	6	T:WPA;
+710083c030	1	7	Timeout
+710083c038	1	8	ForcedUA
+710083c048	2	11	ValidateSSL
+710083c058	10	8	identity
+710083c068	1	9	CustomDNS
+710083c078	1	8	Depth: 1
+710083c088	1	8	PROPFIND
+710083c098	1	6	DELETE
+710083c0a0	1	5	MKCOL
+710083c0b0	2	5	HTTP/
+710083c0b8	4	7	default
+710083c0c0	1	10	Switch-DBI
+710083c0d0	2	7	Use5GHz
+710083c0d8	2	6	Hidden
+710083c0e0	1	9	7ZIP file
+710083c0f0	1	20	DBI update URL found
+710083c108	1	59	<a href="([^"]+)">([^<]+)</a>|<A HREF="([^"]+)">([^<]+)</A>
+710083c170	1	6	&emsp;
+710083c178	1	5	&#39;
+710083c190	9	7	http://
+710083c198	6	8	https://
+710083c1a8	1	27	Directories: {}, Files: {}
+710083c1c8	1	10	[{}/{}] {}
+710083c1e0	1	14	Unknown scheme
+710083c1f8	1	42	Can not create file for installable object
+710083c228	1	22	Not installable object
+710083c240	2	22	Output file not opened
+710083c258	2	21	Input file not opened
+710083c270	1	18	Not a directory :'
+710083c2a8	1	6	saveSD
+710083c2b0	1	25	Can not find mounted save
+710083c2d0	0	21	VFSFS::getEntryType '
+710083c2e8	1	12	OPTS UTF8 ON
+710083c2f8	2	9	ForceUtf8
+710083c308	1	9	OPTS UTF8
+710083c318	1	14	Let's try MLSD
+710083c328	1	27	OK. No MLSD. Let's try LIST
+710083c348	1	9	Dir line:
+710083c360	1	9	type=file
+710083c370	1	5	size=
+710083c378	1	9	type=cdir
+710083c388	1	36	Can not connect to specified address
+710083c3b8	3	5	array
+710083c3c0	1	7	boolean
+710083c3c8	4	6	binary
+710083c3d0	3	9	discarded
+710083c3e0	3	12	out_of_range
+710083c3f0	2	11	parse_error
+710083c400	2	9	 at line 
+710083c410	2	9	, column 
+710083c420	2	11	parse error
+710083c430	5	10	type_error
+710083c440	1	16	invalid_iterator
+710083c458	8	16	cannot get value
+710083c470	3	28	type must be string, but is 
+710083c490	1	16	[json.exception.
+710083c4a8	4	8	<U+%.4X>
+710083c4b8	2	15	<uninitialized>
+710083c4c8	4	12	true literal
+710083c4d8	4	13	false literal
+710083c4e8	4	12	null literal
+710083c4f8	4	14	string literal
+710083c508	4	14	number literal
+710083c548	8	13	unknown token
+710083c558	4	12	end of input
+710083c568	4	22	'[', '{', or a literal
+710083c580	2	13	<parse error>
+710083c590	3	13	syntax error 
+710083c5a0	2	14	while parsing 
+710083c5b8	2	14	; last read: '
+710083c5c8	2	11	unexpected 
+710083c5d8	2	11	; expected 
+710083c5e8	1	21	cannot use at() with 
+710083c600	1	5	key '
+710083c608	1	11	' not found
+710083c618	1	35	iterator does not fit current value
+710083c640	1	21	iterator out of range
+710083c658	1	24	cannot use erase() with 
+710083c678	3	48	cannot compare iterators of different containers
+710083c6b0	3	28	type must be number, but is 
+710083c6d0	4	37	invalid string: ill-formed UTF-8 byte
+710083c6f8	2	77	invalid string: control character U+000A (LF) must be escaped to \u000A or \n
+710083c748	2	37	invalid string: missing closing quote
+710083c770	2	53	invalid string: '\u' must be followed by 4 hex digits
+710083c7a8	2	75	invalid string: surrogate U+D800..U+DBFF must be followed by U+DC00..U+DFFF
+710083c7f8	2	67	invalid string: surrogate U+DC00..U+DFFF must follow U+D800..U+DBFF
+710083c840	2	51	invalid string: forbidden character after backslash
+710083c878	2	72	invalid string: control character U+0000 (NUL) must be escaped to \u0000
+710083c8c8	2	72	invalid string: control character U+0001 (SOH) must be escaped to \u0001
+710083c918	2	72	invalid string: control character U+0002 (STX) must be escaped to \u0002
+710083c968	2	72	invalid string: control character U+0003 (ETX) must be escaped to \u0003
+710083c9b8	2	72	invalid string: control character U+0004 (EOT) must be escaped to \u0004
+710083ca08	2	72	invalid string: control character U+0005 (ENQ) must be escaped to \u0005
+710083ca58	2	72	invalid string: control character U+0006 (ACK) must be escaped to \u0006
+710083caa8	2	72	invalid string: control character U+0007 (BEL) must be escaped to \u0007
+710083caf8	2	77	invalid string: control character U+0008 (BS) must be escaped to \u0008 or \b
+710083cb48	2	77	invalid string: control character U+0009 (HT) must be escaped to \u0009 or \t
+710083cb98	2	71	invalid string: control character U+000B (VT) must be escaped to \u000B
+710083cbe0	2	77	invalid string: control character U+000C (FF) must be escaped to \u000C or \f
+710083cc30	2	77	invalid string: control character U+000D (CR) must be escaped to \u000D or \r
+710083cc80	2	71	invalid string: control character U+000E (SO) must be escaped to \u000E
+710083ccc8	2	71	invalid string: control character U+000F (SI) must be escaped to \u000F
+710083cd10	2	72	invalid string: control character U+0010 (DLE) must be escaped to \u0010
+710083cd60	2	72	invalid string: control character U+0011 (DC1) must be escaped to \u0011
+710083cdb0	2	72	invalid string: control character U+0012 (DC2) must be escaped to \u0012
+710083ce00	2	72	invalid string: control character U+0013 (DC3) must be escaped to \u0013
+710083ce50	2	72	invalid string: control character U+0014 (DC4) must be escaped to \u0014
+710083cea0	2	72	invalid string: control character U+0015 (NAK) must be escaped to \u0015
+710083cef0	2	72	invalid string: control character U+0016 (SYN) must be escaped to \u0016
+710083cf40	2	72	invalid string: control character U+0017 (ETB) must be escaped to \u0017
+710083cf90	2	72	invalid string: control character U+0018 (CAN) must be escaped to \u0018
+710083cfe0	2	71	invalid string: control character U+0019 (EM) must be escaped to \u0019
+710083d028	2	72	invalid string: control character U+001A (SUB) must be escaped to \u001A
+710083d078	2	72	invalid string: control character U+001B (ESC) must be escaped to \u001B
+710083d0c8	2	71	invalid string: control character U+001C (FS) must be escaped to \u001C
+710083d110	2	71	invalid string: control character U+001D (GS) must be escaped to \u001D
+710083d158	2	71	invalid string: control character U+001E (RS) must be escaped to \u001E
+710083d1a0	2	71	invalid string: control character U+001F (US) must be escaped to \u001F
+710083d1e8	2	40	invalid number; expected digit after '.'
+710083d218	2	40	invalid number; expected digit after '-'
+710083d248	2	50	invalid number; expected digit after exponent sign
+710083d280	2	58	invalid number; expected '+', '-', or digit after exponent
+710083d2c0	2	47	invalid comment; expecting '/' or '*' after '/'
+710083d2f0	2	44	invalid BOM; must be 0xEF 0xBB 0xBF if given
+710083d320	3	15	invalid literal
+710083d330	2	37	invalid comment; missing closing '*/'
+710083d358	6	10	object key
+710083d368	6	16	object separator
+710083d380	3	25	number overflow parsing '
+710083d3a0	3	101	attempting to parse an empty input; check that your input string or stream contains the expected JSON
+710083d408	1	11	MTP Browser
+710083d418	1	31	Moving object not supported yet
+710083d438	2	19	Invalid target path
+710083d450	1	21	Source file not found
+710083d468	1	13	Rename failed
+710083d478	1	42	Invalid target path. Parent does not exist
+710083d4a8	1	40	Invalid target path. Parent not a folder
+710083d4d8	1	43	Object with different format already exists
+710083d510	1	8	nsp_file
+710083d520	1	8	RAR file
+710083d530	1	9	RomFS.bin
+710083d540	2	40	Expression does not evaluate to node set
+710083d570	4	13	Unknown error
+710083d580	1	18	File was not found
+710083d598	1	30	Error reading from file/stream
+710083d5b8	1	25	Could not allocate memory
+710083d5d8	1	23	Internal error occurred
+710083d5f0	1	28	Could not determine tag type
+710083d610	1	57	Error parsing document declaration/processing instruction
+710083d650	1	21	Error parsing comment
+710083d668	1	27	Error parsing CDATA section
+710083d688	1	39	Error parsing document type declaration
+710083d6b0	1	28	Error parsing PCDATA section
+710083d6d0	1	31	Error parsing start element tag
+710083d6f0	1	31	Error parsing element attribute
+710083d710	1	29	Error parsing end element tag
+710083d730	1	23	Start-end tags mismatch
+710083d748	1	58	Unable to append nodes: root is not an element or document
+710083d788	1	25	No document element found
+710083d7a8	1	24	*[local-name() = 'href']
+710083d7c8	1	53	*[local-name() = 'propstat']/*[local-name() = 'prop']
+710083d800	1	9	<Unknown>
+710083d810	1	28	*[local-name() = 'file_url']
+710083d830	1	31	*[local-name() = 'displayname']
+710083d850	1	32	*[local-name() = 'resourcetype']
+710083d878	1	30	*[local-name() = 'collection']
+710083d898	1	36	*[local-name() = 'getcontentlength']
+710083d8c0	1	28	Server returns empty content
+710083d8e0	1	62	//*[local-name() = 'multistatus']/*[local-name() = 'response']
+710083d928	2	8	Infinity
+710083d938	0	9	-Infinity
+710083d968	6	36	Exceeded maximum allowed query depth
+710083d990	1	46	Unknown variable: variable set is not provided
+710083d9c0	1	62	Unknown variable: variable set does not contain the given name
+710083da00	1	36	Expected ')' to match an opening '('
+710083da28	1	26	Unrecognized function call
+710083da48	1	35	No comma between function arguments
+710083da70	1	5	count
+710083da78	1	8	contains
+710083da88	2	38	Function has to be applied to node set
+710083dab0	1	6	concat
+710083dab8	1	7	ceiling
+710083dac0	1	5	floor
+710083dad8	1	10	local-name
+710083dae8	1	13	namespace-uri
+710083daf8	1	15	normalize-space
+710083db10	1	8	position
+710083db20	1	13	string-length
+710083db30	1	11	starts-with
+710083db40	1	16	substring-before
+710083db58	1	15	substring-after
+710083db68	1	9	substring
+710083db80	1	9	translate
+710083db90	1	46	Unrecognized function or wrong parameter count
+710083dbc0	1	33	Unrecognizable primary expression
+710083dbe8	2	7	comment
+710083dbf8	3	22	processing-instruction
+710083dc18	1	39	Predicate has to be applied to node set
+710083dc40	2	36	Expected ']' to match an opening '['
+710083dc68	2	34	Step has to be applied to node set
+710083dc90	1	45	Union operator has to be applied to node sets
+710083dcc0	1	52	Predicates are not allowed after an abbreviated step
+710083dcf8	1	31	Two axis specifiers in one step
+710083dd18	1	8	ancestor
+710083dd28	1	16	ancestor-or-self
+710083dd40	1	9	attribute
+710083dd50	1	5	child
+710083dd58	1	10	descendant
+710083dd68	1	18	descendant-or-self
+710083dd80	1	9	following
+710083dd90	1	17	following-sibling
+710083dda8	1	9	namespace
+710083ddb8	1	6	parent
+710083ddc0	1	9	preceding
+710083ddd0	1	17	preceding-sibling
+710083ddf0	1	12	Unknown axis
+710083de00	2	22	Unrecognized node test
+710083de18	1	22	Unrecognized node type
+710083de30	1	66	Only literals are allowed as arguments to processing-instruction()
+710083de78	1	45	Unmatched brace near processing-instruction()
+710083dea8	1	35	Unmatched brace near node type test
+710083ded0	1	8	xml:lang
+710083dee0	1	14	Internal error
+710083def0	2	15	Incorrect query
+710083df00	1	8	ZIP file
+710083df10	1	10	    {:04d}
+710083df20	1	12	      {:02d}
+710083df30	1	12	   {:02d}:00
+710083df48	1	15	PlaySessionInfo
+710083df60	2	13	Read data >>>
+710083df70	1	13	Read data <<<
+710083e040	1	11	{:>4}:{:02}
+710083e098	1	9	ExportSDK
+710083e0b0	1	11	MovingTitle
+710083e0e0	7	10	lfs_folder
+710083e0f8	2	9	exefs.nsp
+710083e108	1	12	CreateRepack
+710083e118	1	5	??? [
+710083e120	2	10	PackFolder
+710083e130	1	6	exefs/
+710083e138	2	8	X{:016X}
+710083e170	2	25	Deleting source folder...
+710083e190	3	14	CERO         :
+710083e1a0	1	14	GRACGCRB     :
+710083e1b0	1	14	GSRMR        :
+710083e1c0	1	14	ESRB         :
+710083e1d0	1	14	ClassInd     :
+710083e1e0	1	14	USK          :
+710083e1f0	1	14	PEGI         :
+710083e200	1	14	PEGIPortugal :
+710083e210	1	14	PEGIBBFC     :
+710083e220	1	14	Russian      :
+710083e230	1	14	ACB          :
+710083e240	1	14	OFLC         :
+710083e250	1	14	IARC         :
+710083e260	7	14	DumpForwarders
+710083e270	2	9	Account: 
+710083e290	1	6	User: 
+710083e2c0	1	7	[???? (
+710083e2e8	1	14	              
+710083e2f8	1	6	 BID: 
+710083e300	3	12	Applications
+710083e310	3	16	CalculateLFSSize
+710083e348	1	7	 BID: -
+710083e350	1	14	CheckIntegrity
+710083e360	11	6	sdmc:/
+710083e380	2	5	Night
+710083e388	2	5	Sepia
+710083e398	9	5	Theme
+710083e3b8	4	11	Orientation
+710083e3c8	2	9	LogEvents
+710083e3d8	2	16	HighlightUpdates
+710083e3f0	1	18	OptimizeClockSpeed
+710083e408	3	8	ROSaveFS
+710083e418	2	18	ShowUpdateFromHere
+710083e430	3	10	LogsFolder
+710083e440	2	22	sdmc:/switch/DBI/logs/
+710083e458	4	11	VersionsURL
+710083e468	1	68	https://raw.githubusercontent.com/blawar/titledb/master/versions.txt
+710083e4b0	2	25	ShowCacheWarmingIndicator
+710083e4d0	4	14	MoveDownAfterX
+710083e4e0	2	12	Secondcursor
+710083e4f0	1	8	TimeShow
+710083e500	2	15	TimeShowSeconds
+710083e510	2	22	AutoSaveBackupInterval
+710083e528	1	8	MACasTID
+710083e538	4	13	TurnOffScreen
+710083e548	1	18	Android extensions
+710083e560	30	8	MainMenu
+710083e570	2	8	BrowseSD
+710083e580	2	12	BrowseSystem
+710083e590	2	10	BrowseUser
+710083e5a0	2	7	USBHost
+710083e5a8	2	14	BackendInstall
+710083e5b8	7	8	GameCard
+710083e5c8	2	7	Network
+710083e5d0	2	10	BrowseApps
+710083e5e0	2	5	Tools
+710083e5e8	2	7	Tickets
+710083e5f0	3	5	Saves
+710083e5f8	18	12	MTP Storages
+710083e608	3	10	1: SD Card
+710083e618	1	7	SD Card
+710083e620	3	12	2: Nand USER
+710083e630	1	9	Nand USER
+710083e640	3	14	3: Nand SYSTEM
+710083e650	1	11	Nand SYSTEM
+710083e660	3	18	4: Installed games
+710083e678	1	15	SD Card install
+710083e688	3	18	5: SD Card install
+710083e6a0	3	15	6: NAND install
+710083e6b0	1	12	NAND install
+710083e6c0	2	8	7: Saves
+710083e6d0	2	5	Album
+710083e6d8	2	8	8: Album
+710083e6e8	3	11	9: Gamecard
+710083e6f8	1	8	Gamecard
+710083e708	2	14	CustomStorages
+710083e728	1	8	Password
+710083e738	2	11	Hyphenation
+710083e748	4	5	     
+710083e768	1	11	ContentInfo
+710083e778	1	13	Application [
+710083e790	1	12	control.nacp
+710083e7a0	1	16	Storage record [
+710083e7b8	1	20	Type   : Application
+710083e7d0	1	15	Type   : Update
+710083e7e0	1	21	Type   : AddOnContent
+710083e7f8	1	20	Type   : AddOnUpdate
+710083e810	1	9	Version: 
+710083e820	1	9	Storage: 
+710083e830	1	20	Content records ({})
+710083e848	1	19	-------------------
+710083e860	1	13	ContentId  : 
+710083e870	1	13	Record size: 
+710083e880	1	13	Actual size: 
+710083e890	1	13	Type       : 
+710083e8a0	1	13	ProgramId  : 
+710083e8b0	1	14	Reading NCA...
+710083e8c0	1	20	Distribution type : 
+710083e8d8	1	20	Content type      : 
+710083e8f0	1	20	Key generation old: 
+710083e908	1	20	kaek index        : 
+710083e920	1	20	Content size      : 
+710083e938	1	20	Program ID        : 
+710083e950	1	20	Content index     : 
+710083e968	1	20	SDK addon version : 
+710083e980	1	20	Key generation    : 
+710083e998	1	20	Sig key generation: 
+710083e9b0	1	20	RightsId          : 
+710083e9c8	1	8	Section[
+710083e9d8	1	12	start sect: 
+710083e9e8	1	12	end sect  : 
+710083e9f8	1	12	length    : 
+710083ea08	1	12	Version   : 
+710083ea18	4	8	 Unknown
+710083ea28	1	12	FS type   : 
+710083ea38	1	12	Hash type : 
+710083ea48	1	12	Encryption: 
+710083ea58	1	17	Has patch info : 
+710083ea70	1	17	Has sparse info: 
+710083ea88	1	17	Has compression: 
+710083eaa0	1	33	Titlekey initialized successfully
+710083ead0	0	21	\n\nAn error occurred:\n
+710083eae8	5	11	Is optional
+710083eaf8	5	18	Free communication
+710083eb10	5	24	Suppress Gamecard Access
+710083eb30	5	12	svcUnknown00
+710083eb40	5	14	svcSetHeapSize
+710083eb50	5	22	svcSetMemoryPermission
+710083eb68	5	21	svcSetMemoryAttribute
+710083eb80	5	12	svcMapMemory
+710083eb90	5	14	svcUnmapMemory
+710083eba0	5	14	svcQueryMemory
+710083ebb0	5	14	svcExitProcess
+710083ebc0	5	15	svcCreateThread
+710083ebd0	5	14	svcStartThread
+710083ebe0	5	13	svcExitThread
+710083ebf0	5	14	svcSleepThread
+710083ec00	5	20	svcGetThreadPriority
+710083ec18	5	20	svcSetThreadPriority
+710083ec30	5	20	svcGetThreadCoreMask
+710083ec48	5	20	svcSetThreadCoreMask
+710083ec60	5	28	svcGetCurrentProcessorNumber
+710083ec80	5	14	svcSignalEvent
+710083ec90	5	13	svcClearEvent
+710083eca0	5	18	svcMapSharedMemory
+710083ecb8	5	20	svcUnmapSharedMemory
+710083ecd0	5	23	svcCreateTransferMemory
+710083ece8	5	14	svcCloseHandle
+710083ecf8	5	14	svcResetSignal
+710083ed08	5	22	svcWaitSynchronization
+710083ed20	5	24	svcCancelSynchronization
+710083ed40	5	16	svcArbitrateLock
+710083ed58	5	18	svcArbitrateUnlock
+710083ed70	5	27	svcWaitProcessWideKeyAtomic
+710083ed90	5	23	svcSignalProcessWideKey
+710083eda8	5	16	svcGetSystemTick
+710083edc0	5	21	svcConnectToNamedPort
+710083edd8	5	23	svcSendSyncRequestLight
+710083edf0	5	18	svcSendSyncRequest
+710083ee08	5	32	svcSendSyncRequestWithUserBuffer
+710083ee30	5	33	svcSendAsyncRequestWithUserBuffer
+710083ee58	5	15	svcGetProcessId
+710083ee68	5	14	svcGetThreadId
+710083ee78	5	8	svcBreak
+710083ee88	5	20	svcOutputDebugString
+710083eea0	5	22	svcReturnFromException
+710083eeb8	5	10	svcGetInfo
+710083eec8	5	23	svcFlushEntireDataCache
+710083eee0	5	17	svcFlushDataCache
+710083eef8	5	20	svcMapPhysicalMemory
+710083ef10	5	22	svcUnmapPhysicalMemory
+710083ef28	5	27	svcGetDebugFutureThreadInfo
+710083ef48	5	20	svcGetLastThreadInfo
+710083ef60	5	29	svcGetResourceLimitLimitValue
+710083ef80	5	31	svcGetResourceLimitCurrentValue
+710083efa0	5	20	svcSetThreadActivity
+710083efb8	5	20	svcGetThreadContext3
+710083efd0	5	17	svcWaitForAddress
+710083efe8	5	18	svcSignalToAddress
+710083f000	15	29	svcSynchronizePreemptionState
+710083f020	5	28	svcGetResourceLimitPeakValue
+710083f040	5	12	svcUnknown38
+710083f050	5	15	svcCreateIoPool
+710083f060	5	17	svcCreateIoRegion
+710083f078	5	12	svcUnknown3B
+710083f088	5	14	svcKernelDebug
+710083f098	5	25	svcChangeKernelTraceState
+710083f0b8	5	12	svcUnknown3E
+710083f0c8	5	12	svcUnknown3F
+710083f0d8	5	16	svcCreateSession
+710083f0f0	5	16	svcAcceptSession
+710083f108	5	23	svcReplyAndReceiveLight
+710083f120	5	18	svcReplyAndReceive
+710083f138	5	32	svcReplyAndReceiveWithUserBuffer
+710083f160	5	14	svcCreateEvent
+710083f170	5	14	svcMapIoRegion
+710083f180	5	16	svcUnmapIoRegion
+710083f198	5	26	svcMapPhysicalMemoryUnsafe
+710083f1b8	5	28	svcUnmapPhysicalMemoryUnsafe
+710083f1d8	5	17	svcSetUnsafeLimit
+710083f1f0	5	19	svcCreateCodeMemory
+710083f208	5	20	svcControlCodeMemory
+710083f220	5	14	svcSleepSystem
+710083f230	5	20	svcReadWriteRegister
+710083f248	5	21	svcSetProcessActivity
+710083f260	5	21	svcCreateSharedMemory
+710083f278	5	20	svcMapTransferMemory
+710083f290	5	22	svcUnmapTransferMemory
+710083f2a8	5	23	svcCreateInterruptEvent
+710083f2c0	5	23	svcQueryPhysicalAddress
+710083f2d8	5	21	svcQueryMemoryMapping
+710083f2f0	5	27	svcCreateDeviceAddressSpace
+710083f310	5	27	svcAttachDeviceAddressSpace
+710083f330	5	27	svcDetachDeviceAddressSpace
+710083f350	5	31	svcMapDeviceAddressSpaceByForce
+710083f370	5	31	svcMapDeviceAddressSpaceAligned
+710083f390	5	24	svcMapDeviceAddressSpace
+710083f3b0	5	26	svcUnmapDeviceAddressSpace
+710083f3d0	5	29	svcInvalidateProcessDataCache
+710083f3f0	5	24	svcStoreProcessDataCache
+710083f410	5	24	svcFlushProcessDataCache
+710083f430	5	21	svcDebugActiveProcess
+710083f448	5	20	svcBreakDebugProcess
+710083f460	5	24	svcTerminateDebugProcess
+710083f480	5	16	svcGetDebugEvent
+710083f498	5	21	svcContinueDebugEvent
+710083f4b0	5	17	svcGetProcessList
+710083f4c8	5	16	svcGetThreadList
+710083f4e0	5	24	svcGetDebugThreadContext
+710083f500	5	24	svcSetDebugThreadContext
+710083f520	5	26	svcQueryDebugProcessMemory
+710083f540	5	25	svcReadDebugProcessMemory
+710083f560	5	26	svcWriteDebugProcessMemory
+710083f580	5	24	svcSetHardwareBreakPoint
+710083f5a0	5	22	svcGetDebugThreadParam
+710083f5b8	5	12	svcUnknown6E
+710083f5c8	5	16	svcGetSystemInfo
+710083f5e0	5	13	svcCreatePort
+710083f5f0	5	18	svcManageNamedPort
+710083f608	5	16	svcConnectToPort
+710083f620	5	29	svcSetProcessMemoryPermission
+710083f640	5	19	svcMapProcessMemory
+710083f658	5	21	svcUnmapProcessMemory
+710083f670	5	21	svcQueryProcessMemory
+710083f688	5	23	svcMapProcessCodeMemory
+710083f6a0	5	25	svcUnmapProcessCodeMemory
+710083f6c0	5	16	svcCreateProcess
+710083f6d8	5	15	svcStartProcess
+710083f6e8	5	19	svcTerminateProcess
+710083f700	5	17	svcGetProcessInfo
+710083f718	5	22	svcCreateResourceLimit
+710083f730	5	29	svcSetResourceLimitLimitValue
+710083f750	5	20	svcCallSecureMonitor
+710083f768	5	22	svcSetMemoryAttribute2
+710083f780	5	12	svcUnknown81
+710083f790	5	12	svcUnknown82
+710083f7a0	5	12	svcUnknown83
+710083f7b0	5	12	svcUnknown84
+710083f7c0	5	12	svcUnknown85
+710083f7d0	5	12	svcUnknown86
+710083f7e0	5	12	svcUnknown87
+710083f7f0	5	12	svcUnknown88
+710083f800	5	12	svcUnknown89
+710083f810	5	12	svcUnknown8A
+710083f820	5	12	svcUnknown8B
+710083f830	5	12	svcUnknown8C
+710083f840	5	12	svcUnknown8D
+710083f850	5	12	svcUnknown8E
+710083f860	5	12	svcUnknown8F
+710083f870	5	28	svcMapInsecurePhysicalMemory
+710083f890	5	30	svcUnmapInsecurePhysicalMemory
+710083f8b0	5	15	ApplicationInfo
+710083f8c0	5	15	BootModeControl
+710083f8d0	5	11	Calibration
+710083f8e0	5	14	SystemSaveData
+710083f8f0	5	14	SaveDataBackUp
+710083f900	5	18	SaveDataManagement
+710083f918	5	9	BisAllRaw
+710083f928	5	11	GameCardRaw
+710083f938	5	15	GameCardPrivate
+710083f948	5	7	SetTime
+710083f950	5	14	ContentManager
+710083f960	5	12	ImageManager
+710083f970	5	14	CreateSaveData
+710083f980	5	24	SystemSaveDataManagement
+710083f9a0	5	13	BisFileSystem
+710083f9b0	5	12	SystemUpdate
+710083f9c0	5	12	SaveDataMeta
+710083f9d0	5	14	DeviceSaveData
+710083f9e0	5	15	SettingsControl
+710083f9f0	5	10	SystemData
+710083fa00	5	6	SdCard
+710083fa10	5	7	FillBis
+710083fa18	5	15	CorruptSaveData
+710083fa28	5	16	SaveDataForDebug
+710083fa40	5	12	FormatSdCard
+710083fa50	5	11	GetRightsId
+710083fa60	5	19	RegisterExternalKey
+710083fa78	5	23	RegisterUpdatePartition
+710083fa90	5	16	SaveDataTransfer
+710083faa8	5	15	DeviceDetection
+710083fab8	5	23	AccessFailureResolution
+710083fad0	5	24	SaveDataTransferVersion2
+710083faf0	5	27	RegisterProgramIndexMapInfo
+710083fb10	5	17	CreateOwnSaveData
+710083fb28	5	16	MoveCacheStorage
+710083fb40	5	14	DeviceTreeBlob
+710083fb50	5	30	NotifyErrorContextServiceReady
+710083fb70	5	21	CalibrationSystemData
+710083fb88	5	14	CalibrationLog
+710083fb98	5	13	StorageSecure
+710083fba8	5	14	StorageControl
+710083fbb8	5	14	GameCardReport
+710083fbc8	5	18	MarkBeforeEraseBis
+710083fbe0	85	8	Reserved
+710083fbf0	6	5	Debug
+710083fbf8	5	14	FullPermission
+710083fc08	10	6	Applet
+710083fc10	5	13	Secure system
+710083fc20	5	17	Non secure system
+710083fc38	5	19	Address space 32Bit
+710083fc50	5	23	Address space 64Bit Old
+710083fc68	5	31	Address space 32Bit No reserved
+710083fc88	5	19	Address space 64Bit
+710083fca8	5	10	White List
+710083fcc0	5	6	Always
+710083fcc8	5	28	Always If User State Matched
+710083fce8	5	10	On Restart
+710083fd00	5	12	Allow Append
+710083fd10	5	50	Allow Append But Don't Download When Using Network
+710083fd50	5	6	AesXts
+710083fd58	5	6	AesCtr
+710083fd60	5	8	AesCtrEx
+710083fd70	5	6	Sha256
+710083fd78	5	9	Integrity
+710083fd88	5	5	RomFs
+710083fd90	5	11	PartitionFs
+710083fda0	5	16	Target marketing
+710083fdc0	5	26	Retail Interactive Display
+710083fde0	5	13	All On Launch
+710083fdf0	5	9	On Demand
+710083fe00	10	5	Allow
+710083fe08	10	6	Manual
+710083fe10	5	20	Licensed By Nintendo
+710083fe28	5	23	Distributed By Nintendo
+710083fe48	5	8	Log Only
+710083fe58	5	6	Closed
+710083fe60	10	8	Required
+710083fe70	10	7	Disable
+710083fe78	10	6	Enable
+710083fe80	5	23	Required Linked Account
+710083fe98	5	16	American English
+710083feb0	5	15	British English
+710083fec0	5	8	Japanese
+710083fed0	5	22	Latin American Spanish
+710083fee8	5	15	Canadian French
+710083fef8	5	19	Traditional Chinese
+710083ff10	5	18	Simplified Chinese
+710083ff28	5	20	Brazilian Portuguese
+710083ff40	5	6	Polish
+710083ff58	4	5	FAT12
+710083ff60	4	5	exFAT
+710083ffa0	1	8	Darkroom
+710083ffb0	4	5	{}/{}
+710083ffd8	1	6	\u%04x
+710083ffe0	1	12	\u%04x\u%04x
+710083fff0	1	28	invalid UTF-8 byte at index 
+7100840018	1	38	incomplete UTF-8 string; last byte: 0x
+7100840040	1	6	\ufffd
+7100840050	1	50	cannot use operator[] with a string argument with 
+71008400d8	2	10	{"bytes":[
+71008400e8	2	12	],"subtype":
+71008400f8	1	5	null}
+7100840100	1	11	<discarded>
+7100840240	1	5	.star
+7100840248	2	8	[{}]{}{}
+7100840258	1	7	/switch
+7100840260	1	17	Not enough memory
+7100840278	3	8	fit_type
+71008402b8	1	9	main.npdm
+71008402c8	1	7	compat0
+71008402d0	1	7	compat1
+71008402d8	1	7	compat2
+71008402e0	1	7	compat3
+71008402e8	1	7	compat4
+71008402f0	1	7	compat5
+71008402f8	1	7	compat6
+7100840300	1	7	compat7
+7100840308	1	7	compat8
+7100840310	1	7	compat9
+7100840318	1	7	subsdk0
+7100840320	1	7	subsdk1
+7100840328	1	7	subsdk2
+7100840330	1	7	subsdk3
+7100840338	1	7	subsdk4
+7100840340	1	7	subsdk5
+7100840348	1	7	subsdk6
+7100840350	1	7	subsdk7
+7100840358	1	7	subsdk8
+7100840360	1	7	subsdk9
+7100840370	2	21	Last save auto backup
+7100840390	2	6	ftp://
+7100840398	2	7	sftp://
+71008403a0	2	7	github:
+71008403a8	2	11	FTP_install
+71008403b8	1	9	FTP_saves
+71008403d8	5	15	Last server URL
+71008403e8	2	11	Apache HTTP
+71008403f8	1	9	webdav://
+7100840420	2	13	HTTP URL List
+7100840430	1	7	DevTest
+7100840438	1	15	AlbumHttpServer
+7100840448	1	24	InstalledGamesHttpServer
+7100840468	1	16	SDCardHttpServer
+71008404c0	1	16	MTPMountContents
+71008404d8	1	8	contents
+71008404e8	1	5	 save
+71008404f8	1	8	FTP_Save
+7100840510	1	14	SaveValidating
+7100840530	1	11	Development
+7100840540	0	10	Production
+7100840550	1	10	SystemInfo
+7100840568	1	5	 U8: 
+7100840570	1	6	 U16: 
+7100840578	1	6	 U32: 
+7100840580	1	6	 U64: 
+710084058b	0	13	 Windows-1251
+71008405a0	0	14	  Windows-1251
+7100840633	0	12	 MacCyrillic
+7100840640	0	13	  MacCyrillic
+710084066b	0	9	 UTF-16BE
+7100840678	0	10	  UTF-16BE
+710084068b	0	9	 UTF-16LE
+7100840698	0	10	  UTF-16LE
+71008406e0	12	19	basic_string::erase
+71008406f8	2	21	basic_string::replace
+7100840718	0	17	Invalid bit range
+7100840730	1	6	Server
+7100840748	0	6	Static
+7100840798	1	13	Homebrew menu
+71008407a8	4	15	/dbiplaceholder
+71008407b8	1	20	/Contents/registered
+71008407d0	1	9	Firmware/
+71008407e0	1	18	{}.{}.{}-{}.{}.zip
+71008407f8	1	19	({:>3}/{:>3}) {} {}
+7100840810	1	11	/hbmenu.nro
+7100840820	3	7	TitleDB
+7100840828	2	12	DBIUpdateURL
+7100840838	1	13	ntp.msk-ix.ru
+710084086f	0	28	)? 2 Edition( upgrade pack)?
+7100840890	1	22	sdmc:/tmp_titledb.json
+71008408b0	1	23	Error during parse file
+71008408c8	1	19	updateDBIFromURL {}
+71008408e0	4	15	time.google.com
+71008408f0	1	19	time.cloudflare.com
+7100840908	1	13	time.nist.gov
+7100840918	1	19	europe.pool.ntp.org
+7100840930	1	17	asia.pool.ntp.org
+7100840948	1	19	africa.pool.ntp.org
+7100840960	1	20	oceania.pool.ntp.org
+7100840978	1	26	south-america.pool.ntp.org
+7100840998	1	26	north-america.pool.ntp.org
+71008409c0	1	22	Can not resolve server
+71008409d8	3	21	Socket creation error
+71008409f0	2	19	Communication error
+7100840a08	1	18	Connection timeout
+7100840a20	1	11	UpdateCheck
+7100840a30	1	12	UpdateTitles
+7100840a40	1	21	BlockAllTitlesWithLFS
+7100840a60	2	13	] Blacklisted
+7100840a70	2	7	] -> [v
+7100840a78	1	6	 [DLC 
+7100840a88	1	10	: New DLC 
+7100840a98	1	9	Installer
+7100840aa8	1	5	usbfs
+7100840ab0	1	11	USB Browser
+7100840ac0	4	5	icon_
+7100840ac8	1	20	Unknown archive type
+7100840ae0	1	11	 /firmware/
+7100840af0	11	9	Filtering
+7100840b00	1	13	InheritFilter
+7100840b10	1	19	BrowseAppsFromFiles
+7100840b28	2	29	/switch/daybreak/daybreak.nro
+7100840b48	2	20	/switch/daybreak.nro
+7100840b70	0	9	/Program 
+7100840b80	1	14	\nVideo Tracks:
+7100840b90	4	9	  #{}: {}
+7100840ba0	2	8	 [{}x{}]
+7100840bb0	1	10	 {} frames
+7100840bc0	1	14	\nAudio Tracks:
+7100840bd0	2	5	 {}Hz
+7100840bd8	1	5	 {}ch
+7100840be0	1	6	 {}bit
+7100840be8	1	13	ApplicationId
+7100840bf8	1	16	0100000000001000
+7100840c10	1	7	NspInfo
+7100840c18	1	17	^/Program \d+(.*)
+7100840ca8	1	9	AVC Intra
+7100840cc0	1	9	JPEG 2000
+7100840cd8	1	11	Motion JPEG
+7100840d48	1	9	DTS-HD MA
+7100840de0	1	8	AAC Main
+7100840e10	1	12	AAC Scalable
+7100840e40	1	14	Main Synthetic
+7100840e50	1	19	Wavetable Synthesis
+7100840e68	1	12	General MIDI
+7100840e78	1	21	Algorithmic Synthesis
+7100840e90	1	9	ER AAC LC
+7100840ea0	1	10	ER AAC LTP
+7100840eb0	1	15	ER AAC Scalable
+7100840ec0	1	9	ER TwinVQ
+7100840ed0	1	7	ER BSAC
+7100840ed8	1	9	ER AAC LD
+7100840ee8	1	7	ER CELP
+7100840ef8	1	7	ER HILN
+7100840f00	1	13	ER Parametric
+7100840f20	1	13	MPEG Surround
+7100840f60	1	12	SLS non-core
+7100840f70	1	10	ER AAC ELD
+7100840f80	1	10	SMR Simple
+7100840f90	1	8	SMR Main
+7100840fb8	8	13	FilterFolders
+7100840fd0	2	6	stoull
+7100840fd8	1	12	DLC {:04} {}
+7100841030	2	10	folder.jpg
+7100841040	1	15	ShowFolderImage
+7100841050	1	13	HideFolderJpg
+7100841268	1	12	{:.2f}/{} {}
+71008412a8	1	5	USB: 
+7100841328	1	25	Internal error: no action
+7100841368	1	9	Mtp_Debug
+7100841378	1	10	MtpI_Debug
+7100841390	1	17	Runtime exception
+71008413a8	0	10	Data error
+71008413b8	0	12	Syntax error
+71008413c8	1	14	Bad URI syntax
+71008413e0	0	6	telnet
+7100841400	0	5	imaps
+7100841420	1	49	URI encoding: no hex digit following percent sign
+7100841458	1	53	URI encoding: two hex digits must follow percent sign
+7100841490	2	29	URI encoding: not a hex digit
+71008414b0	1	25	unterminated IPv6 address
+71008414d0	1	26	bad or invalid port number
+71008414f0	1	48	URI scheme must be followed by authority or path
+7100841530	1	7	?#/:;+@
+7100841548	1	19	%<>{}|\"^`!*'()$,[]
+7100841560	2	8	{} -> {}
+7100841570	4	11	named_files
+7100841580	1	11	HashingFile
+7100841590	1	5	ivfc_
+7100841598	1	9	LevelFile
+71008415b0	0	11	windows1251
+71008415c0	0	12	windows-1251
+71008415e8	1	6	ibm855
+71008415f0	1	8	csibm855
+7100841600	1	5	cp855
+7100841608	1	5	koi8r
+7100841610	1	6	koi8-r
+7100841618	1	6	latin5
+7100841620	1	10	iso-8859-5
+7100841630	1	10	iso_8859_5
+7100841640	1	11	maccyrillic
+7100841650	2	14	x-mac-cyrillic
+7100841660	1	8	utf-16le
+7100841670	1	7	utf16le
+7100841678	1	8	utf-16be
+7100841688	1	7	utf16be
+7100841698	1	5	nbsp;
+71008416a8	1	6	iexcl;
+71008416b8	1	5	cent;
+71008416c8	1	6	pound;
+71008416d8	1	7	curren;
+71008416f8	1	7	brvbar;
+7100841708	1	5	sect;
+7100841728	1	5	copy;
+7100841738	1	5	ordf;
+7100841748	1	6	laquo;
+7100841788	1	5	macr;
+71008417a8	1	7	plusmn;
+71008417b8	1	5	sup2;
+71008417c8	1	5	sup3;
+71008417d8	1	6	acute;
+71008417e8	1	6	micro;
+71008417f8	1	5	para;
+7100841808	1	7	middot;
+7100841818	1	6	cedil;
+7100841828	1	5	sup1;
+7100841838	1	5	ordm;
+7100841848	1	6	raquo;
+7100841858	1	7	frac14;
+7100841868	1	7	frac12;
+7100841878	1	7	frac34;
+7100841888	1	7	iquest;
+7100841898	2	6	times;
+71008418a8	2	7	divide;
+71008418b8	1	6	ndash;
+71008418c8	1	6	mdash;
+71008418d8	1	7	Agrave;
+71008418e8	1	7	Aacute;
+71008418f8	1	6	Acirc;
+7100841908	1	7	Atilde;
+7100841918	1	5	Auml;
+7100841928	1	6	Aring;
+7100841938	1	6	AElig;
+7100841948	1	7	Ccedil;
+7100841958	1	7	Egrave;
+7100841968	1	7	Eacute;
+7100841978	1	6	Ecirc;
+7100841988	1	5	Euml;
+7100841998	1	7	Igrave;
+71008419a8	1	7	Iacute;
+71008419b8	1	6	Icirc;
+71008419c8	1	5	Iuml;
+71008419e8	1	7	Ntilde;
+71008419f8	1	7	Ograve;
+7100841a08	1	7	Oacute;
+7100841a18	1	6	Ocirc;
+7100841a28	1	7	Otilde;
+7100841a38	1	5	Ouml;
+7100841a48	1	7	Oslash;
+7100841a58	1	7	Ugrave;
+7100841a68	1	7	Uacute;
+7100841a78	1	6	Ucirc;
+7100841a88	1	5	Uuml;
+7100841a98	1	7	Yacute;
+7100841aa8	1	6	THORN;
+7100841ab8	1	6	szlig;
+7100841ac8	1	7	agrave;
+7100841ad8	1	7	aacute;
+7100841ae8	1	6	acirc;
+7100841af8	1	7	atilde;
+7100841b08	1	5	auml;
+7100841b18	1	6	aring;
+7100841b28	1	6	aelig;
+7100841b38	1	7	ccedil;
+7100841b48	1	7	egrave;
+7100841b58	1	7	eacute;
+7100841b68	1	6	ecirc;
+7100841b78	1	5	euml;
+7100841b88	1	7	igrave;
+7100841b98	1	7	iacute;
+7100841ba8	1	6	icirc;
+7100841bb8	1	5	iuml;
+7100841bd8	1	7	ntilde;
+7100841be8	1	7	ograve;
+7100841bf8	1	7	oacute;
+7100841c08	1	6	ocirc;
+7100841c18	1	7	otilde;
+7100841c28	1	5	ouml;
+7100841c38	1	7	oslash;
+7100841c48	1	7	ugrave;
+7100841c58	1	7	uacute;
+7100841c68	1	6	ucirc;
+7100841c78	1	5	uuml;
+7100841c88	1	7	yacute;
+7100841c98	1	6	thorn;
+7100841ca8	1	5	yuml;
+7100841cb8	1	6	OElig;
+7100841cc8	1	6	oelig;
+7100841cd8	1	7	Scaron;
+7100841ce8	1	7	scaron;
+7100841cf8	1	5	Yuml;
+7100841d08	1	5	circ;
+7100841d18	1	6	tilde;
+7100841d28	1	5	ensp;
+7100841d38	1	5	emsp;
+7100841d48	1	7	thinsp;
+7100841d58	1	6	lsquo;
+7100841d68	1	6	rsquo;
+7100841d78	1	6	sbquo;
+7100841d88	1	6	ldquo;
+7100841d98	1	6	rdquo;
+7100841da8	1	6	bdquo;
+7100841db8	1	7	dagger;
+7100841dc8	1	7	Dagger;
+7100841dd8	1	7	permil;
+7100841de8	1	7	lsaquo;
+7100841df8	1	7	rsaquo;
+7100841e08	1	5	euro;
+7100841e18	1	5	fnof;
+7100841e28	1	6	Alpha;
+7100841e38	1	5	Beta;
+7100841e48	1	6	Gamma;
+7100841e58	1	6	Delta;
+7100841e68	1	8	Epsilon;
+7100841e80	1	5	Zeta;
+7100841ea0	1	6	Theta;
+7100841eb0	1	5	Iota;
+7100841ec0	1	6	Kappa;
+7100841ed0	1	7	Lambda;
+7100841f10	1	8	Omicron;
+7100841f48	1	6	Sigma;
+7100841f68	1	8	Upsilon;
+7100841fb0	1	6	Omega;
+7100841fc0	1	6	alpha;
+7100841fd0	1	5	beta;
+7100841fe0	1	6	gamma;
+7100841ff0	1	6	delta;
+7100842000	1	8	epsilon;
+7100842018	1	5	zeta;
+7100842038	1	6	theta;
+7100842048	1	5	iota;
+7100842058	1	6	kappa;
+7100842068	1	7	lambda;
+71008420a8	1	8	omicron;
+71008420e0	1	7	sigmaf;
+71008420f0	1	6	sigma;
+7100842110	1	8	upsilon;
+7100842158	1	6	omega;
+7100842160	1	9	thetasym;
+7100842178	1	6	upsih;
+7100842198	1	5	bull;
+71008421a8	1	7	hellip;
+71008421b8	1	6	prime;
+71008421c8	1	6	Prime;
+71008421d8	1	6	oline;
+71008421e8	1	6	frasl;
+71008421f8	1	7	weierp;
+7100842208	1	6	image;
+7100842218	1	5	real;
+7100842228	1	6	trade;
+7100842240	1	5	larr;
+7100842250	1	5	uarr;
+7100842260	1	5	rarr;
+7100842270	1	5	darr;
+7100842280	1	5	harr;
+7100842290	1	6	crarr;
+71008422a0	1	5	lArr;
+71008422b0	1	5	uArr;
+71008422c0	1	5	rArr;
+71008422d0	1	5	dArr;
+71008422e0	1	5	hArr;
+71008422f0	1	7	forall;
+7100842300	1	5	part;
+7100842310	1	6	exist;
+7100842320	1	6	empty;
+7100842330	1	6	nabla;
+7100842340	1	5	isin;
+7100842350	1	6	notin;
+7100842370	1	5	prod;
+7100842390	1	6	minus;
+71008423a0	1	7	lowast;
+71008423b0	1	6	radic;
+71008423c0	1	5	prop;
+71008423d0	1	6	infin;
+7100842440	1	7	there4;
+7100842460	1	5	cong;
+7100842470	1	6	asymp;
+7100842490	1	6	equiv;
+71008424e0	1	5	nsub;
+71008424f0	1	5	sube;
+7100842500	1	5	supe;
+7100842510	1	6	oplus;
+7100842520	1	7	otimes;
+7100842530	1	5	perp;
+7100842540	1	5	sdot;
+7100842550	1	6	lceil;
+7100842560	1	6	rceil;
+7100842570	1	7	lfloor;
+7100842580	1	7	rfloor;
+7100842590	1	5	lang;
+71008425a0	1	5	rang;
+71008425c0	1	7	spades;
+71008425d0	1	6	clubs;
+71008425e0	1	7	hearts;
+71008425f0	1	6	diams;
+71008425f8	2	8	encoding
+7100842608	2	18	Encoding set to {}
+7100842620	1	12	Windows-1251
+7100842658	2	12	_ANNOTATION_
+71008426a8	1	17	footnote_([0-9]+)
+71008426c0	1	16	footnote([0-9]+)
+7100842748	0	5	notes
+7100842750	0	9	footnotes
+7100842768	1	7	mailto:
+7100842770	3	24	basic_string::_M_replace
+7100842790	0	17	JustificationMode
+71008427a8	0	13	MarkupNoSpace
+71008427b8	0	17	MarkupNoLineBreak
+71008427d0	0	17	MarkupEndDocument
+71008427e8	0	10	MarkupNote
+71008427f8	0	14	MarkupImageRef
+7100842808	0	11	TextElement
+7100842818	0	14	MarkupListItem
+7100842828	0	11	MarkupVerse
+7100842838	0	14	MarkupVerseEnd
+7100842848	0	10	MarkupCite
+7100842858	0	13	MarkupCiteEnd
+7100842868	0	13	MarkupEndPage
+7100842878	0	18	MarkupParagraphEnd
+7100842890	0	21	MarkupParagraphOffset
+71008428a8	0	17	MarkupRubberSpace
+71008428c0	0	16	MarkupFixedSpace
+71008428d8	0	15	MarkupEmptyLine
+71008428e8	0	11	MarkupTitle
+71008428f8	1	20	Image '{}' not found
+7100842910	0	54	{}: Exception during image creation and publishing: {}
+7100842948	0	11	text-author
+7100842958	0	7	section
+7100842968	0	10	annotation
+7100842978	0	9	coverpage
+7100842988	0	10	empty-line
+71008429a0	0	6	strong
+71008429a8	0	13	strikethrough
+71008429b8	1	5	title
+71008429c0	0	10	title-info
+71008429d0	1	11	FictionBook
+71008429e0	1	10	book-title
+71008429f0	1	8	sequence
+7100842a00	1	10	first-name
+7100842a10	1	11	middle-name
+7100842a20	1	9	last-name
+7100842a30	1	6	author
+7100842a38	1	5	genre
+7100842a40	2	11	description
+7100842a78	1	18	Unknown font style
+7100842a90	1	28	Can not determine image size
+7100842ab0	1	29	Invalid box! {} {}x{} @ {}x{}
+7100842ad0	1	28	Invalid hrule! {}x{} @ {}x{}
+7100842af0	1	28	Invalid image! {}x{} @ {}x{}
+7100842b10	0	27	%s:%d: assertion failed: %s
+7100842b30	0	12	invalid utf8
+7100842b40	6	17	number is too big
+7100842b58	2	22	string pointer is null
+7100842b70	9	16	0123456789abcdef
+7100842b88	0	20	cannot write to file
+7100842ba8	2	56	cannot switch from manual to automatic argument indexing
+7100842be8	2	56	cannot switch from automatic to manual argument indexing
+7100842c28	3	21	invalid format string
+7100842c40	2	24	invalid format specifier
+7100842c60	1	42	format specifier requires numeric argument
+7100842c90	1	17	invalid precision
+7100842ca8	1	26	invalid fill character '{'
+7100842cc8	5	18	argument not found
+7100842ce0	1	30	width/precision is not integer
+7100842d00	1	31	width/precision is out of range
+7100842d40	1	33	invalid format specifier for char
+7100842d68	1	28	missing '}' in format string
+7100842d88	1	24	unknown format specifier
+7100842da8	1	30	unmatched '}' in format string
+7100842de8	2	5	ums%u
+7100842e01	1	5	,;=[]
+7100842e18	1	28	Could not decode alpha data.
+7100842e38	1	18	Frame setup failed
+7100842e50	1	29	thread initialization failed.
+7100842e70	1	38	no memory during frame initialization.
+7100842e98	1	17	Truncated header.
+7100842eb0	1	30	Incorrect keyframe parameters.
+7100842ed0	1	22	Frame not displayable.
+7100842ee8	1	27	cannot parse picture header
+7100842f08	1	13	Bad code word
+7100842f18	1	20	bad partition length
+7100842f30	1	27	cannot parse segment header
+7100842f50	1	26	cannot parse filter header
+7100842f70	1	23	cannot parse partitions
+7100842f88	1	16	Not a key frame.
+7100842fa0	1	36	null VP8Io passed to VP8GetHeaders()
+7100842fc8	1	36	NULL VP8Io parameter in VP8Decode().
+7100842ff0	1	40	Premature end-of-partition0 encountered.
+7100843020	1	34	Premature end-of-file encountered.
+7100843048	1	15	Output aborted.
+7100843060	1	40	easy handle already used in multi handle
+7100843090	1	30	unknown proxytype option given
+71008430b0	1	38	getpeername() failed with errno %d: %s
+71008430d8	2	38	getsockname() failed with errno %d: %s
+7100843100	1	42	ssrem inet_ntop() failed with errno %d: %s
+7100843130	1	42	ssloc inet_ntop() failed with errno %d: %s
+7100843160	1	19	  Trying %s:%ld...\n
+7100843178	1	44	sa_addr inet_ntop() failed with errno %d: %s
+71008431a8	1	30	Could not set TCP_NODELAY: %s\n
+71008431c8	1	36	Failed to set SO_KEEPALIVE on fd %d\n
+71008431f0	1	36	Failed to set TCP_KEEPIDLE on fd %d\n
+7100843218	1	37	Failed to set TCP_KEEPINTVL on fd %d\n
+7100843240	1	5	host!
+7100843248	1	31	Couldn't bind to interface '%s'
+7100843268	1	52	Local Interface %s is ip %s using address family %i\n
+71008432a0	1	47	Name '%s' family %i resolved to '%s' family %i\n
+71008432d0	1	21	Couldn't bind to '%s'
+71008432e8	1	16	Local port: %hu\n
+7100843300	2	43	Bind to local port %hu failed, trying next\n
+7100843330	1	29	bind failed with errno %d: %s
+7100843350	1	34	Immediate connect fail for %s: %s\n
+7100843378	2	31	Could not set SO_NOSIGPIPE: %s\n
+7100843398	3	19	Connection time-out
+71008433b0	1	35	After %ldms connect time, move on!\n
+71008433d8	2	18	Connection failed\n
+71008433f0	2	34	connect to %s port %ld failed: %s\n
+7100843418	1	36	Failed to connect to %s port %ld: %s
+7100843440	1	40	Internal error removing splay node = %d\n
+7100843470	1	38	Connection #%ld to host %s left intact
+7100843498	1	36	In state %d with no conn, bail out!\n
+71008434c0	1	42	Resolving timed out after %ld milliseconds
+71008434f0	1	43	Connection timed out after %ld milliseconds
+7100843520	2	77	Operation timed out after %ld milliseconds with %ld out of %ld bytes received
+7100843570	2	66	Operation timed out after %ld milliseconds with %ld bytes received
+71008435b8	1	38	Transfer was pending, now try another\n
+71008435e0	1	37	Hostname '%s' was found in DNS cache\n
+7100843608	1	40	Internal error clearing splay node = %d\n
+7100843638	2	6	Digest
+7100843640	1	6	Proxy-
+7100843648	1	28	%sAuthorization: Digest %s\n
+7100843668	1	20	Unsupported protocol
+7100843680	1	21	Failed initialization
+7100843698	1	43	URL using bad/illegal format or missing URL
+71008436c8	1	108	A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+7100843738	1	27	Couldn't resolve proxy name
+7100843758	1	26	Couldn't resolve host name
+7100843778	1	26	Couldn't connect to server
+7100843798	1	18	Weird server reply
+71008437b0	1	32	Access denied to remote resource
+71008437d8	1	46	FTP: The server failed to connect to data port
+7100843808	1	43	FTP: Accepting server connect has timed out
+7100843838	1	48	FTP: The server did not accept the PRET command.
+7100843870	1	23	FTP: unknown PASS reply
+7100843888	1	23	FTP: unknown PASV reply
+71008438a0	1	32	FTP: unknown 227 response format
+71008438c8	1	51	FTP: can't figure out the host in the PASV response
+7100843900	1	32	Error in the HTTP2 framing layer
+7100843928	1	27	FTP: couldn't set file type
+7100843948	1	26	Transferred a partial file
+7100843968	1	55	FTP: couldn't retrieve (RETR failed) the specified file
+71008439a0	1	28	Quote command returned error
+71008439c0	1	29	HTTP response code said error
+71008439e0	1	48	Failed writing received data to disk/application
+7100843a18	1	43	Upload failed (at start/before it took off)
+7100843a48	1	52	Failed to open/read local data from file/application
+7100843a80	10	13	Out of memory
+7100843a90	1	19	Timeout was reached
+7100843aa8	1	24	FTP: command PORT failed
+7100843ac8	1	24	FTP: command REST failed
+7100843ae8	1	47	Requested range was not delivered by the server
+7100843b18	1	36	Internal problem setting up the POST
+7100843b40	1	17	SSL connect error
+7100843b58	1	24	Couldn't resume download
+7100843b78	1	28	Couldn't read a file:// file
+7100843b98	1	17	LDAP: cannot bind
+7100843bb0	1	19	LDAP: search failed
+7100843bc8	1	48	A required function in the library was not found
+7100843c00	1	48	Operation was aborted by an application callback
+7100843c38	1	43	A libcurl function was given a bad argument
+7100843c68	1	35	Failed binding local connection end
+7100843c90	1	38	Number of redirects hit maximum amount
+7100843cb8	1	42	An unknown option was passed in to libcurl
+7100843ce8	1	23	Malformed telnet option
+7100843d00	1	45	Server returned nothing (no headers, no data)
+7100843d30	1	27	SSL crypto engine not found
+7100843d50	1	40	Can not set SSL crypto engine as default
+7100843d80	1	38	Failed to initialise SSL crypto engine
+7100843da8	1	31	Failed sending data to the peer
+7100843dc8	1	41	Failure when receiving data from the peer
+7100843df8	1	38	Problem with the local SSL certificate
+7100843e20	1	33	Couldn't use specified SSL cipher
+7100843e48	1	49	SSL peer certificate or SSH remote key was not OK
+7100843e80	1	51	Problem with the SSL CA cert (path? access rights?)
+7100843eb8	1	53	Unrecognized or bad HTTP Content or Transfer-Encoding
+7100843ef0	1	16	Invalid LDAP URL
+7100843f08	3	26	Maximum file size exceeded
+7100843f28	1	26	Requested SSL level failed
+7100843f48	1	38	Failed to shut down the SSL connection
+7100843f70	1	55	Failed to load CRL file (path? access rights?, format?)
+7100843fa8	1	44	Issuer check against peer certificate failed
+7100843fd8	1	53	Send failed since rewinding of the data stream failed
+7100844010	1	12	Login denied
+7100844020	1	20	TFTP: File Not Found
+7100844038	1	22	TFTP: Access Violation
+7100844050	1	32	Disk full or allocation exceeded
+7100844078	1	23	TFTP: Illegal operation
+7100844090	1	25	TFTP: Unknown transfer ID
+71008440b0	1	26	Remote file already exists
+71008440d0	1	18	TFTP: No such user
+71008440e8	1	17	Conversion failed
+7100844100	1	51	Caller must register CURLOPT_CONV_ callback options
+7100844138	1	21	Remote file not found
+7100844150	1	22	Error in the SSH layer
+7100844168	1	30	Socket not ready for send/recv
+7100844188	1	34	RTSP CSeq mismatch or invalid CSeq
+71008441b0	1	18	RTSP session error
+71008441c8	1	29	Unable to parse FTP file list
+71008441e8	1	21	Chunk callback failed
+7100844200	1	35	The max connection limit is reached
+7100844228	1	47	SSL public key does not match pinned public key
+7100844258	1	49	SSL server certificate status verification FAILED
+7100844290	1	40	Stream error in the HTTP/2 framing layer
+71008442c0	1	40	API function called from within callback
+71008442f0	1	44	An authentication function returned an error
+7100844320	1	12	HTTP/3 error
+7100844330	1	21	QUIC connection error
+7100844348	1	16	Unknown error %d
+7100844360	1	46	SOCKS4%s: connecting to HTTP proxy %s port %d\n
+7100844390	1	30	SOCKS4 communication to %s:%d\n
+71008443b0	1	34	SOCKS4 non-blocking resolve of %s\n
+71008443d8	1	24	Hostname '%s' was found\n
+71008443f8	1	45	SOCKS4 connect to IPv4 %s (locally resolved)\n
+7100844428	1	38	SOCKS4 connection to %s not supported\n
+7100844450	1	42	Failed to resolve "%s" for SOCKS4 connect.
+7100844480	1	38	Too long SOCKS proxy name, can't use!\n
+71008444a8	1	26	SOCKS4: too long host name
+71008444c8	1	38	Failed to send SOCKS4 connect request.
+71008444f0	1	48	SOCKS4: Failed receiving connect request ack: %s
+7100844528	1	52	SOCKS4 reply has wrong version, version should be 0.
+7100844560	1	26	SOCKS4%s request granted.\n
+7100844580	1	85	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected or failed.
+71008445d8	1	135	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+7100844660	1	139	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+71008446f0	1	66	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), Unknown.
+7100844738	1	44	SOCKS5: connecting to HTTP proxy %s port %d\n
+7100844768	1	81	SOCKS5: server resolving disabled for hostnames of length > 255 [actual len=%zu]\n
+71008447c0	1	62	warning: unsupported value passed to CURLOPT_SOCKS5_AUTH: %lu\n
+7100844800	1	38	Unable to send initial SOCKS5 request.
+7100844828	1	42	Unable to receive initial SOCKS5 response.
+7100844858	1	52	Received invalid version in initial SOCKS5 response.
+7100844890	1	58	SOCKS5 GSSAPI per-message authentication is not supported.
+71008448d0	1	40	No authentication method was acceptable.
+7100844900	1	56	Undocumented SOCKS5 mode attempted to be used by server.
+7100844940	1	41	Excessive user name length for proxy auth
+7100844970	1	40	Excessive password length for proxy auth
+71008449a0	1	46	Failed to send SOCKS5 sub-negotiation request.
+71008449d0	1	50	Unable to receive SOCKS5 sub-negotiation response.
+7100844a08	1	47	User was rejected by the SOCKS5 server (%d %d).
+7100844a38	1	28	SOCKS5: hostname '%s' found\n
+7100844a58	1	42	Failed to resolve "%s" for SOCKS5 connect.
+7100844a88	1	45	SOCKS5 connect to IPv4 %s (locally resolved)\n
+7100844ab8	1	38	SOCKS5 connection to %s not supported\n
+7100844ae0	1	44	SOCKS5 connect to %s:%d (remotely resolved)\n
+7100844b10	1	38	Failed to send SOCKS5 connect request.
+7100844b38	1	45	Failed to receive SOCKS5 connect request ack.
+7100844b68	1	52	SOCKS5 reply has wrong version, version should be 5.
+7100844ba0	1	44	Can't complete SOCKS5 connection to %s. (%d)
+7100844bd0	1	24	SOCKS5 request granted.\n
+7100844c00	1	30	Proxy-Connection: Keep-Alive\n
+7100844c20	1	25	allocate connect buffer!\n
+7100844c40	2	37	Establish HTTP proxy tunnel to %s:%d\n
+7100844c68	1	5	%s:%d
+7100844c70	1	7	CONNECT
+7100844c78	1	9	%s%s%s:%d
+7100844c88	1	10	Host: %s\n
+7100844c98	2	16	Proxy-Connection
+7100844cb0	5	10	User-Agent
+7100844cc0	1	31	Failed sending CONNECT to proxy
+7100844ce0	1	36	Proxy CONNECT aborted due to timeout
+7100844d08	1	27	CONNECT response too large!
+7100844d28	1	32	Proxy CONNECT connection closed\n
+7100844d50	1	21	Proxy CONNECT aborted
+7100844d68	1	19	chunk reading DONE\n
+7100844d80	1	34	Ignore %ld bytes of response-body\n
+7100844da8	1	29	Ignore chunked response-body\n
+7100844dc8	3	17	WWW-Authenticate:
+7100844de0	2	19	Proxy-authenticate:
+7100844df8	3	15	Content-Length:
+7100844e08	1	49	Ignoring Content-Length in CONNECT %03d response\n
+7100844e40	4	5	close
+7100844e48	4	11	Connection:
+7100844e58	8	18	Transfer-Encoding:
+7100844e70	1	52	Ignoring Transfer-Encoding in CONNECT %03d response\n
+7100844ea8	3	7	chunked
+7100844eb0	1	26	CONNECT responded chunked\n
+7100844ed0	3	17	Proxy-Connection:
+7100844ee8	1	12	HTTP/1.%d %d
+7100844ef8	1	24	Connect me again please\n
+7100844f18	2	25	CONNECT phase completed!\n
+7100844f38	1	46	Received HTTP code %d from proxy after CONNECT
+7100844f68	1	36	Proxy replied %d to CONNECT request\n
+7100844f90	2	28	CONNECT %s HTTP/%s\n%s%s%s%s
+7100844fb0	2	5	%ld%s
+7100844fb8	1	50	Connection cache is full, closing the oldest one.\n
+7100844ff0	7	12	Content-Type
+7100845010	1	30	Can't add itself as a subpart!
+7100845038	0	15	multipart/mixed
+7100845048	1	12	; filename="
+7100845058	1	11	; boundary=
+7100845070	0	9	form-data
+7100845080	1	8	; name="
+7100845090	2	10	attachment
+71008450a0	0	24	application/octet-stream
+71008450c0	2	10	text/plain
+71008450d0	6	19	Content-Disposition
+71008450e8	1	10	multipart/
+71008450f8	1	35	Content-Disposition: %s%s%s%s%s%s%s
+7100845120	1	20	Content-Type: %s%s%s
+7100845138	2	25	Content-Transfer-Encoding
+7100845158	1	29	Content-Transfer-Encoding: %s
+7100845178	1	19	multipart/form-data
+7100845190	2	9	image/gif
+71008451a0	2	10	image/jpeg
+71008451b0	1	9	image/png
+71008451c8	1	13	image/svg+xml
+71008451e0	2	9	text/html
+71008451f0	1	5	.html
+7100845200	1	15	application/pdf
+7100845218	1	15	application/xml
+7100845230	0	16	quoted-printable
+7100845250	1	5	FLUSH
+7100845258	1	6	RELOAD
+7100845260	3	11	Set-Cookie:
+7100845278	4	5	%s:%s
+7100845280	3	8	%s:%s:%s
+7100845290	5	8	auth-int
+71008452a0	1	19	%s:%s:%08x:%s:%s:%s
+71008452b8	1	92	username="%s", realm="%s", nonce="%s", uri="%s", cnonce="%s", nc=%08x, qop=%s, response="%s"
+7100845318	1	62	username="%s", realm="%s", nonce="%s", uri="%s", response="%s"
+7100845358	1	15	%s, opaque="%s"
+7100845368	1	16	%s, algorithm=%s
+7100845380	1	17	%s, userhash=true
+7100845398	1	7	nonce="
+71008453a0	2	7	realm="
+71008453a8	1	10	algorithm=
+71008453b8	1	5	qop="
+71008453c0	0	8	md5-sess
+71008453d0	2	9	auth-conf
+71008453e0	1	90	username="%s",realm="%s",nonce="%s",cnonce="%s",nc="%s",digest-uri="%s",response=%s,qop=%s
+7100845440	1	12	AUTHENTICATE
+7100845450	2	8	00000001
+7100845460	1	5	nonce
+7100845468	1	5	stale
+7100845470	1	5	realm
+7100845478	1	6	opaque
+7100845488	1	9	algorithm
+7100845498	1	8	MD5-sess
+71008454b0	2	7	SHA-256
+71008454b8	1	12	SHA-256-SESS
+71008454c8	1	11	SHA-512-256
+71008454d8	1	16	SHA-512-256-SESS
+71008454f0	1	8	userhash
+7100845500	1	58	Unrecognized parameter value passed via CURLOPT_SSLVERSION
+7100845540	1	53	CURL_SSLVERSION_MAX incompatible with CURL_SSLVERSION
+7100845578	3	5	libnx
+7100845580	1	16	CURL_SSL_BACKEND
+7100845598	2	8	sha256//
+71008455a8	1	30	  public key hash: sha256//%s\n
+71008455d8	1	26	-----BEGIN PUBLIC KEY-----
+71008455f8	1	25	\n-----END PUBLIC KEY-----
+7100845618	0	5	multi
+7100845620	1	24	Error opening ca path %s
+7100845640	1	29	Error reading ca path file %s
+7100845660	1	45	Error importing ca path file %s - libnx: 0x%X
+7100845690	2	40	, CURLOPT_SSL_VERIFYPEER must be enabled
+71008456c0	3	19	Dumping cert info:\n
+71008456d8	1	40	Unable to dump certificate information.\n
+7100845708	1	41	Failed due to missing peer certificate%s.
+7100845738	1	14	SSL connected\n
+7100845748	2	22	SSL connection timeout
+7100845760	1	34	ssl-service does not support SSLv2
+7100845788	1	34	ssl-service does not support SSLv3
+71008457b0	1	53	unsupported min version passed via CURLOPT_SSLVERSION
+71008457e8	1	53	unsupported max version passed via CURLOPT_SSLVERSION
+7100845820	1	52	Unrecognized parameter passed via CURLOPT_SSLVERSION
+7100845858	1	34	error signaled by ssl ctx callback
+7100845880	1	29	Error reading ca cert file %s
+71008458a0	1	45	Error importing ca cert file %s - libnx: 0x%X
+71008458d0	1	65	WARNING: SSL: Certificate type not set, assuming PKCS#12 format.\n
+7100845920	1	91	WARNING: SSL: The ssl-service only supports loading identities that are in PKCS#12 format.\n
+7100845980	1	33	Error reading client cert file %s
+71008459a8	1	52	Error importing client PKCS#12 file %s - libnx: 0x%X
+71008459e0	1	28	libnx: Connecting to %s:%ld\n
+7100845a00	2	25	No such file or directory
+7100845a20	2	17	Permission denied
+7100845a38	1	16	Operation failed
+7100845a50	1	28	Bad message from SFTP server
+7100845a70	1	28	Not connected to SFTP server
+7100845a90	1	30	Connection to SFTP server lost
+7100845ab0	1	38	Operation not supported by SFTP server
+7100845ad8	1	14	Invalid handle
+7100845ae8	1	24	Unknown error in libssh2
+7100845b08	1	19	File already exists
+7100845b20	1	23	File is write protected
+7100845b38	1	8	No media
+7100845b48	1	9	Disk full
+7100845b58	1	19	User quota exceeded
+7100845b70	1	17	Unknown principle
+7100845b88	1	18	File lock conflict
+7100845ba0	2	19	Directory not empty
+7100845bb8	2	15	Not a directory
+7100845bc8	1	21	Link points to itself
+7100845be0	2	11	ssh-ed25519
+7100845bf0	5	19	ecdsa-sha2-nistp521
+7100845c08	5	19	ecdsa-sha2-nistp384
+7100845c20	9	19	ecdsa-sha2-nistp256
+7100845c40	3	7	ssh-dss
+7100845c50	2	30	Invalid host pattern %s in %s\n
+7100845c70	1	48	Found host key type RSA1 which is not supported\n
+7100845ca8	1	26	Unknown host key type: %i\n
+7100845cc8	1	29	Set "%s" as SSH hostkey type\n
+7100845ce8	1	40	Failure establishing ssh session: %d, %s
+7100845d18	1	24	SSH MD5 fingerprint: %s\n
+7100845d38	1	20	MD5 checksum match!\n
+7100845d50	1	46	unsupported key type, can't check knownhosts!\n
+7100845d80	2	28	SSH host check: %d, key: %s\n
+7100845da0	1	41	Warning adding the known host %s failed!\n
+7100845dd0	1	28	Warning, writing %s failed!\n
+7100845df0	1	41	SSH user accepted with no authentication\n
+7100845e20	1	41	SSH authentication methods available: %s\n
+7100845e50	3	9	publickey
+7100845e68	1	14	%s/.ssh/id_rsa
+7100845e78	1	14	%s/.ssh/id_dsa
+7100845e88	1	31	Using SSH public key file '%s'\n
+7100845ea8	1	32	Using SSH private key file '%s'\n
+7100845ed0	1	42	Initialized SSH public key authentication\n
+7100845f00	1	41	SSH public key authentication failed: %s\n
+7100845f30	5	8	password
+7100845f40	1	36	Initialized password authentication\n
+7100845f68	0	9	hostbased
+7100845f78	1	30	Could not create agent object\n
+7100845f98	1	28	Failure connecting to agent\n
+7100845fb8	2	39	Failure requesting identities to agent\n
+7100845fe0	1	24	No identity would match\n
+7100846000	2	38	Agent based authentication successful\n
+7100846028	2	20	keyboard-interactive
+7100846040	1	48	Initialized keyboard interactive authentication\n
+7100846078	1	22	Authentication failure
+7100846090	1	24	Authentication complete\n
+71008460b0	1	23	SSH CONNECT phase done\n
+71008460c8	1	37	Failure initializing sftp session: %s
+71008460f0	2	23	Sending quote commands\n
+7100846110	1	31	257 "%s" is current directory.\n
+7100846138	1	50	Syntax error in SFTP command. Supply parameter(s)!
+7100846170	1	33	Syntax error: Bad first parameter
+7100846198	1	6	chgrp 
+71008461a0	1	6	chmod 
+71008461a8	1	6	chown 
+71008461b0	1	55	Syntax error in chgrp/chmod/chown: Bad second parameter
+71008461f0	1	8	symlink 
+7100846200	1	48	Syntax error in ln/symlink: Bad second parameter
+7100846238	1	6	mkdir 
+7100846240	1	7	rename 
+7100846248	1	44	Syntax error in rename: Bad second parameter
+7100846278	1	6	rmdir 
+7100846288	1	8	statvfs 
+7100846298	1	20	Unknown SFTP command
+71008462b0	2	5	chmod
+71008462b8	1	36	Attempt to get SFTP stats failed: %s
+71008462e0	1	5	chgrp
+71008462e8	1	36	Syntax error: chgrp gid not a number
+7100846310	1	44	Syntax error: chmod permissions not a number
+7100846340	1	5	chown
+7100846348	1	36	Syntax error: chown uid not a number
+7100846370	1	36	Attempt to set SFTP stats failed: %s
+7100846398	1	26	symlink command failed: %s
+71008463b8	1	24	mkdir command failed: %s
+71008463d8	1	25	rename command failed: %s
+71008463f8	1	24	rmdir command failed: %s
+7100846418	1	21	rm command failed: %s
+7100846430	1	26	statvfs command failed: %s
+7100846450	1	167	statvfs:\nf_bsize: %llu\nf_frsize: %llu\nf_blocks: %llu\nf_bfree: %llu\nf_bavail: %llu\nf_files: %llu\nf_ffree: %llu\nf_favail: %llu\nf_fsid: %llu\nf_flag: %llu\nf_namemax: %llu\n
+71008464f8	2	19	Bad file size (%ld)
+7100846510	1	32	Creating the dir/file failed: %s
+7100846538	1	25	Upload failed: %s (%d/%d)
+7100846558	3	21	Could not seek stream
+7100846570	2	19	Failed to read data
+7100846588	1	24	Creating directory '%s'\n
+71008465a8	1	40	Could not open directory for reading: %s
+71008465d8	1	48	Could not open remote file for reading: %s :: %d
+7100846610	1	6	 -> %s
+7100846618	1	42	Could not open remote file for reading: %s
+7100846648	3	39	Offset (%ld) was beyond file size (%ld)
+7100846670	2	35	File already completely downloaded\n
+7100846698	2	36	Failed to close libssh2 file: %d %s\n
+71008466c0	1	38	Failed to stop libssh2 sftp subsystem\n
+71008466e8	1	41	SCP requires a known file size for upload
+7100846718	1	42	Failed to send libssh2 channel EOF: %d %s\n
+7100846748	1	33	Failed to get channel EOF: %d %s\n
+7100846770	1	31	Channel failed to close: %d %s\n
+7100846790	2	44	Failed to free libssh2 scp subsystem: %d %s\n
+71008467c0	1	8	Shutdown
+71008467d0	1	44	Failed to disconnect libssh2 session: %d %s\n
+7100846800	1	47	Failed to disconnect from libssh2 agent: %d %s\n
+7100846830	1	38	Failed to free libssh2 session: %d %s\n
+7100846858	1	87	Denied establishing ssh session: mismatch md5 fingerprint. Remote %s is not equal to %s
+71008468b0	1	62	Denied establishing ssh session: md5 fingerprint not available
+71008468f0	1	6	<none>
+71008468f8	1	27	Did not find host %s in %s\n
+7100846918	1	20	Found host %s in %s\n
+7100846930	1	19	Operation timed out
+7100846948	1	32	Failure initialising ssh session
+7100846970	1	45	Failed to enable compression for ssh session\n
+71008469a0	1	35	Failed to read known hosts from %s\n
+71008469d0	2	6	%c%c==
+71008469d8	2	7	%c%c%c=
+71008469e0	3	8	%c%c%c%c
+71008469f8	1	40	Hostname in DNS cache was stale, zapped\n
+7100846a28	1	22	Shuffling %i addresses
+7100846a40	1	35	Hostname %s was found in DNS cache\n
+7100846a68	1	40	timeout on name lookup is not supported\n
+7100846aa8	1	51	Couldn't parse CURLOPT_RESOLVE removal entry '%s'!\n
+7100846ae0	1	53	Ignoring resolve address '%s', missing IPv6 support.\n
+7100846b18	1	36	Resolve address '%s' found illegal!\n
+7100846b40	2	43	Couldn't parse CURLOPT_RESOLVE entry '%s'!\n
+7100846b70	1	44	RESOLVE %s:%d is - old addresses discarded!\n
+7100846ba0	1	28	Added %s:%d:%s to DNS cache\n
+7100846bc0	1	52	RESOLVE %s:%d is wildcard, enabling wildcard checks\n
+7100846c08	1	16	%2ld:%02ld:%02ld
+7100846c20	1	12	%3ldd %02ldh
+7100846c30	1	5	%7ldd
+7100846c40	1	5	%4ldk
+7100846c48	1	10	%2ld.%0ldM
+7100846c58	1	5	%4ldM
+7100846c60	1	10	%2ld.%0ldG
+7100846c70	1	5	%4ldG
+7100846c78	1	5	%4ldT
+7100846c80	1	5	%4ldP
+7100846c88	1	16	Callback aborted
+7100846ca0	1	44	** Resuming transfer from byte position %ld\n
+7100846cd0	1	161	  %% Total    %% Received %% Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n
+7100846d78	1	46	%3ld %s  %3ld %s  %3ld %s  %s  %s %s %s %s %s
+7100846da8	1	10	#HttpOnly_
+7100846dc0	1	25	%s%s%s %s %s %s %ld %s %s
+7100846e00	1	51	oversized cookie dropped, name/val %zu + %zu bytes\n
+7100846e38	3	9	__Secure-
+7100846e48	2	7	__Host-
+7100846e50	1	8	httponly
+7100846e68	2	6	domain
+7100846e70	2	9	localhost
+7100846e80	1	45	skipped cookie with bad tailmatch domain: %s\n
+7100846eb0	1	7	max-age
+7100846eb8	1	7	expires
+7100846ec0	1	8	Replaced
+7100846ed0	3	53	%s cookie %s="%s" for domain %s, path %s, expire %ld\n
+7100846f08	2	5	Added
+7100846f18	1	35	ignoring failed cookie_init for %s\n
+7100846f40	2	136	# Netscape HTTP Cookie File\n# https://curl.haxx.se/docs/http-cookies.html\n# This file was generated by libcurl! Edit at your own risk.\n\n
+7100846fd0	1	9	%s.%s.tmp
+7100846fe0	1	24	#\n# Fatal libcurl error\n
+7100847000	2	38	WARNING: failed to save cookies in %s\n
+7100847028	1	34	HTTP/3 requested for non-HTTPS URL
+7100847050	1	38	Rejected %zu bytes header (max is %d)!
+7100847078	1	38	Failed to alloc memory for big header!
+71008470a0	1	5	RTSP/
+71008470a8	1	23	Empty reply from server
+71008470c0	4	5	Basic
+71008470c8	1	5	Proxy
+71008470d0	2	6	Bearer
+71008470d8	1	19	Proxy-authorization
+71008470f0	1	13	Authorization
+7100847100	1	27	%sAuthorization: Basic %s\n
+7100847120	1	26	Authorization: Bearer %s\n
+7100847140	1	32	%s auth using %s with user '%s'\n
+7100847168	3	14	Authorization:
+7100847178	1	25	Forcing HTTP/1.1 for NTLM
+7100847198	3	36	The requested URL returned error: %d
+71008471c0	1	39	Ignoring duplicate digest auth header.\n
+71008471e8	2	39	Authentication problem. Ignoring this.\n
+7100847210	1	24	PROXY %s %s %s %li %li\n
+7100847240	3	6	Expect
+7100847248	3	12	100-continue
+7100847258	3	7	Expect:
+7100847260	1	22	Expect: 100-continue\n
+7100847278	1	48	Malformatted trailing header ! Skipping trailer.
+71008472b0	2	5	Host:
+71008472b8	4	13	Content-Type:
+71008472c8	1	7	Cookie:
+71008472d0	2	17	If-Modified-Since
+71008472e8	1	19	If-Unmodified-Since
+7100847300	1	13	Last-Modified
+7100847310	1	17	Invalid TIMEVALUE
+7100847328	1	40	%s: %s, %02d %s %4d %02d:%02d:%02d GMT\n
+7100847360	0	7	OPTIONS
+7100847370	1	28	Transfer-Encoding: chunked\n
+7100847390	0	13	Accept: */*\n
+71008473a0	1	5	%s?%s
+71008473a8	2	7	Referer
+71008473b0	2	13	Referer: %s\n
+71008473c0	1	6	Cookie
+71008473c8	2	15	Accept-Encoding
+71008473d8	2	21	Accept-Encoding: %s\n
+71008473f0	1	10	Connection
+7100847400	1	30	Connection: %s%sTE\nTE: gzip\n
+7100847420	1	42	Chunky upload is not supported by HTTP 1.0
+7100847450	1	9	Host:%s\n
+7100847460	1	14	Host: %s%s%s\n
+7100847470	1	17	Host: %s%s%s:%d\n
+7100847488	3	6	;type=
+7100847490	1	8	;type=%c
+71008474a0	2	6	Accept
+71008474a8	1	40	Could only read %ld bytes from the input
+71008474d8	1	32	File already completely uploaded
+7100847500	1	17	Range: bytes=%s\n
+7100847518	1	13	Content-Range
+7100847528	1	32	Content-Range: bytes 0-%ld/%ld\n
+7100847550	1	32	Content-Range: bytes %s%ld/%ld\n
+7100847578	1	29	Content-Range: bytes %s/%ld\n
+71008475a0	1	14	ftp://%s:%s@%s
+71008475b8	1	36	%s HTTP/%s\n%s%s%s%s%s%s%s%s%s%s%s%s
+71008475e0	2	8	Cookie: 
+71008475f0	1	7	%s%s=%s
+71008475f8	7	21	Content-Length: %ld\n
+7100847610	1	26	Failed sending PUT request
+7100847630	1	21	Content-Length: 0\n\n
+7100847648	1	27	Failed sending POST request
+7100847668	4	14	Content-Length
+7100847678	1	49	Content-Type: application/x-www-form-urlencoded\n
+71008476b8	1	27	Failed sending HTTP request
+71008476d8	1	49	upload completely sent off: %ld out of %ld bytes\n
+7100847710	1	32	Failed sending HTTP POST request
+7100847738	1	35	Received HTTP/0.9 when not allowed\n
+7100847760	1	13	Received 101\n
+7100847770	1	56	no chunk, no close, no size. Assume close to signal end\n
+71008477b0	1	32	Got 417 while waiting for a 100\n
+71008477d8	1	44	HTTP error before end of send, keep sending\n
+7100847808	1	44	HTTP error before end of send, stop sending\n
+7100847838	1	38	Keep sending data to get tossed away!\n
+7100847860	1	18	 HTTP/%1d.%1d%c%3d
+7100847878	1	15	 HTTP/%1[23] %d
+7100847888	1	33	Lying server, not serving HTTP/2\n
+71008478b0	1	39	Mark bundle as not supporting multiuse\n
+71008478d8	1	9	 HTTP %3d
+71008478e8	1	18	 RTSP/%1d.%1d%c%3d
+7100847900	1	36	The requested URL returned error: %s
+7100847928	1	34	HTTP 1.0, assume close after body\n
+7100847950	1	32	Overflow Content-Length: value!\n
+7100847978	1	29	Invalid Content-Length: value
+7100847998	2	10	keep-alive
+71008479a8	1	45	HTTP/1.0 proxy connection set to keep alive!\n
+71008479d8	1	37	HTTP/1.1 proxy connection set close!\n
+7100847a00	1	39	HTTP/1.0 connection set to keep alive!\n
+7100847a28	1	17	Content-Encoding:
+7100847a40	1	12	Retry-After:
+7100847a50	1	14	Content-Range:
+7100847a60	1	14	Last-Modified:
+7100847a70	1	9	Location:
+7100847a80	1	36	Unsupported HTTP version in response
+7100847aa8	3	5	HTTPS
+7100847ab8	1	16	Recv failure: %s
+7100847ad0	1	50	Write callback asked for PAUSE when not supported!
+7100847b08	1	32	Failed writing body (%zu != %zu)
+7100847b30	1	21	Failed writing header
+7100847b48	1	16	Send failure: %s
+7100847b68	1	7	socks5h
+7100847b70	1	6	socks5
+7100847b78	1	7	socks4a
+7100847b80	1	6	socks4
+7100847b88	1	5	socks
+7100847b90	1	33	Unsupported proxy scheme for '%s'
+7100847bb8	1	32	Unsupported proxy syntax in '%s'
+7100847be0	1	73	Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+7100847c30	1	48	Too old connection (%ld seconds), disconnect it\n
+7100847c68	1	33	Connection %ld seems to be dead!\n
+7100847c90	1	23	Closing connection %ld\n
+7100847ca8	2	37	Connected to %s (%s) port %ld (#%ld)\n
+7100847cd0	5	53	IDN support not present, can't parse Unicode domains\n
+7100847d08	1	16	User-Agent: %s\n
+7100847d20	2	8	NO_PROXY
+7100847d30	2	8	no_proxy
+7100847d40	0	15	ftp@example.com
+7100847d50	1	13	can multiplex
+7100847d60	2	8	serially
+7100847d78	2	9	all_proxy
+7100847d88	2	9	ALL_PROXY
+7100847d98	1	50	Protocol "%s" not supported or disabled in libcurl
+7100847dd0	2	15	memory shortage
+7100847de0	2	35	Uses proxy env variable %s == '%s'\n
+7100847e10	1	10	http_proxy
+7100847e20	1	57	Couldn't find host %s in the .netrc file; using defaults\n
+7100847e60	1	58	Use of IPv6 in *_CONNECT_TO without IPv6 support built-in!
+7100847ea0	1	52	No valid port number in connect to host string (%s)\n
+7100847ed8	1	27	Connecting to hostname: %s\n
+7100847ef8	1	23	Connecting to port: %d\n
+7100847f10	1	34	Found bundle for host %s: %p [%s]\n
+7100847f38	1	43	Server doesn't support multiplex yet, wait\n
+7100847f68	1	39	Server doesn't support multiplex (yet)\n
+7100847f90	1	35	Could multiplex, but not asked to!\n
+7100847fb8	1	41	Can not multiplex, even if we wanted to!\n
+7100847fe8	2	47	Connection #%ld isn't open enough, can't reuse\n
+7100848018	1	30	Multiplexed connection found!\n
+7100848038	1	62	Found pending candidate for reuse and CURLOPT_PIPEWAIT is set\n
+7100848078	1	48	Re-using existing connection! (#%ld) with %s %s\n
+71008480b0	1	44	No more connections allowed to host %s: %zu\n
+71008480e0	1	34	No connections available in cache\n
+7100848108	1	26	No connections available.\n
+7100848128	1	26	Couldn't resolve host '%s'
+7100848148	1	27	Couldn't resolve proxy '%s'
+7100848168	1	7	%s://%s
+7100848170	1	13	<no protocol>
+7100848180	0	7	/MATCH:
+7100848190	0	6	/FIND:
+7100848198	0	23	lookup word is missing\n
+71008481b0	0	45	CLIENT libcurl 7.69.1\nMATCH %s %s %s\nQUIT\n
+71008481e0	0	27	Failed sending DICT request
+7100848200	0	8	/DEFINE:
+7100848218	0	8	/LOOKUP:
+7100848228	0	43	CLIENT libcurl 7.69.1\nDEFINE %s %s\nQUIT\n
+7100848258	0	33	CLIENT libcurl 7.69.1\n%s\nQUIT\n
+7100848288	1	76	Operation too slow. Less than %ld bytes/sec transferred the last %ld seconds
+71008482d8	1	7	USER,%s
+71008482e0	1	20	%127[^= ]%*[ =]%255s
+71008482f8	1	5	TTYPE
+7100848300	2	8	XDISPLOC
+7100848310	1	7	NEW_ENV
+7100848320	1	12	%hu%*[xX]%hu
+7100848330	1	33	Syntax error in telnet option: %s
+7100848358	2	6	BINARY
+7100848360	1	24	Unknown telnet option %s
+7100848390	1	10	%s IAC SB 
+71008483a0	1	15	(terminated by 
+71008483b8	1	15	, not IAC SE!) 
+71008483c8	1	18	(Empty suboption?)
+71008483e0	1	16	%s (unsupported)
+71008483f8	1	12	%d (unknown)
+7100848408	1	22	Width: %d ; Height: %d
+7100848428	1	5	 SEND
+7100848430	1	11	 INFO/REPLY
+7100848440	1	5	 NAME
+7100848448	1	5	 "%s"
+7100848458	2	5	 %.2x
+7100848480	1	5	EXOPL
+7100848488	3	10	%s IAC %s\n
+7100848498	4	10	%s IAC %d\n
+71008484a8	4	9	%s %s %s\n
+71008484b8	1	9	%s %s %d\n
+71008484c8	5	24	Sending data failed (%d)
+71008484e8	1	14	%c%c%c%c%s%c%c
+71008484f8	1	14	%127[^,],%127s
+7100848508	2	8	%c%s%c%s
+7100848520	2	29	In SUBOPTION processing, RCVD
+7100848540	1	8	Time-out
+7100848550	1	6	TELNET
+7100848568	1	5	ABORT
+7100848588	1	5	DMARK
+71008485e8	1	17	SUPPRESS GO AHEAD
+7100848608	1	6	STATUS
+7100848610	1	11	TIMING MARK
+7100848638	1	6	NAOCRD
+7100848640	1	6	NAOHTS
+7100848648	1	6	NAOHTD
+7100848650	1	6	NAOFFD
+7100848658	1	6	NAOVTS
+7100848660	1	6	NAOVTD
+7100848668	1	6	NAOLFD
+7100848670	1	12	EXTEND ASCII
+7100848680	2	6	LOGOUT
+7100848688	1	10	BYTE MACRO
+7100848698	1	11	DE TERMINAL
+71008486a8	1	6	SUPDUP
+71008486b0	1	13	SUPDUP OUTPUT
+71008486c0	1	13	SEND LOCATION
+71008486d0	1	9	TERM TYPE
+71008486e0	1	13	END OF RECORD
+71008486f0	1	10	TACACS UID
+7100848700	1	14	OUTPUT MARKING
+7100848710	1	6	TTYLOC
+7100848718	1	11	3270 REGIME
+7100848728	1	6	X3 PAD
+7100848738	1	10	TERM SPEED
+7100848748	1	5	LFLOW
+7100848750	1	8	LINEMODE
+7100848760	1	11	OLD-ENVIRON
+7100848770	1	14	AUTHENTICATION
+7100848780	1	7	ENCRYPT
+7100848788	1	11	NEW-ENVIRON
+71008487a0	2	7	machine
+71008487a8	2	5	login
+71008487b0	1	10	%s%s.netrc
+71008487c0	1	59	Moving trailers state machine from initialized to sending.\n
+7100848800	1	44	Unable to allocate trailing headers buffer !
+7100848830	1	46	operation aborted by trailing headers callback
+7100848860	1	33	Successfully compiled trailers.\n
+7100848888	1	29	operation aborted by callback
+71008488a8	1	49	Read callback asked for PAUSE when not supported!
+71008488e0	1	34	read function returned funny value
+7100848908	1	5	%zx%s
+7100848910	1	48	Signaling end of chunked upload after trailers.\n
+7100848948	1	55	Signaling end of chunked upload via terminating chunk.\n
+7100848980	1	28	Cannot rewind mime/post data
+71008489a0	1	31	seek callback returned error %d
+71008489c0	1	31	the ioctl callback returned %d\n
+71008489e0	1	32	ioctl callback returned error %d
+7100848a08	1	37	necessary data rewind wasn't possible
+7100848a30	3	41	The requested document is not new enough\n
+7100848a60	3	41	The requested document is not old enough\n
+7100848a90	1	26	select/poll returned error
+7100848ab0	1	55	Excess found: excess = %zd url = %s (zero-length body)\n
+7100848ae8	1	27	Ignoring the response-body\n
+7100848b08	1	41	The entire document is already downloaded
+7100848b38	1	63	HTTP server doesn't seem to support byte ranges. Cannot resume.
+7100848b78	1	30	Simulate a HTTP 304 response!\n
+7100848b98	1	41	Failed reading the chunked-encoded stream
+7100848bc8	1	22	%s in chunked-encoding
+7100848be0	2	36	Leftovers after chunking: %zu bytes\n
+7100848c08	2	85	Excess found in a read: excess = %zu, size = %ld, maxdownload = %ld, bytecount = %ld\n
+7100848c60	1	56	we are done reading and this is set to close, stop send\n
+7100848ca0	2	31	Failed to alloc scratch buffer!
+7100848cc0	1	36	We are completely uploaded and fine\n
+7100848ce8	1	30	Done waiting for 100-continue\n
+7100848d08	1	48	transfer closed with %ld bytes remaining to read
+7100848d40	1	52	transfer closed with outstanding read data remaining
+7100848d78	1	11	No URL set!
+7100848d88	1	32	Maximum (%ld) redirects followed
+7100848db0	1	40	Issue another request to this URL: '%s'\n
+7100848de0	1	24	Switch from POST to GET\n
+7100848e00	1	28	Disables POST, goes with %s\n
+7100848e20	1	41	REFUSED_STREAM, retrying a fresh connect\n
+7100848e50	1	42	Connection died, retrying a fresh connect\n
+7100848e80	0	27	Too long hexadecimal number
+7100848ea0	1	39	Illegal or missing hexadecimal sequence
+7100848ec8	1	24	Malformed encoding found
+7100848ee8	1	26	Bad content-encoding found
+7100848f08	7	6	1.2.11
+7100848f10	7	45	Error while processing content unencoding: %s
+7100848f40	7	89	Error while processing content unencoding: Unknown failure within decompression software.
+7100848fa0	1	7	1.2.0.4
+7100848fa8	1	77	Unrecognized content encoding type. libcurl understands %s content encodings.
+7100849000	2	6	x-gzip
+7100849008	4	7	deflate
+7100849010	1	34	Curl_ipv4_resolve_r failed for %s\n
+7100849040	3	6	Monday
+7100849050	1	57	%31[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]
+7100849090	1	16	%02d:%02d:%02d%n
+71008490a8	1	11	%02d:%02d%n
+71008490b8	3	7	Tuesday
+71008490c0	3	9	Wednesday
+71008490d0	3	8	Thursday
+71008490e0	3	6	Friday
+71008490e8	3	8	Saturday
+71008490f8	3	6	Sunday
+7100849188	1	42	Received last DATA packet block %d again.\n
+71008491b8	1	61	Received unexpected DATA packet block %d, expecting block %d\n
+71008491f8	2	48	Timeout waiting for block %d ACK.  Retries = %d\n
+7100849230	1	23	tftp_rx: internal error
+7100849248	1	57	set timeouts for state %d; Total %ld, retry %d maxtry %d\n
+7100849288	1	40	Received ACK for block %d, expecting %d\n
+71008492b8	1	43	tftp_tx: giving up waiting for block %d ack
+71008492e8	1	34	tftp_tx: internal error, event: %i
+7100849310	1	17	bind() failed; %s
+7100849328	2	6	;mode=
+7100849330	1	5	octet
+7100849338	2	8	netascii
+7100849348	1	24	TFTP file name too long\n
+7100849368	1	8	%s%c%s%c
+7100849378	2	5	tsize
+7100849380	1	33	TFTP buffer too small for options
+71008493a8	1	22	Connected for transmit
+71008493c0	1	21	Connected for receive
+71008493d8	1	31	tftp_send_first: internal error
+71008493f8	1	13	TFTP finished
+7100849408	1	28	Internal state machine error
+7100849428	1	21	TFTP response timeout
+7100849440	1	25	Received too short packet
+7100849460	1	15	TFTP error: %s\n
+7100849470	1	31	Malformed ACK packet, rejecting
+7100849490	1	38	invalid blocksize value in OACK packet
+71008494b8	1	36	blksize is larger than max supported
+71008494e0	2	7	%s (%d)
+71008494e8	1	37	blksize is smaller than min supported
+7100849510	1	46	server requested blksize larger than allocated
+7100849540	1	8	%s (%ld)
+7100849550	1	9	requested
+7100849560	1	24	blksize parsed from OACK
+7100849580	1	16	%s (%d) %s (%d)\n
+7100849598	1	22	tsize parsed from OACK
+71008495b0	1	9	%s (%ld)\n
+71008495c0	1	41	invalid tsize -:%s:- value in OACK packet
+71008495f0	1	33	Internal error: Unexpected packet
+7100849618	2	27	got option=(%s) value=(%s)\n
+7100849638	2	7	blksize
+7100849648	1	6	%c%03d
+7100849650	3	5	%s %s
+7100849658	1	11	LIST "%s" *
+7100849668	1	25	UID FETCH %s BODY[%s]<%s>
+7100849688	1	21	UID FETCH %s BODY[%s]
+71008496a0	1	21	FETCH %s BODY[%s]<%s>
+71008496b8	1	17	FETCH %s BODY[%s]
+71008496d0	1	27	Cannot FETCH without a UID.
+71008496f0	0	7	PREAUTH
+71008496f8	3	10	CAPABILITY
+7100849708	1	5	STORE
+7100849710	1	6	SELECT
+7100849718	2	5	FETCH
+7100849720	1	7	EXAMINE
+7100849728	2	6	SEARCH
+7100849730	1	7	EXPUNGE
+7100849750	1	32	Unexpected continuation response
+7100849778	1	18	AUTHENTICATE %s %s
+7100849790	1	15	AUTHENTICATE %s
+71008497a0	1	11	LOGIN %s %s
+71008497b0	3	46	No known authentication mechanisms supported!\n
+71008497e0	3	5	AUTH=
+71008497e8	1	11	UIDVALIDITY
+71008497f8	1	9	MAILINDEX
+7100849808	1	7	SECTION
+7100849810	1	7	PARTIAL
+7100849818	1	32	Cannot APPEND without a mailbox.
+7100849840	2	12	Mime-Version
+7100849850	2	17	Mime-Version: 1.0
+7100849868	1	43	Cannot APPEND with unknown input file size\n
+7100849898	1	23	APPEND %s (\Seen) {%ld}
+71008498b0	2	37	Cannot SEARCH without a query string.
+71008498d8	2	9	SEARCH %s
+71008498e8	1	32	Cannot SELECT without a mailbox.
+7100849910	1	9	SELECT %s
+7100849920	1	43	PREAUTH connection, already authenticated!\n
+7100849950	1	35	Got unexpected imap-server response
+7100849978	0	13	LOGINDISABLED
+7100849990	2	8	STARTTLS
+71008499a0	2	23	STARTTLS not supported.
+71008499b8	2	15	STARTTLS denied
+71008499c8	3	24	Authentication cancelled
+71008499e8	2	17	Access denied. %c
+7100849a00	1	32	OK [UIDVALIDITY %19[0123456789]]
+7100849a28	1	31	Mailbox UIDVALIDITY has changed
+7100849a48	1	13	Select failed
+7100849a58	1	28	Found %ld bytes to download\n
+7100849a78	1	51	Written %zu bytes, %lu bytes are left for transfer\n
+7100849ab0	1	31	Failed to parse FETCH response.
+7100849ad8	1	5	IMAPS
+7100849ae8	2	10	AUTH %s %s
+7100849af8	4	7	AUTH %s
+7100849b00	1	10	APOP %s %s
+7100849b10	1	5	+APOP
+7100849b20	4	7	USER %s
+7100849b28	4	5	\n.\n
+7100849b30	1	35	Got unexpected pop3-server response
+7100849b68	1	19	STLS not supported.
+7100849b80	1	25	Authentication failed: %d
+7100849ba0	2	7	PASS %s
+7100849bb0	1	5	POP3S
+7100849bc0	1	15	RCPT TO:<%s@%s>
+7100849bd0	1	12	RCPT TO:<%s>
+7100849be0	1	9	 SMTPUTF8
+7100849bf0	1	13	VRFY %s%s%s%s
+7100849c08	1	7	%s %s%s
+7100849c10	1	6	 AUTH=
+7100849c18	1	6	 SIZE=
+7100849c28	1	22	MAIL FROM:%s%s%s%s%s%s
+7100849c40	2	7	EHLO %s
+7100849c48	1	39	Got unexpected smtp-server response: %d
+7100849c70	1	7	HELO %s
+7100849c78	2	24	Remote access denied: %d
+7100849ca0	1	32	Unexpectedly short EHLO response
+7100849cc8	1	24	STARTTLS denied, code %d
+7100849ce8	1	18	Command failed: %d
+7100849d00	1	15	MAIL failed: %d
+7100849d10	1	28	RCPT failed: %d (last error)
+7100849d38	1	15	DATA failed: %d
+7100849d48	1	15	RCPT failed: %d
+7100849d68	1	5	SMTPS
+7100849d78	1	23	server response timeout
+7100849d90	1	17	select/poll error
+7100849da8	1	38	cached response data too big to handle
+7100849dd0	1	23	response reading failed
+7100849de8	2	69	Excessive server response line length received, %zd bytes. Stripping\n
+7100849e30	1	59	The CSeq of this request %ld did not match the response %ld
+7100849e70	1	38	Got an RTP Receive with a CSeq of %ld\n
+7100849e98	2	8	ANNOUNCE
+7100849ea8	0	25	Accept: application/sdp\n
+7100849ec8	0	13	GET_PARAMETER
+7100849ed8	1	13	SET_PARAMETER
+7100849ee8	0	6	RECORD
+7100849ef0	0	8	DESCRIBE
+7100849f00	0	5	SETUP
+7100849f10	0	5	PAUSE
+7100849f18	0	8	TEARDOWN
+7100849f28	1	24	Got invalid RTSP request
+7100849f48	1	38	Got invalid RTSP request: RTSPREQ_LAST
+7100849f70	1	60	Refusing to issue an RTSP request [%s] without a session ID.
+7100849fb0	3	9	Transport
+7100849fc0	1	15	Transport: %s\n
+7100849fd0	1	60	Refusing to issue an RTSP SETUP without a Transport: header.
+710084a010	1	11	Range: %s\n
+710084a028	1	38	CSeq cannot be set as a custom header.
+710084a050	1	7	Session
+710084a058	1	44	Session ID cannot be set as a custom header.
+710084a088	1	27	%s %s RTSP/1.0\nCSeq: %ld\n
+710084a0a8	1	13	Session: %s\n
+710084a0b8	1	16	%s%s%s%s%s%s%s%s
+710084a0d0	1	31	Content-Type: text/parameters\n
+710084a0f0	1	31	Content-Type: application/sdp\n
+710084a110	1	27	Failed sending RTSP request
+710084a130	1	16	Cannot pause RTP
+710084a148	1	23	Failed writing RTP data
+710084a160	1	34	Got an error writing an RTP packet
+710084a188	1	5	CSeq:
+710084a190	1	5	: %ld
+710084a198	1	36	Unable to read the CSeq header: [%s]
+710084a1c0	1	8	Session:
+710084a1d0	1	49	Got RTSP Session ID Line [%s], but wanted ID [%s]
+710084a208	1	22	Got a blank Session ID
+710084a228	0	29	Failed sending Gopher request
+710084a248	1	6	GOPHER
+710084a250	1	5	LOGIN
+710084a258	2	8	EXTERNAL
+710084a270	1	5	PLAIN
+710084a278	0	11	OAUTHBEARER
+710084a288	0	10	DIGEST-MD5
+710084a298	0	8	CRAM-MD5
+710084a2b0	1	41	Unsupported SASL authentication mechanism
+710084a2f0	1	32	WARNING: Using weak random seed\n
+710084a318	1	5	%02x:
+710084a320	1	17	1.2.840.10040.4.1
+710084a350	1	5	%s%lx
+710084a358	1	36	%u%.2s-%.2s-%.2s %.2s:%.2s:%.2s %.*s
+710084a380	1	41	%.4s-%.2s-%.2s %.2s:%.2s:%c%c%s%.*s%s%.*s
+710084a3b0	1	10	   %s: %s\n
+710084a3c0	1	7	Subject
+710084a3c8	1	16	%2d Subject: %s\n
+710084a3e0	1	6	Issuer
+710084a3e8	1	14	   Issuer: %s\n
+710084a400	1	7	Version
+710084a408	1	24	   Version: %lu (0x%lx)\n
+710084a428	1	13	Serial Number
+710084a438	1	21	   Serial Number: %s\n
+710084a450	1	19	Signature Algorithm
+710084a468	1	27	   Signature Algorithm: %s\n
+710084a488	1	10	Start Date
+710084a498	1	18	   Start Date: %s\n
+710084a4b0	1	11	Expire Date
+710084a4c0	1	19	   Expire Date: %s\n
+710084a4d8	1	20	Public Key Algorithm
+710084a4f0	1	28	   Public Key Algorithm: %s\n
+710084a510	3	13	rsaEncryption
+710084a520	1	29	   RSA Public Key (%lu bits)\n
+710084a548	1	14	RSA Public Key
+710084a558	1	6	rsa(n)
+710084a560	1	6	rsa(e)
+710084a570	1	6	dsa(p)
+710084a578	1	6	dsa(q)
+710084a580	1	6	dsa(g)
+710084a588	1	12	dsa(pub_key)
+710084a598	2	14	dhpublicnumber
+710084a5a8	1	5	dh(p)
+710084a5b0	1	5	dh(g)
+710084a5b8	1	11	dh(pub_key)
+710084a5c8	1	9	Signature
+710084a5d8	1	17	   Signature: %s\n
+710084a5f0	0	27	-----BEGIN CERTIFICATE-----
+710084a610	0	25	-----END CERTIFICATE-----
+710084a650	1	13	dsa-with-sha1
+710084a678	1	11	ecPublicKey
+710084a688	1	19	1.2.840.10045.3.0.1
+710084a6a0	1	10	c2pnb163v1
+710084a6b0	1	17	1.2.840.10045.4.1
+710084a6c8	1	15	ecdsa-with-SHA1
+710084a6d8	1	17	1.2.840.10046.2.1
+710084a6f0	1	20	1.2.840.113549.1.1.1
+710084a708	1	20	1.2.840.113549.1.1.2
+710084a720	1	20	md2WithRSAEncryption
+710084a738	1	20	1.2.840.113549.1.1.4
+710084a750	1	20	md5WithRSAEncryption
+710084a768	1	20	1.2.840.113549.1.1.5
+710084a780	1	21	sha1WithRSAEncryption
+710084a798	1	21	1.2.840.113549.1.1.10
+710084a7b0	1	10	RSASSA-PSS
+710084a7c0	1	21	1.2.840.113549.1.1.14
+710084a7d8	1	23	sha224WithRSAEncryption
+710084a7f0	1	21	1.2.840.113549.1.1.11
+710084a808	1	23	sha256WithRSAEncryption
+710084a820	1	21	1.2.840.113549.1.1.12
+710084a838	1	23	sha384WithRSAEncryption
+710084a850	1	21	1.2.840.113549.1.1.13
+710084a868	1	23	sha512WithRSAEncryption
+710084a880	1	18	1.2.840.113549.2.2
+710084a8a0	1	18	1.2.840.113549.2.5
+710084a8c0	1	13	1.3.14.3.2.26
+710084a8e0	1	7	2.5.4.4
+710084a8f0	1	7	2.5.4.5
+710084a8f8	1	12	serialNumber
+710084a908	1	7	2.5.4.6
+710084a910	1	7	2.5.4.7
+710084a918	1	7	2.5.4.8
+710084a928	1	7	2.5.4.9
+710084a930	1	13	streetAddress
+710084a940	1	8	2.5.4.10
+710084a950	1	8	2.5.4.11
+710084a968	1	8	2.5.4.12
+710084a978	1	8	2.5.4.13
+710084a988	1	8	2.5.4.17
+710084a998	1	10	postalCode
+710084a9a8	1	8	2.5.4.41
+710084a9b8	1	8	2.5.4.42
+710084a9c8	1	9	givenName
+710084a9d8	1	8	2.5.4.43
+710084a9e8	1	8	initials
+710084a9f8	1	8	2.5.4.44
+710084aa08	1	19	generationQualifier
+710084aa20	1	8	2.5.4.45
+710084aa30	1	20	X500UniqueIdentifier
+710084aa48	1	8	2.5.4.46
+710084aa58	1	11	dnQualifier
+710084aa68	1	8	2.5.4.65
+710084aa78	1	9	pseudonym
+710084aa88	1	20	1.2.840.113549.1.9.1
+710084aaa0	1	12	emailAddress
+710084aab0	1	8	2.5.4.72
+710084aac8	1	14	subjectAltName
+710084aad8	1	9	2.5.29.18
+710084aae8	1	13	issuerAltName
+710084ab08	1	16	basicConstraints
+710084ab20	1	22	2.16.840.1.101.3.4.2.4
+710084ab38	1	6	sha224
+710084ab40	1	22	2.16.840.1.101.3.4.2.1
+710084ab58	1	6	sha256
+710084ab60	1	22	2.16.840.1.101.3.4.2.2
+710084ab78	1	6	sha384
+710084ab80	1	22	2.16.840.1.101.3.4.2.3
+710084ab98	1	6	sha512
+710084aba0	1	37	a DOH request is completed, %u to go\n
+710084abc8	1	15	DOH request %s\n
+710084abd8	1	33	Failed to encode DOH packet [%d]\n
+710084ac00	1	9	%s?dns=%s
+710084ac10	1	37	Content-Type: application/dns-message
+710084ac38	1	14	bad error code
+710084ac50	1	9	Bad label
+710084ac60	1	12	Out of range
+710084ac70	2	9	Too small
+710084ac80	1	6	Bad ID
+710084ac88	1	9	Bad RCODE
+710084ac98	1	15	Unexpected TYPE
+710084aca8	1	16	Unexpected CLASS
+710084acc0	1	9	Malformat
+710084acd0	2	10	No content
+710084ace0	1	10	Label loop
+710084acf0	1	12	RDATA length
+710084ad00	1	25	Could not DOH-resolve: %s
+710084ad20	1	23	DOH: %s type %s for %s\n
+710084ad38	1	18	DOH Host name: %s\n
+710084ad50	1	16	TTL: %u seconds\n
+710084ad68	1	19	DOH A: %u.%u.%u.%u\n
+710084ad80	2	10	DOH AAAA: 
+710084ad90	1	10	%s%02x%02x
+710084ada0	1	10	CNAME: %s\n
+710084adb0	1	24	0123456789abcdefABCDEF:.
+710084add0	4	6	%%%02x
+710084adf0	1	10	localhost/
+710084ae00	1	10	127.0.0.1/
+710084ae10	1	35	[%*45[0123456789abcdefABCDEF:.]%c%n
+710084ae38	1	10	%*[^]]%c%n
+710084ae50	1	5	dict.
+710084ae58	1	5	ldap.
+710084ae60	1	5	imap.
+710084ae68	1	5	smtp.
+710084ae70	1	5	pop3.
+710084ae78	1	13	file://%s%s%s
+710084ae88	1	7	%%25%s]
+710084ae90	1	35	%s://%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+710084aeb8	1	8	%s/%s@%s
+710084aec8	1	5	%s@%s
+710084aed0	1	67	%s %02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+710084af90	1	25	Can't open %s for writing
+710084afb0	1	24	Can't get the size of %s
+710084afd0	1	22	Accept-ranges: bytes\n
+710084afe8	1	53	Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT\n%s
+710084b020	1	27	Can't get the size of file.
+710084b040	1	33	failed to resume file:// transfer
+710084b068	0	21	Couldn't open file %s
+710084b088	1	32	ftp server doesn't support SIZE\n
+710084b0b0	1	43	Instructs server to resume from offset %ld\n
+710084b0e0	1	8	REST %ld
+710084b0f0	3	7	RETR %s
+710084b0f8	1	30	Connect data stream passively\n
+710084b118	1	29	Failed EPSV attempt, exiting\n
+710084b138	1	36	Failed EPSV attempt. Disabling EPSV\n
+710084b168	0	7	APPE %s
+710084b170	1	7	STOR %s
+710084b178	3	7	SIZE %s
+710084b180	1	33	File already completely uploaded\n
+710084b1a8	2	24	getsockname() failed: %s
+710084b1c8	1	50	failed to resolve the address provided to PORT: %s
+710084b200	2	47	bind(port=%hu) on non-local address failed: %s\n
+710084b230	1	25	bind(port=%hu) failed: %s
+710084b250	2	18	socket failure: %s
+710084b268	1	14	%s |%d|%s|%hu|
+710084b278	1	32	Failure sending EPRT command: %s
+710084b2a0	1	32	Failure sending PORT command: %s
+710084b2c8	1	35	bind() failed, we ran out of ports!
+710084b2f0	1	10	%c%c%c%u%c
+710084b300	1	33	Illegal port number in EPSV reply
+710084b328	1	28	Weirdly formatted EPSV reply
+710084b348	1	56	Skip %u.%u.%u.%u for data connection, re-use %s instead\n
+710084b388	1	11	%u.%u.%u.%u
+710084b398	1	28	Bad PASV/EPSV response: %03d
+710084b3b8	1	31	Can't resolve proxy host %s:%hu
+710084b3d8	1	29	Can't resolve new host %s:%hu
+710084b3f8	1	30	Connecting to %s (%s) port %d\n
+710084b418	1	35	Couldn't interpret the 227-response
+710084b440	1	47	Doing the SSL/TLS handshake on the data stream\n
+710084b470	1	39	Uploading to a URL without a file name!
+710084b498	1	43	Request has same path as previous transfer\n
+710084b4c8	0	32	Failure sending QUIT command: %s
+710084b4f0	1	32	Error accept()ing server connect
+710084b518	1	32	Connection accepted from server\n
+710084b540	4	7	TYPE %c
+710084b548	1	7	MDTM %s
+710084b550	4	6	CWD %s
+710084b558	1	7	PRET %s
+710084b560	1	12	PRET STOR %s
+710084b570	1	12	PRET RETR %s
+710084b580	1	7	REST %d
+710084b588	1	25	Couldn't set desired mode
+710084b5a8	1	52	Got a %03d response code instead of the assumed 200\n
+710084b5e0	1	20	FTP response timeout
+710084b5f8	1	49	FTP response aborted due to select/poll error: %d
+710084b630	2	24	We got a 421 - timeout!\n
+710084b650	1	28	Checking for server connect\n
+710084b670	2	52	Accept timeout occurred while waiting server connect
+710084b6a8	1	55	There is negative response in cache while serv connect\n
+710084b6e0	1	38	Error while waiting for server connect
+710084b708	1	44	Ready to accept data connection from server\n
+710084b738	1	47	Ctrl conn has data while waiting for data conn\n
+710084b768	1	44	Preparing for accepting server on data port\n
+710084b798	1	7	PBSZ %d
+710084b7a0	1	52	Got a %03d ftp-server response when 220 was expected
+710084b7d8	1	47	unsupported parameter to CURLOPT_FTPSSLAUTH: %d
+710084b808	1	7	ACCT %s
+710084b810	1	33	ACCT requested but none available
+710084b838	1	19	Access denied: %03d
+710084b850	1	29	ACCT rejected by server: %03d
+710084b870	1	7	PROT %c
+710084b880	1	41	Failed to clear the command channel (CCC)
+710084b8b8	2	19	Entry path is '%s'\n
+710084b8d0	1	26	Failed to figure out path\n
+710084b8f0	1	6	OS/400
+710084b8f8	1	14	SITE NAMEFMT 1
+710084b908	1	29	QUOT command failed with %03d
+710084b928	1	6	MKD %s
+710084b930	1	50	Server denied you to change to the given directory
+710084b968	1	23	Failed to MKD dir: %03d
+710084b980	1	24	%04d%02d%02d%02d%02d%02d
+710084b9a0	1	31	%04d%02d%02d %02d:%02d:%02d GMT
+710084b9c0	1	51	Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT\n
+710084b9f8	1	30	unsupported MDTM reply format\n
+710084ba18	1	25	Given file does not exist
+710084ba38	1	25	Skipping time comparison\n
+710084ba58	1	17	Couldn't use REST
+710084ba70	1	31	PRET command not accepted: %03d
+710084ba90	1	21	disabling EPRT usage\n
+710084baa8	1	17	Failed to do PORT
+710084bac0	1	29	Connect data stream actively\n
+710084bae0	1	6	 bytes
+710084bae8	4	18	Maxdownload = %ld\n
+710084bb00	1	28	Getting file with size: %ld\n
+710084bb20	2	40	Data conn was not available immediately\n
+710084bb50	1	19	RETR response: %03d
+710084bb68	1	22	Failed FTP upload: %0d
+710084bb80	1	27	Wildcard - Parsing started\n
+710084bba0	1	25	Wildcard - START of "%s"\n
+710084bbc0	1	32	Wildcard - "%s" skipped by user\n
+710084bbe8	1	36	ftp_perform ends with SECONDARY: %d\n
+710084bc10	1	31	Remembering we are in dir "%s"\n
+710084bc30	1	32	Failure sending ABOR command: %s
+710084bc58	1	29	control connection looks dead
+710084bc78	1	47	partial download completed, closing connection\n
+710084bca8	1	32	server did not report OK, got %d
+710084bcd0	1	51	Uploaded unaligned file size (%ld out of %ld bytes)
+710084bd08	1	37	Received only partial file: %ld bytes
+710084bd30	1	21	No data was received!
+710084bd48	1	28	QUOT string not accepted: %s
+710084bd70	1	6	total 
+710084bd78	1	8	rwx-tTsS
+710084bd88	1	11	0123456789-
+710084bd98	1	14	APM0123456789:
+710084bdb0	1	23	Would block sending EOF
+710084bdc8	1	29	Unable to send EOF on channel
+710084bde8	1	41	Unable to allocate space for channel data
+710084be18	1	46	Failed allocating memory for channel type name
+710084be48	1	45	Unable to allocate temporary space for packet
+710084be78	1	40	Would block sending channel-open request
+710084bea8	1	35	Unable to send channel-open request
+710084bed0	5	11	Would block
+710084bee0	4	22	Unexpected packet size
+710084bef8	1	50	Channel open failure (administratively prohibited)
+710084bf30	1	37	Channel open failure (connect failed)
+710084bf58	1	43	Channel open failure (unknown channel type)
+710084bf88	1	40	Channel open failure (resource shortage)
+710084bfb8	1	20	Channel open failure
+710084bfd8	1	43	Unable to allocate memory for setenv packet
+710084c008	0	13	tcpip-forward
+710084c018	0	68	Would block sending global-request packet for forward listen request
+710084c060	1	63	Unable to send global-request packet for forward listen request
+710084c0a0	0	44	Unable to allocate memory for listener queue
+710084c0d0	0	45	Unable to complete request for forward-listen
+710084c100	1	25	Channel can not be reused
+710084c120	1	53	Unable to allocate memory for channel-process request
+710084c158	1	35	Would block sending channel request
+710084c180	1	30	Unable to send channel request
+710084c1a0	1	34	Failed waiting for channel success
+710084c1c8	1	54	Unable to complete request for channel-process-startup
+710084c200	1	33	Would block sending window adjust
+710084c228	1	59	Unable to send transfer-window adjustment packet, deferring
+710084c268	3	24	Unexpected packet length
+710084c288	1	14	transport read
+710084c298	1	11	would block
+710084c2a8	1	33	We've already closed this channel
+710084c2d0	1	52	EOF has already been received, data might be ignored
+710084c308	1	36	Failure while draining incoming flow
+710084c330	2	27	Unable to send channel data
+710084c350	1	43	Receiving channel window has been exhausted
+710084c380	1	37	_libssh2_transport_read() bailed out!
+710084c3a8	1	46	Unable to send EOF, but closing channel anyway
+710084c3d8	1	33	Would block sending close-channel
+710084c400	1	56	Unable to send close-channel request, but closing anyway
+710084c440	1	70	libssh2_channel_wait_closed() invoked when channel is not in EOF state
+710084c488	4	7	session
+710084c490	1	9	channel.c
+710084c4a0	1	20	cancel-tcpip-forward
+710084c4b8	1	35	Would block sending forward request
+710084c4e0	1	8	nistp256
+710084c4f0	1	8	nistp384
+710084c500	1	8	nistp521
+710084c510	2	40	ecdsa-sha2-nistp521-cert-v01@openssh.com
+710084c540	2	40	ecdsa-sha2-nistp384-cert-v01@openssh.com
+710084c570	2	40	ecdsa-sha2-nistp256-cert-v01@openssh.com
+710084c5a0	6	18	ecdh-sha2-nistp256
+710084c5b8	3	18	ecdh-sha2-nistp384
+710084c5d0	2	18	ecdh-sha2-nistp521
+710084c5e8	1	26	Host key data is too short
+710084c608	1	52	Unable to allocate memory for a copy of the host key
+710084c640	2	37	Unable to initialize hostkey importer
+710084c668	3	21	Unexpected key length
+710084c680	1	33	Unexpected ecdh server sig length
+710084c6a8	1	35	Unable to create ECDH shared secret
+710084c6d0	2	31	Unable to allocate buffer for K
+710084c6f0	4	22	SSH-2.0-libssh2_1.10.0
+710084c708	2	34	Unable to verify hostkey signature
+710084c730	2	30	Unable to send NEWKEYS message
+710084c750	2	29	Timed out waiting for NEWKEYS
+710084c770	1	31	Unknown SHA digest for EC curve
+710084c790	2	40	Unable to allocate buffer for SHA digest
+710084c7c0	1	28	Unknown KEX nistp curve type
+710084c7e0	1	28	Unable to create private key
+710084c800	1	24	Unable to send ECDH_INIT
+710084c820	1	36	Timeout waiting for ECDH_REPLY reply
+710084c848	1	31	sha algo value is unimplemented
+710084c868	1	29	dh modulus value is too large
+710084c888	1	19	Out of memory error
+710084c8a0	1	31	Unable to send KEX init message
+710084c8c0	1	31	Timed out waiting for KEX reply
+710084c8e0	1	23	Could not copy host key
+710084c8f8	1	21	Unable to get f value
+710084c910	1	19	Unable to get h sig
+710084c928	1	5	kex.c
+710084c930	1	37	Unable to send Group Exchange Request
+710084c958	1	35	Timeout waiting for GEX_GROUP reply
+710084c980	2	16	Unexpected value
+710084c998	1	44	Unable to send Group Exchange Request SHA256
+710084c9c8	1	42	Timeout waiting for GEX_GROUP reply SHA256
+710084c9f8	1	25	Unable to allocate memory
+710084ca18	1	45	Unable to get random bytes for KEXINIT cookie
+710084ca48	1	44	Unable to send KEXINIT packet to remote host
+710084ca78	1	35	Unrecoverable error exchanging keys
+710084caa0	1	43	Invalid parameter specified for method_type
+710084cad0	1	44	Error allocated space for method preferences
+710084cb00	1	51	The requested method(s) are not currently supported
+710084cb38	1	36	diffie-hellman-group-exchange-sha256
+710084cb60	1	34	diffie-hellman-group-exchange-sha1
+710084cb88	1	29	diffie-hellman-group18-sha512
+710084cba8	1	29	diffie-hellman-group16-sha512
+710084cbc8	1	29	diffie-hellman-group14-sha256
+710084cbe8	1	27	diffie-hellman-group14-sha1
+710084cc08	1	26	diffie-hellman-group1-sha1
+710084cc28	1	26	hmac-ripemd160@openssh.com
+710084cc48	1	14	hmac-ripemd160
+710084cc58	1	11	hmac-md5-96
+710084cc68	1	8	hmac-md5
+710084cc78	1	12	hmac-sha1-96
+710084cc88	1	9	hmac-sha1
+710084cc98	1	13	hmac-sha2-256
+710084cca8	1	13	hmac-sha2-512
+710084ccb8	1	28	former error forgotten (OOM)
+710084ccd8	1	45	Unable to allocate memory for base64 decoding
+710084cd08	1	14	Invalid base64
+710084cd18	1	20	Invalid MAC received
+710084cd30	1	17	socket disconnect
+710084cd48	1	35	Packet received for unknown channel
+710084cd70	1	64	Packet contains more data than we offered to receive, truncating
+710084cdb8	1	48	The current receive window is full, data ignored
+710084cdf0	1	60	Remote sent more data than current window allows, truncating
+710084ce30	0	11	exit-status
+710084ce40	0	11	exit-signal
+710084ce50	1	22	memory for signal name
+710084ce68	2	15	forwarded-tcpip
+710084ce78	1	33	Data too short extracting channel
+710084cea0	1	37	Data too short extracting window size
+710084cec8	1	32	Data too short extracting packet
+710084cef0	1	30	Data too short extracting host
+710084cf10	1	30	Data too short extracting port
+710084cf30	1	31	Data too short extracting shost
+710084cf50	1	31	Data too short extracting sport
+710084cf70	2	47	Unable to allocate a channel for new connection
+710084cfa0	2	40	Unable to send channel open confirmation
+710084cfd0	1	21	Forward not requested
+710084cfe8	2	27	Unable to send open failure
+710084d010	1	22	unexpected data length
+710084d028	1	30	unexpected sender channel size
+710084d048	1	22	unexpected window size
+710084d060	1	20	unexpected host size
+710084d078	1	20	unexpected port size
+710084d090	2	37	allocate a channel for new connection
+710084d0b8	1	23	X11 Forward Unavailable
+710084d0d0	2	51	Unable to allocate a command buffer for SCP session
+710084d108	1	9	scp -%sf 
+710084d118	3	31	Would block starting up channel
+710084d140	2	34	Would block requesting SCP startup
+710084d168	1	34	Would block sending initial wakeup
+710084d190	2	36	Would block waiting for SCP response
+710084d1b8	1	27	Failed reading SCP response
+710084d1d8	1	21	Failed to get memory 
+710084d1f0	1	19	Failed to recv file
+710084d208	1	28	Invalid data in SCP response
+710084d228	1	37	Unterminated response from SCP server
+710084d250	2	43	Invalid response from SCP server, too short
+710084d280	1	49	Invalid response from SCP server, malformed mtime
+710084d2b8	1	54	Invalid response from SCP server, malformed mtime.usec
+710084d2f0	2	56	Invalid response from SCP server, too short or malformed
+710084d330	1	35	Would block waiting to send SCP ACK
+710084d358	1	32	Invalid response from SCP server
+710084d380	1	48	Invalid response from SCP server, malformed mode
+710084d3b8	1	46	Invalid response from SCP server, invalid mode
+710084d3e8	1	46	Invalid response from SCP server, invalid size
+710084d418	1	27	Would block sending SCP ACK
+710084d438	2	24	Unexpected channel close
+710084d458	1	9	scp -%st 
+710084d468	1	40	Unknown error while getting error string
+710084d498	1	44	Would block waiting for response from remote
+710084d4c8	1	11	SCP failure
+710084d4d8	1	32	Invalid ACK response from remote
+710084d500	1	13	T%ld 0 %ld 0\n
+710084d510	1	42	Would block sending time data for SCP file
+710084d540	1	37	Unable to send time data for SCP file
+710084d568	1	32	Would block waiting for response
+710084d590	1	24	Invalid SCP ACK response
+710084d5b0	1	13	C0%o %lld %s\n
+710084d5c0	1	44	Would block send core file data for SCP file
+710084d5f0	1	42	Unable to send core file data for SCP file
+710084d620	1	20	failed to get memory
+710084d638	1	19	failed to send file
+710084d650	0	20	No method negotiated
+710084d668	1	19	API timeout expired
+710084d680	1	27	Timed out waiting on socket
+710084d6a0	1	23	Error waiting on socket
+710084d6b8	0	24	SSH-2.0-libssh2_1.10.0\n
+710084d6d8	1	19	Bad socket provided
+710084d6f0	1	55	Failed changing socket's blocking state to non-blocking
+710084d728	1	21	Failed sending banner
+710084d740	1	40	Error allocating space for remote banner
+710084d770	1	21	Failed getting banner
+710084d790	1	34	Unable to exchange encryption keys
+710084d7b8	2	12	ssh-userauth
+710084d7c8	1	38	Unable to ask for ssh-userauth service
+710084d7f0	1	37	Invalid response received from server
+710084d818	1	20	too long description
+710084d830	1	34	malloc fail for zombie request  ID
+710084d858	1	12	channel read
+710084d868	1	21	SFTP packet too large
+710084d880	1	36	Unable to allocate empty SFTP packet
+710084d8a8	1	30	Unable to allocate SFTP packet
+710084d8c8	1	29	Error waiting for SFTP packet
+710084d8e8	1	26	Out of sync with the world
+710084d908	1	44	Unable to allocate datablock for SFTP packet
+710084d938	1	48	Unable to allocate memory for FXP_READDIR packet
+710084d970	3	31	_libssh2_channel_write() failed
+710084d990	1	24	Status message too short
+710084d9b0	3	34	Timeout waiting for status message
+710084d9d8	12	19	SFTP Protocol Error
+710084d9f0	1	29	session not authenticated yet
+710084da10	1	30	session->sftpInit_sftp == NULL
+710084da30	5	6	sftp.c
+710084da38	1	25	Unable to startup channel
+710084da58	1	9	subsystem
+710084da68	1	37	Would block to request SFTP subsystem
+710084da90	1	32	Unable to request SFTP subsystem
+710084dab8	1	43	Would block requesting handle extended data
+710084dae8	1	39	Unable to allocate a new SFTP structure
+710084db10	1	32	Would block sending SSH_FXP_INIT
+710084db38	1	27	Unable to send SSH_FXP_INIT
+710084db58	1	37	Would block receiving SSH_FXP_VERSION
+710084db80	1	32	Invalid SSH_FXP_VERSION response
+710084dba8	1	48	Timeout waiting for response from SFTP subsystem
+710084dbe0	1	38	Data too short when extracting extname
+710084dc08	2	38	Data too short when extracting extdata
+710084dc30	1	60	Unable to allocate memory for FXP_OPEN or FXP_OPENDIR packet
+710084dc70	1	51	Would block sending FXP_OPEN or FXP_OPENDIR command
+710084dca8	1	24	Unable to send FXP_OPEN*
+710084dcc8	1	38	Would block waiting for status message
+710084dcf0	2	18	Response too small
+710084dd08	1	20	Too small FXP_STATUS
+710084dd20	1	26	Failed opening remote file
+710084dd40	1	20	Too small FXP_HANDLE
+710084dd58	2	44	Unable to allocate new SFTP handle structure
+710084dd88	1	47	rc != LIBSSH2_ERROR_EAGAIN || !filep->data_left
+710084ddb8	1	41	rc != LIBSSH2_ERROR_EAGAIN || !filep->eof
+710084dde8	2	25	malloc fail for FXP_WRITE
+710084de08	2	26	sftp_read() internal error
+710084de28	1	15	SFTP READ error
+710084de38	1	32	Read Packet At Unexpected Offset
+710084de60	1	21	SFTP Protocol badness
+710084de78	1	25	FXP_READ response too big
+710084de98	1	57	SFTP Protocol badness: unrecognised read request response
+710084ded8	1	47	!"State machine error; unrecognised read state"
+710084df08	2	26	FXP write packet too short
+710084df28	2	16	FXP write failed
+710084df40	1	49	Unable to allocate memory for FXP_EXTENDED packet
+710084df78	0	17	fsync@openssh.com
+710084df90	0	27	SFTP fsync packet too short
+710084dfb0	1	36	Error waiting for FXP EXTENDED REPLY
+710084dfd8	0	12	fsync failed
+710084dfe8	0	27	Unable to send FXP_FSETSTAT
+710084e008	0	32	Unable to send FXP_FSTAT command
+710084e030	0	51	Unable to allocate memory for FSTAT/FSETSTAT packet
+710084e068	1	27	SFTP fstat packet too short
+710084e088	2	34	Attributes too short in SFTP fstat
+710084e0b0	1	46	Unable to allocate memory for FXP_CLOSE packet
+710084e0e0	1	32	Unable to send FXP_CLOSE command
+710084e108	1	37	Packet too short in FXP_CLOSE command
+710084e130	2	32	Error waiting for status message
+710084e158	1	47	Unable to allocate memory for FXP_REMOVE packet
+710084e188	1	33	Unable to send FXP_REMOVE command
+710084e1b0	1	28	SFTP unlink packet too short
+710084e1d0	6	28	Error waiting for FXP STATUS
+710084e1f0	1	30	Server does not support RENAME
+710084e210	1	47	Unable to allocate memory for FXP_RENAME packet
+710084e240	1	33	Unable to send FXP_RENAME command
+710084e268	1	28	SFTP rename packet too short
+710084e288	2	62	File already exists and SSH_FXP_RENAME_OVERWRITE not specified
+710084e2c8	2	23	Operation Not Supported
+710084e2e0	0	20	fstatvfs@openssh.com
+710084e2f8	2	35	SFTP Protocol Error: short response
+710084e320	1	19	statvfs@openssh.com
+710084e338	1	46	Unable to allocate memory for FXP_MKDIR packet
+710084e368	1	27	SFTP mkdir packet too short
+710084e388	1	46	Unable to allocate memory for FXP_RMDIR packet
+710084e3b8	1	32	Unable to send FXP_RMDIR command
+710084e3e0	1	27	SFTP rmdir packet too short
+710084e400	1	46	Unable to allocate memory for FXP_*STAT packet
+710084e430	1	41	Unable to send STAT/LSTAT/SETSTAT command
+710084e460	3	26	SFTP stat packet too short
+710084e480	1	43	Server does not support SYMLINK or READLINK
+710084e4b0	1	62	Unable to allocate memory for SYMLINK/READLINK/REALPATH packet
+710084e4f0	1	39	Unable to send SYMLINK/READLINK command
+710084e518	1	29	SFTP symlink packet too short
+710084e538	1	51	Invalid READLINK/REALPATH response, no name entries
+710084e570	1	36	No handler for specified private key
+710084e598	1	42	Unable to initialize private key from file
+710084e5c8	1	30	Unable to open public key file
+710084e5e8	1	31	Invalid data in public key file
+710084e608	2	45	Unable to allocate memory for public key data
+710084e638	1	35	Unable to read public key from file
+710084e660	1	23	Invalid public key data
+710084e678	1	36	Invalid key data, not base64 encoded
+710084e6a0	1	23	Missing public key data
+710084e6b8	1	43	Unable to allocate memory for userauth_list
+710084e6e8	5	14	ssh-connection
+710084e6f8	2	36	Would block requesting userauth list
+710084e720	1	36	Unable to send userauth-none request
+710084e748	1	23	Failed getting response
+710084e760	1	29	Unexpected userauth list size
+710084e780	1	55	Unable to allocate memory for userauth-password request
+710084e7b8	1	36	Would block writing password request
+710084e7e0	1	40	Unable to send userauth-password request
+710084e810	1	29	Waiting for password response
+710084e830	1	41	Authentication failed (username/password)
+710084e860	1	37	Password expired, and callback failed
+710084e888	1	62	Unable to allocate memory for userauth password change request
+710084e8c8	1	19	Would block waiting
+710084e8e0	1	47	Unable to send userauth password-change request
+710084e910	1	43	Password Expired, and no callback specified
+710084e940	2	21	Authentication failed
+710084e958	0	64	Failed allocating additional space for userauth-hostbased packet
+710084e9a0	0	41	Unable to send userauth-hostbased request
+710084e9d0	0	11	Auth failed
+710084e9e0	1	81	Invalid signature for supplied public key, or bad username/public key combination
+710084ea38	1	29	Invalid public key, too short
+710084ea58	1	18	Invalid public key
+710084ea70	1	41	Unable to send userauth-publickey request
+710084eaa0	1	29	Waiting for USERAUTH response
+710084eac0	1	38	Username/PublicKey combination invalid
+710084eae8	1	60	Unable to allocate memory for userauth-publickey signed data
+710084eb28	1	23	Callback returned error
+710084eb40	1	64	Failed allocating additional space for userauth-publickey packet
+710084eb88	1	39	Waiting for publickey USERAUTH response
+710084ebb0	0	39	Invalid data in public and private key.
+710084ebd8	1	65	Unable to allocate memory for keyboard-interactive authentication
+710084ec20	1	43	Unable to send keyboard-interactive request
+710084ec50	1	38	Waiting for keyboard USERAUTH response
+710084ec78	1	44	Authentication failed (keyboard-interactive)
+710084eca8	1	52	userauth keyboard data buffer too smallto get length
+710084ece0	1	71	Unable to allocate memory for keyboard-interactive 'name' request field
+710084ed28	1	52	userauth keyboard data buffer too smallfor auth name
+710084ed60	1	66	userauth keyboard data buffer too smallfor auth instruction length
+710084eda8	1	78	Unable to allocate memory for keyboard-interactive 'instruction' request field
+710084edf8	1	59	userauth keyboard data buffer too smallfor auth instruction
+710084ee38	1	67	userauth keyboard data buffer too smallfor auth language tag length
+710084ee80	1	60	userauth keyboard data buffer too smallfor auth language tag
+710084eec0	1	68	userauth keyboard data buffer too smallfor auth num keyboard prompts
+710084ef08	1	49	Too many replies for keyboard-interactive prompts
+710084ef40	1	64	Unable to allocate memory for keyboard-interactive prompts array
+710084ef88	1	66	Unable to allocate memory for keyboard-interactive responses array
+710084efd0	1	71	userauth keyboard data buffer too small for auth keyboard prompt length
+710084f018	1	65	Unable to allocate memory for keyboard-interactive prompt message
+710084f060	1	64	userauth keyboard data buffer too small for auth keyboard prompt
+710084f0a8	1	69	userauth keyboard data buffer too small for auth keyboard prompt echo
+710084f0f0	2	66	Unable to allocate memory for keyboard-interactive response packet
+710084f138	1	52	Unable to send userauth-keyboard-interactive request
+710084f170	1	22	(len % blocksize) == 0
+710084f188	2	11	transport.c
+710084f198	1	14	remainbuf >= 0
+710084f1a8	1	45	Unable to get random bytes for packet padding
+710084f1d8	1	15	No key type set
+710084f1e8	1	46	Unable to allocate memory for known host entry
+710084f218	1	39	Unable to allocate memory for host name
+710084f240	1	22	Unknown host name type
+710084f258	1	33	Unable to allocate memory for key
+710084f280	2	48	Unable to allocate memory for base64-encoded key
+710084f2b8	1	38	Unable to allocate memory for key type
+710084f2e0	1	37	Unable to allocate memory for comment
+710084f308	1	57	Failed to parse known_hosts line (unexpectedly long salt)
+710084f348	2	52	Failed to parse known_hosts line (unexpected length)
+710084f380	1	7	[%s]:%d
+710084f388	2	33	Known-host write buffer too small
+710084f3b0	1	36	Unsupported type of known-host entry
+710084f3d8	1	54	Unable to allocate memory for base64-encoded host name
+710084f410	1	49	Unable to allocate memory for base64-encoded salt
+710084f448	1	18	|1|%s|%s %s %s %s\n
+710084f460	2	15	|1|%s|%s %s %s\n
+710084f470	1	12	|1|%s|%s %s\n
+710084f480	1	12	%s %s %s %s\n
+710084f490	1	6	%s %s\n
+710084f498	1	52	Unable to allocate memory for known-hosts collection
+710084f4d0	3	48	Unsupported type of known-host information store
+710084f508	1	32	Failed to parse known_hosts line
+710084f530	0	48	Failed to parse known_hosts line (key too short)
+710084f570	1	32	Failed to parse known hosts file
+710084f598	2	19	Failed to open file
+710084f5b0	1	12	Write failed
+710084f5c0	1	15	illegal request
+710084f5d0	2	19	agent not connected
+710084f5e8	1	18	agent sign failure
+710084f600	1	45	Unable to allocate space for agent connection
+710084f630	1	21	illegal agent request
+710084f648	1	20	agent list id failed
+710084f660	1	22	Key type not supported
+710084f678	1	13	key too short
+710084f688	1	14	openssh-key-v1
+710084f698	1	23	key auth magic mismatch
+710084f6b0	1	21	ciphername is missing
+710084f6c8	1	18	kdfname is missing
+710084f6e0	1	14	kdf is missing
+710084f6f0	2	6	bcrypt
+710084f6f8	1	14	unknown cipher
+710084f708	2	14	invalid format
+710084f718	1	29	Multiple keys are unsupported
+710084f738	1	47	Invalid private key; expect embedded public key
+710084f768	1	26	Private key data not found
+710084f788	1	25	No supported cipher found
+710084f7a8	1	19	Could not alloc key
+710084f7c0	1	30	kdf contains unexpected values
+710084f7e0	1	27	bcrypted without passphrase
+710084f800	1	24	Could not alloc key part
+710084f820	1	23	Could not alloc iv part
+710084f838	1	45	Private key unpack failed (correct password?)
+710084f868	2	46	Unable to allocate memory for decrypted struct
+710084f898	0	22	Proc-Type: 4,ENCRYPTED
+710084f8b0	1	41	Unable to allocate memory for PEM parsing
+710084f8e0	1	35	-----BEGIN OPENSSH PRIVATE KEY-----
+710084f908	1	33	-----END OPENSSH PRIVATE KEY-----
+710084f930	1	35	Error parsing PEM: filedata missing
+710084f958	2	39	Error parsing PEM: offset out of bounds
+710084f980	1	39	Error parsing PEM: base 64 data missing
+710084f9a8	1	32	Unable to send keepalive message
+710084f9d0	2	32	OxychromaticBlowfishSwatDynamite
+710084f9f8	1	27	decompression uninitialized
+710084fa18	1	39	Unable to allocate decompression buffer
+710084fa40	1	21	decompression failure
+710084fa58	1	39	Excessive growth in decompression phase
+710084fa80	1	37	Unable to expand decompression buffer
+710084faa8	1	19	compression failure
+710084fac0	1	60	Unable to allocate memory for zlib compression/decompression
+710084fb00	1	16	zlib@openssh.com
+710084fb20	1	8	3des-cbc
+710084fb30	1	22	DEK-Info: DES-EDE3-CBC
+710084fb48	1	10	arcfour128
+710084fb58	1	7	arcfour
+710084fb60	1	13	DEK-Info: RC4
+710084fb70	1	12	blowfish-cbc
+710084fb80	1	27	rijndael-cbc@lysator.liu.se
+710084fba0	2	21	DEK-Info: AES-256-CBC
+710084fbb8	1	10	aes256-cbc
+710084fbc8	1	10	aes192-cbc
+710084fbd8	1	21	DEK-Info: AES-192-CBC
+710084fbf0	1	10	aes128-cbc
+710084fc00	1	21	DEK-Info: AES-128-CBC
+710084fc18	1	10	aes256-ctr
+710084fc38	1	10	aes128-ctr
+710084fc48	1	24	unknown header flags set
+710084fc68	2	26	unknown compression method
+710084fc88	1	22	incorrect header check
+710084fca0	1	19	invalid window size
+710084fcb8	1	19	header crc mismatch
+710084fcd0	1	18	invalid block type
+710084fce8	1	28	invalid stored block lengths
+710084fd08	1	35	too many length or distance symbols
+710084fd30	1	24	invalid code lengths set
+710084fd50	1	36	invalid code -- missing end-of-block
+710084fd78	1	27	invalid literal/lengths set
+710084fd98	1	21	invalid distances set
+710084fdb0	2	27	invalid literal/length code
+710084fdd0	2	21	invalid distance code
+710084fde8	2	29	invalid distance too far back
+710084fe08	1	20	incorrect data check
+710084fe20	1	22	incorrect length check
+710084fe38	1	25	invalid bit length repeat
+710084fe58	2	5	1.3.1
+710084fe60	3	19	insufficient memory
+710084fe78	2	12	buffer error
+710084fe88	1	20	incompatible version
+710084fea0	1	17	No error detected
+710084feb8	1	15	Error (generic)
+710084fec8	1	24	Unknown frame descriptor
+710084fee8	1	21	Version not supported
+710084ff00	1	27	Unsupported frame parameter
+710084ff20	1	43	Frame requires too much memory for decoding
+710084ff50	1	24	Data corruption detected
+710084ff70	1	36	Restored data doesn't match checksum
+710084ff98	1	62	Header of Literals' block doesn't respect format specification
+710084ffd8	1	21	Unsupported parameter
+710084fff0	1	37	Unsupported combination of parameters
+7100850018	1	25	Parameter is out of bound
+7100850038	1	28	Context should be init first
+7100850058	1	36	Allocation error : not enough memory
+7100850080	1	36	workSpace buffer is not large enough
+71008500a8	1	52	Operation not authorized at current processing stage
+71008500e0	1	47	tableLog requires too much memory : unsupported
+7100850110	1	40	Unsupported max Symbol Value : too large
+7100850140	1	37	Specified maxSymbolValue is too small
+7100850168	1	51	pledged buffer stability condition is not respected
+71008501a0	1	23	Dictionary is corrupted
+71008501b8	1	19	Dictionary mismatch
+71008501d0	1	46	Cannot create Dictionary from provided samples
+7100850200	1	31	Destination buffer is too small
+7100850220	1	21	Src size is incorrect
+7100850238	1	36	Operation on NULL destination buffer
+7100850260	1	79	Operation made no progress over multiple calls, due to output buffer being full
+71008502b0	1	72	Operation made no progress over multiple calls, due to input being empty
+7100850300	1	24	Frame index is too large
+7100850320	1	42	An I/O error occurred when reading/seeking
+7100850350	1	27	Destination buffer is wrong
+7100850370	1	22	Source buffer is wrong
+7100850388	1	61	Block-level external sequence producer returned an error code
+71008503c8	1	32	External sequences are not valid
+71008503f0	1	22	Unspecified error code
+7100850408	0	17	CHACHA20-POLY1305
+7100850420	0	8	CHACHA20
+7100850440	0	12	BLOWFISH-CTR
+7100850450	0	14	BLOWFISH-CFB64
+7100850460	0	12	BLOWFISH-CBC
+7100850470	0	12	BLOWFISH-ECB
+7100850480	1	12	DES-EDE3-CBC
+71008504a0	0	11	DES-EDE-CBC
+71008504b0	0	11	DES-EDE-ECB
+71008504c8	0	16	CAMELLIA-256-CCM
+71008504e0	0	16	CAMELLIA-192-CCM
+71008504f8	0	16	CAMELLIA-128-CCM
+7100850510	0	16	CAMELLIA-256-GCM
+7100850528	0	16	CAMELLIA-192-GCM
+7100850540	0	16	CAMELLIA-128-GCM
+7100850558	0	16	CAMELLIA-256-CTR
+7100850570	0	16	CAMELLIA-192-CTR
+7100850588	0	16	CAMELLIA-128-CTR
+71008505a0	0	19	CAMELLIA-256-CFB128
+71008505b8	0	19	CAMELLIA-192-CFB128
+71008505d0	0	19	CAMELLIA-128-CFB128
+71008505e8	0	16	CAMELLIA-256-CBC
+7100850600	0	16	CAMELLIA-192-CBC
+7100850618	0	16	CAMELLIA-128-CBC
+7100850630	0	16	CAMELLIA-256-ECB
+7100850648	0	16	CAMELLIA-192-ECB
+7100850660	0	16	CAMELLIA-128-ECB
+71008506d8	0	11	AES-256-XTS
+71008506f8	0	11	AES-256-CTR
+7100850718	0	11	AES-128-CTR
+7100850758	0	14	AES-256-CFB128
+7100850778	0	14	AES-128-CFB128
+71008507e8	1	16	BLINDING CONTEXT
+7100850800	2	9	secp521r1
+7100850810	1	15	brainpoolP512r1
+7100850820	2	9	secp384r1
+7100850830	1	15	brainpoolP384r1
+7100850840	2	9	secp256r1
+7100850850	2	9	secp256k1
+7100850860	1	15	brainpoolP256r1
+7100850870	2	9	secp224r1
+7100850880	2	9	secp224k1
+7100850890	2	9	secp192r1
+71008508a0	2	9	secp192k1
+71008508c0	1	46	CIPHER - The selected feature is not available
+71008508f0	1	29	CIPHER - Bad input parameters
+7100850910	1	34	CIPHER - Failed to allocate memory
+7100850938	1	60	CIPHER - Input data contains invalid padding and is rejected
+7100850978	1	50	CIPHER - Decryption of block requires a full block
+71008509b0	1	47	CIPHER - Authentication failed (for AEAD modes)
+71008509e0	1	66	CIPHER - The context is invalid. For example, because it was freed
+7100850a28	1	43	CIPHER - Cipher hardware accelerator failed
+7100850a58	1	26	DHM - Bad input parameters
+7100850a78	1	42	DHM - Reading of the DHM parameters failed
+7100850aa8	1	41	DHM - Making of the DHM parameters failed
+7100850ad8	1	41	DHM - Reading of the public values failed
+7100850b08	1	39	DHM - Making of the public value failed
+7100850b30	1	42	DHM - Calculation of the DHM secret failed
+7100850b60	1	47	DHM - The ASN.1 data is not formatted correctly
+7100850b90	1	33	DHM - Allocation of memory failed
+7100850bb8	1	34	DHM - Read or write of file failed
+7100850be0	1	37	DHM - DHM hardware accelerator failed
+7100850c08	1	46	DHM - Setting the modulus and generator failed
+7100850c38	1	38	ECP - Bad input parameters to function
+7100850c60	1	41	ECP - The buffer is too small to write to
+7100850c90	1	95	ECP - The requested feature is not available, for example, the requested curve is not supported
+7100850cf0	1	32	ECP - The signature is not valid
+7100850d18	1	30	ECP - Memory allocation failed
+7100850d38	1	63	ECP - Generation of random value, such as ephemeral key, failed
+7100850d78	1	35	ECP - Invalid private or public key
+7100850da0	1	65	ECP - The buffer contains a valid signature followed by more data
+7100850de8	1	41	ECP - The ECP hardware accelerator failed
+7100850e18	0	76	ECP - Operation in progress, call again with the same parameters to continue
+7100850e68	1	42	MD - The selected feature is not available
+7100850e98	1	37	MD - Bad input parameters to function
+7100850ec0	1	30	MD - Failed to allocate memory
+7100850ee0	1	38	MD - Opening or reading of file failed
+7100850f08	1	35	MD - MD hardware accelerator failed
+7100850f30	1	35	PEM - No PEM header or footer found
+7100850f58	1	35	PEM - PEM string is not as expected
+7100850f80	1	31	PEM - Failed to allocate memory
+7100850fa0	1	33	PEM - RSA IV is not in hex-format
+7100850fc8	1	42	PEM - Unsupported key encryption algorithm
+7100850ff8	1	41	PEM - Private key password can't be empty
+7100851028	1	70	PEM - Given private key password does not allow for correct decryption
+7100851070	1	62	PEM - Unavailable feature, e.g. hashing/encryption combination
+71008510b0	1	38	PEM - Bad input parameters to function
+71008510d8	1	29	PK - Memory allocation failed
+71008510f8	1	59	PK - Type mismatch, eg attempt to encrypt with an ECDSA key
+7100851138	1	37	PK - Bad input parameters to function
+7100851160	1	30	PK - Read/write of file failed
+7100851180	1	28	PK - Unsupported key version
+71008511a0	1	29	PK - Invalid key tag or value
+71008511c0	1	65	PK - Key algorithm is unsupported (only RSA and EC are supported)
+7100851208	1	40	PK - Private key password can't be empty
+7100851238	1	69	PK - Given private key password does not allow for correct decryption
+7100851280	1	71	PK - The pubkey tag or value is invalid (only RSA and EC are supported)
+71008512c8	1	42	PK - The algorithm tag or value is invalid
+71008512f8	1	67	PK - Elliptic curve is unsupported (only NIST curves are supported)
+7100851340	1	55	PK - Unavailable feature, e.g. RSA disabled for RSA key
+7100851378	1	64	PK - The buffer contains a valid signature followed by more data
+71008513c0	1	35	PK - PK hardware accelerator failed
+71008513e8	1	41	PKCS12 - Bad input parameters to function
+7100851418	1	66	PKCS12 - Feature not available, e.g. unsupported encryption scheme
+7100851460	1	39	PKCS12 - PBE ASN.1 data not as expected
+7100851488	1	73	PKCS12 - Given private key password does not allow for correct decryption
+71008514d8	0	40	PKCS5 - Bad input parameters to function
+7100851508	1	29	PKCS5 - Unexpected ASN.1 data
+7100851528	1	56	PKCS5 - Requested encryption or digest alg not available
+7100851568	1	72	PKCS5 - Given private key password does not allow for correct decryption
+71008515b8	1	38	RSA - Bad input parameters to function
+71008515e0	1	57	RSA - Input data contains invalid padding and is rejected
+7100851620	1	49	RSA - Something failed during generation of a key
+7100851658	1	58	RSA - Key failed to pass the validity check of the library
+7100851698	1	37	RSA - The public key operation failed
+71008516c0	1	38	RSA - The private key operation failed
+71008516e8	1	36	RSA - The PKCS#1 verification failed
+7100851710	1	58	RSA - The output buffer for decryption is not large enough
+7100851750	1	55	RSA - The random generator failed to generate non-zeros
+7100851788	1	133	RSA - The implementation does not offer the requested operation, for example, because of security violations or lack of functionality
+7100851810	1	37	RSA - RSA hardware accelerator failed
+7100851838	1	44	SSL - The requested feature is not available
+7100851868	1	38	SSL - Bad input parameters to function
+7100851890	1	44	SSL - Verification of the message MAC failed
+71008518c0	1	40	SSL - An invalid SSL record was received
+71008518f0	1	37	SSL - The connection indicated an EOF
+7100851918	1	36	SSL - An unknown cipher was received
+7100851940	1	62	SSL - The server has no ciphersuites in common with the client
+7100851980	1	43	SSL - No RNG was provided to the SSL module
+71008519b0	1	95	SSL - No client certification received from the client, but required by the authentication mode
+7100851a10	1	71	SSL - Our own certificate(s) is/are too large to send in an SSL message
+7100851a58	1	62	SSL - The own certificate is not set, but needed by the server
+7100851a98	1	66	SSL - The own private key or pre-shared key is not set, but needed
+7100851ae0	1	49	SSL - No CA Chain is set, but required to operate
+7100851b18	1	54	SSL - An unexpected message was received from our peer
+7100851b50	1	54	SSL - A fatal alert message was received from our peer
+7100851b88	1	37	SSL - Verification of our peer failed
+7100851bb0	1	68	SSL - The peer notified us that the connection is going to be closed
+7100851bf8	1	60	SSL - Processing of the ClientHello handshake message failed
+7100851c38	1	60	SSL - Processing of the ServerHello handshake message failed
+7100851c78	1	60	SSL - Processing of the Certificate handshake message failed
+7100851cb8	1	67	SSL - Processing of the CertificateRequest handshake message failed
+7100851d00	1	66	SSL - Processing of the ServerKeyExchange handshake message failed
+7100851d48	1	64	SSL - Processing of the ServerHelloDone handshake message failed
+7100851d90	1	66	SSL - Processing of the ClientKeyExchange handshake message failed
+7100851dd8	1	92	SSL - Processing of the ClientKeyExchange handshake message failed in DHM / ECDH Read Public
+7100851e38	1	97	SSL - Processing of the ClientKeyExchange handshake message failed in DHM / ECDH Calculate Secret
+7100851ea0	1	66	SSL - Processing of the CertificateVerify handshake message failed
+7100851ee8	1	65	SSL - Processing of the ChangeCipherSpec handshake message failed
+7100851f30	0	57	SSL - Processing of the Finished handshake message failed
+7100851f70	1	30	SSL - Memory allocation failed
+7100851f90	1	56	SSL - Hardware acceleration function returned with error
+7100851fd0	1	62	SSL - Hardware acceleration function skipped / left alone data
+7100852010	1	58	SSL - Processing of the compression / decompression failed
+7100852050	1	54	SSL - Handshake protocol not within min/max boundaries
+7100852088	1	65	SSL - Processing of the NewSessionTicket handshake message failed
+71008520d0	1	32	SSL - Session ticket has expired
+71008520f8	1	84	SSL - Public key type mismatch (eg, asked for RSA key exchange and presented EC key)
+7100852150	1	50	SSL - Unknown identity received (eg, PSK identity)
+7100852188	1	67	SSL - Internal error (eg, unexpected failure in lower-level module)
+71008521d0	1	60	SSL - A counter would wrap (eg, too many messages exchanged)
+7100852210	0	56	SSL - Unexpected message at ServerHello in renegotiation
+7100852250	1	51	SSL - DTLS client must retry for hello verification
+7100852288	1	57	SSL - A buffer is too small to receive or write a message
+71008522c8	1	97	SSL - None of the common ciphersuites is usable (eg, no suitable certificate, see debug messages)
+7100852330	1	75	SSL - No data of requested type currently available on underlying transport
+7100852380	1	38	SSL - Connection requires a write call
+71008523a8	1	29	SSL - The operation timed out
+71008523c8	1	57	SSL - The client initiated a reconnect from the same port
+7100852408	1	51	SSL - Record header looks valid but is not expected
+7100852440	1	60	SSL - The alert message received indicates a non-fatal error
+7100852480	1	59	SSL - Couldn't set the hash for verifying CertificateVerify
+71008524c0	1	84	SSL - Internal-only message signaling that further message-processing should be done
+7100852518	1	53	SSL - The asynchronous operation is not completed yet
+7100852550	1	66	SSL - Internal-only message signaling that a message arrived early
+7100852598	1	65	SSL - An encrypted DTLS-frame with an unexpected CID was received
+71008525e0	1	71	SSL - An operation failed due to an unexpected version or configuration
+7100852628	1	63	SSL - A cryptographic operation is in progress. Try again later
+7100852668	1	33	SSL - Invalid value in SSL config
+7100852690	1	67	X509 - Unavailable feature, e.g. RSA hashing/encryption combination
+71008526d8	1	31	X509 - Requested OID is unknown
+71008526f8	1	70	X509 - The CRT/CRL/CSR format is invalid, e.g. different type expected
+7100852740	1	49	X509 - The CRT/CRL/CSR version element is invalid
+7100852778	1	41	X509 - The serial tag or value is invalid
+71008527a8	1	44	X509 - The algorithm tag or value is invalid
+71008527d8	1	39	X509 - The name tag or value is invalid
+7100852800	1	39	X509 - The date tag or value is invalid
+7100852828	1	41	X509 - The signature tag or value invalid
+7100852858	1	44	X509 - The extension tag or value is invalid
+7100852888	1	52	X509 - CRT/CRL/CSR has an unsupported version number
+71008528c0	1	47	X509 - Signature algorithm (oid) is unsupported
+71008528f0	1	77	X509 - Signature algorithms do not match. (see \c ::mbedtls_x509_crt sig_oid)
+7100852940	1	78	X509 - Certificate verification failed, e.g. CRL, CA or signature check failed
+7100852990	1	42	X509 - Format not recognized as DER or PEM
+71008529c0	1	20	X509 - Input invalid
+71008529d8	1	34	X509 - Allocation of memory failed
+7100852a00	1	32	X509 - Read/write of file failed
+7100852a28	1	38	X509 - Destination buffer is too small
+7100852a50	1	83	X509 - A fatal error occurred, eg the chain is too long or the vrfy callback failed
+7100852aa8	1	24	AES - Invalid key length
+7100852ac8	1	24	AES - Invalid input data
+7100852ae8	1	69	AES - Feature not available. For example, an unsupported AES key size
+7100852b30	1	37	AES - AES hardware accelerator failed
+7100852b58	1	39	ARC4 - ARC4 hardware accelerator failed
+7100852b80	1	54	ASN1 - Out of data when parsing an ASN1 data structure
+7100852bb8	1	42	ASN1 - ASN1 tag was of an unexpected value
+7100852be8	1	66	ASN1 - Error when trying to determine the length or invalid length
+7100852c30	1	49	ASN1 - Actual length differs from expected length
+7100852c68	1	22	ASN1 - Data is invalid
+7100852c80	1	31	ASN1 - Memory allocation failed
+7100852ca0	1	57	ASN1 - Buffer too small when writing ASN.1 data structure
+7100852ce0	1	32	BASE64 - Output buffer too small
+7100852d08	1	35	BASE64 - Invalid character in input
+7100852d30	1	66	BIGNUM - An error occurred while reading from or writing to a file
+7100852d78	1	41	BIGNUM - Bad input parameters to function
+7100852da8	1	58	BIGNUM - There is an invalid character in the digit string
+7100852de8	1	44	BIGNUM - The buffer is too small to write to
+7100852e18	1	69	BIGNUM - The input arguments are negative or result in illegal output
+7100852e60	1	70	BIGNUM - The input argument for division is zero, which is not allowed
+7100852ea8	1	47	BIGNUM - The input arguments are not acceptable
+7100852ed8	1	33	BIGNUM - Memory allocation failed
+7100852f00	1	25	BLOWFISH - Bad input data
+7100852f20	1	36	BLOWFISH - Invalid data input length
+7100852f48	1	47	BLOWFISH - Blowfish hardware accelerator failed
+7100852f78	1	25	CAMELLIA - Bad input data
+7100852f98	1	36	CAMELLIA - Invalid data input length
+7100852fc0	1	47	CAMELLIA - Camellia hardware accelerator failed
+7100852ff0	1	42	CCM - Bad input parameters to the function
+7100853020	1	37	CCM - Authenticated decryption failed
+7100853048	1	37	CCM - CCM hardware accelerator failed
+7100853070	1	37	CHACHA20 - Invalid input parameter(s)
+7100853098	1	83	CHACHA20 - Feature not available. For example, s part of the API is not implemented
+71008530f0	1	47	CHACHA20 - Chacha20 hardware accelerator failed
+7100853120	1	74	CHACHAPOLY - The requested operation is not permitted in the current state
+7100853170	1	68	CHACHAPOLY - Authenticated decryption failed: data was not authentic
+71008531b8	1	36	CTR_DRBG - The entropy source failed
+71008531e0	1	56	CTR_DRBG - The requested random buffer length is too big
+7100853220	1	61	CTR_DRBG - The input (entropy + additional data) is too large
+7100853260	1	38	CTR_DRBG - Read or write error in file
+7100853288	1	42	DES - The data input has an invalid length
+71008532b8	1	37	DES - DES hardware accelerator failed
+71008532e0	1	41	ENTROPY - Critical entropy source failure
+7100853310	1	38	ENTROPY - No more sources can be added
+7100853338	1	44	ENTROPY - No sources have been added to poll
+7100853368	1	51	ENTROPY - No strong sources have been added to poll
+71008533a0	1	34	ENTROPY - Read/write error in file
+71008533c8	1	21	ERROR - Generic error
+71008533e0	1	36	ERROR - This is a bug in the library
+7100853408	1	37	GCM - Authenticated decryption failed
+7100853430	1	37	GCM - GCM hardware accelerator failed
+7100853458	1	38	GCM - Bad input parameters to function
+7100853480	1	31	AES - Invalid data input length
+71008534a0	1	52	HMAC_DRBG - Too many random requested in single call
+71008534d8	1	50	HMAC_DRBG - Input too large (Entropy + additional)
+7100853510	1	36	HMAC_DRBG - Read/write error in file
+7100853538	1	37	HMAC_DRBG - The entropy source failed
+7100853560	1	37	MD5 - MD5 hardware accelerator failed
+7100853588	1	29	NET - Failed to open a socket
+71008535a8	1	54	NET - The connection to the given server / port failed
+71008535e0	1	34	NET - Binding of the socket failed
+7100853608	1	36	NET - Could not listen on the socket
+7100853630	1	46	NET - Could not accept the incoming connection
+7100853660	1	48	NET - Reading information from the socket failed
+7100853698	1	51	NET - Sending information through the socket failed
+71008536d0	1	34	NET - Connection was reset by peer
+71008536f8	1	56	NET - Failed to get an IP address for the given hostname
+7100853738	1	42	NET - Buffer is too small to hold the data
+7100853768	1	56	NET - The context is invalid, eg because it was free()ed
+71008537a8	1	36	NET - Polling the net context failed
+71008537d0	1	19	NET - Input invalid
+71008537e8	1	22	OID - OID is not found
+7100853800	1	32	OID - output buffer is too small
+7100853828	1	38	PADLOCK - Input data should be aligned
+7100853850	1	38	PLATFORM - Hardware accelerator failed
+7100853878	1	65	PLATFORM - The requested feature is not supported by the platform
+71008538c0	1	37	POLY1305 - Invalid input parameter(s)
+71008538e8	1	83	POLY1305 - Feature not available. For example, s part of the API is not implemented
+7100853940	1	47	POLY1305 - Poly1305 hardware accelerator failed
+7100853970	1	49	RIPEMD160 - RIPEMD160 hardware accelerator failed
+71008539a8	1	40	SHA1 - SHA-1 hardware accelerator failed
+71008539d8	1	37	SHA1 - SHA-1 input data was malformed
+7100853a00	1	44	SHA256 - SHA-256 hardware accelerator failed
+7100853a30	1	41	SHA256 - SHA-256 input data was malformed
+7100853a60	1	44	SHA512 - SHA-512 hardware accelerator failed
+7100853a90	1	41	SHA512 - SHA-512 input data was malformed
+7100853ac0	1	43	XTEA - The data input has an invalid length
+7100853af0	1	39	XTEA - XTEA hardware accelerator failed
+7100853b18	2	25	UNKNOWN ERROR CODE (%04X)
+7100853b38	1	9	RIPEMD160
+7100853b58	1	6	SHA224
+7100853b60	1	6	SHA256
+7100853b68	1	6	SHA384
+7100853b70	1	6	SHA512
+7100853b78	1	5	rsa.N
+7100853b80	1	5	rsa.E
+7100853b88	1	7	eckey.Q
+7100853b98	1	5	ECDSA
+7100853ba0	1	5	EC_DH
+7100853bb0	1	11	-----BEGIN 
+7100853bc0	1	29	-----END RSA PRIVATE KEY-----
+7100853be0	1	31	-----BEGIN RSA PRIVATE KEY-----
+7100853c00	1	28	-----END EC PRIVATE KEY-----
+7100853c20	1	30	-----BEGIN EC PRIVATE KEY-----
+7100853c40	1	25	-----END PRIVATE KEY-----
+7100853c60	1	27	-----BEGIN PRIVATE KEY-----
+7100853c80	1	35	-----END ENCRYPTED PRIVATE KEY-----
+7100853ca8	1	37	-----BEGIN ENCRYPTED PRIVATE KEY-----
+7100853d60	1	31	pbeWithSHAAnd3-KeyTripleDES-CBC
+7100853d80	1	28	PBE with SHA1 and 3-Key 3DES
+7100853db0	1	31	pbeWithSHAAnd2-KeyTripleDES-CBC
+7100853dd0	1	28	PBE with SHA1 and 2-Key 3DES
+7100853df0	1	8	hmacSHA1
+7100853e00	1	10	HMAC-SHA-1
+7100853e20	1	10	hmacSHA224
+7100853e30	1	12	HMAC-SHA-224
+7100853e50	1	10	hmacSHA256
+7100853e60	1	12	HMAC-SHA-256
+7100853e80	1	10	hmacSHA384
+7100853e90	1	12	HMAC-SHA-384
+7100853eb0	1	10	hmacSHA512
+7100853ec0	1	12	HMAC-SHA-512
+7100853ed0	1	6	id-md5
+7100853ee0	1	7	id-sha1
+7100853ee8	1	5	SHA-1
+7100853f00	1	9	id-sha224
+7100853f10	1	7	SHA-224
+7100853f28	1	9	id-sha256
+7100853f48	1	9	id-sha384
+7100853f58	1	7	SHA-384
+7100853f70	1	9	id-sha512
+7100853f80	1	7	SHA-512
+7100853f90	1	12	id-ripemd160
+7100853fa0	1	10	RIPEMD-160
+7100853fc8	1	12	des-ede3-cbc
+7100853ff8	1	14	brainpool256r1
+7100854018	1	14	brainpool384r1
+7100854038	1	14	brainpool512r1
+7100854050	1	14	id-ecPublicKey
+7100854060	1	14	Generic EC key
+7100854078	1	7	id-ecDH
+7100854080	1	15	EC key for ECDH
+7100854090	0	12	RSA with MD5
+71008540b0	0	22	sha-1WithRSAEncryption
+71008540c8	0	13	RSA with SHA1
+71008540e8	0	16	RSA with SHA-224
+7100854110	0	16	RSA with SHA-256
+7100854138	0	16	RSA with SHA-384
+7100854160	0	16	RSA with SHA-512
+7100854188	0	15	ECDSA with SHA1
+71008541a8	0	17	ecdsa-with-SHA224
+71008541c0	0	17	ECDSA with SHA224
+71008541e8	0	17	ecdsa-with-SHA256
+7100854200	0	17	ECDSA with SHA256
+7100854228	0	17	ecdsa-with-SHA384
+7100854240	0	17	ECDSA with SHA384
+7100854268	0	17	ecdsa-with-SHA512
+7100854280	0	17	ECDSA with SHA512
+71008542a8	0	16	id-kp-serverAuth
+71008542c0	0	29	TLS Web Server Authentication
+71008542f0	0	16	id-kp-clientAuth
+7100854308	0	29	TLS Web Client Authentication
+7100854338	0	17	id-kp-codeSigning
+7100854350	0	12	Code Signing
+7100854370	0	21	id-kp-emailProtection
+7100854388	0	17	E-mail Protection
+71008543b0	0	18	id-kp-timeStamping
+71008543c8	0	13	Time Stamping
+71008543e8	0	17	id-kp-OCSPSigning
+7100854400	0	12	OCSP Signing
+7100854420	0	22	id-kp-wisun-fan-device
+7100854438	0	40	Wi-SUN Alliance Field Area Network (FAN)
+7100854468	0	22	id-ce-basicConstraints
+7100854480	0	17	Basic Constraints
+71008544a0	0	14	id-ce-keyUsage
+71008544b0	0	9	Key Usage
+71008544c8	0	17	id-ce-extKeyUsage
+71008544e0	0	18	Extended Key Usage
+7100854500	0	20	id-ce-subjectAltName
+7100854518	0	16	Subject Alt Name
+7100854540	0	20	id-netscape-certtype
+7100854558	0	25	Netscape Certificate Type
+7100854580	0	25	id-ce-certificatePolicies
+71008545a0	0	20	Certificate Policies
+71008545b8	0	16	id-at-commonName
+71008545d0	0	11	Common Name
+71008545e8	0	17	id-at-countryName
+7100854600	0	7	Country
+7100854610	0	14	id-at-locality
+7100854620	0	8	Locality
+7100854638	0	11	id-at-state
+7100854650	0	22	id-at-organizationName
+7100854668	0	12	Organization
+7100854680	0	28	id-at-organizationalUnitName
+71008546a0	0	8	Org Unit
+71008546c0	0	14	E-mail address
+71008546d8	0	18	id-at-serialNumber
+71008546f0	0	13	Serial number
+7100854708	0	19	id-at-postalAddress
+7100854720	0	14	Postal address
+7100854730	0	13	postalAddress
+7100854748	0	16	id-at-postalCode
+7100854760	0	11	Postal code
+7100854778	0	13	id-at-surName
+7100854788	0	7	Surname
+7100854798	0	15	id-at-givenName
+71008547a8	0	10	Given name
+71008547c8	0	14	id-at-initials
+71008547d8	0	8	Initials
+71008547f0	0	25	id-at-generationQualifier
+7100854810	0	20	Generation qualifier
+7100854830	0	11	id-at-title
+7100854840	0	5	Title
+7100854850	0	17	id-at-dnQualifier
+7100854868	0	28	Distinguished Name qualifier
+7100854890	0	15	id-at-pseudonym
+71008548a0	0	9	Pseudonym
+71008548c0	0	18	id-domainComponent
+71008548d8	0	16	Domain component
+7100854900	0	22	id-at-uniqueIdentifier
+7100854918	0	17	Unique Identifier
+7100854930	0	16	uniqueIdentifier
+7100854948	1	8	lp2p:sys
+7100854968	1	5	ns:ec
+7100854970	1	6	ns:web
+7100854978	1	6	ns:rid
+7100854980	1	5	ns:rt
+7100854988	2	5	ns:ro
+71008549a0	1	7	Default
+71008549b8	0	16	/dev/nvhost-ctrl
+71008549e8	1	8	_NXLINK_
+71008549f8	8	7	stdnull
+7100854a00	3	9	No memory
+7100854a10	1	23	archive_read_data_block
+7100854a28	1	56	Internal error: No format->read_data function registered
+7100854a68	1	24	Negative skip requested.
+7100854a88	1	18	archive_read_close
+7100854aa0	1	17	archive_read_free
+7100854ab8	1	34	archive_read_extract_set_skip_file
+7100854ae0	1	30	archive_read_set_open_callback
+7100854b00	1	30	archive_read_set_read_callback
+7100854b20	1	30	archive_read_set_skip_callback
+7100854b40	1	30	archive_read_set_seek_callback
+7100854b60	1	31	archive_read_set_close_callback
+7100854b80	1	32	archive_read_set_switch_callback
+7100854ba8	0	31	archive_read_set_callback_data2
+7100854bc8	1	10	No memory.
+7100854bd8	1	24	Invalid index specified.
+7100854bf8	1	30	archive_read_add_callback_data
+7100854c18	1	22	archive_read_data_skip
+7100854c30	1	24	archive_read_next_header
+7100854c50	1	22	Premature end-of-file.
+7100854c68	1	30	__archive_read_register_format
+7100854c88	1	40	Not enough slots for format registration
+7100854cb8	1	30	Unable to allocate copy buffer
+7100854cd8	1	59	Truncated input file (needed %jd bytes, only %jd available)
+7100854d18	1	55	Current client reader does not support seeking a device
+7100854d50	1	17	archive_read_open
+7100854d68	1	48	No reader function provided to archive_read_open
+7100854da0	1	44	Input requires too many filters for decoding
+7100854dd0	1	21	No formats registered
+7100854de8	1	27	Unrecognized archive format
+7100854e08	2	22	Error seeking in stdin
+7100854e20	2	21	Error seeking in '%s'
+7100854e38	2	21	Error seeking in '%S'
+7100854e50	1	19	Error reading stdin
+7100854e68	1	18	Error reading '%s'
+7100854e80	1	18	Error reading '%S'
+7100854e98	1	19	Failed to open '%s'
+7100854eb0	1	50	Unexpedted operation in archive_read_open_filename
+7100854ee8	1	15	Can't stat '%s'
+7100854ef8	1	42	Lzma library error: Cannot allocate memory
+7100854f28	1	33	Lzma library error: Out of memory
+7100854f50	1	41	Lzma library error: format not recognized
+7100854f80	1	35	Lzma library error: Invalid options
+7100854fa8	1	40	Lzma library error: Corrupted input data
+7100854fd8	1	44	Lzma library error:  No progress is possible
+7100855008	1	41	Lzma decompression failed:  Unknown error
+7100855038	1	20	mis-compiled library
+7100855058	1	23	invalid setup parameter
+7100855070	1	30	Unsupported filter %lx for %lx
+7100855090	1	23	Invalid Delta parameter
+71008550a8	2	24	Unexpected codec ID: %lX
+71008550c8	1	44	Internal error initializing decompressor: %s
+71008550f8	1	32	Couldn't initialize zlib stream.
+7100855120	1	24	Malformed PPMd parameter
+7100855140	1	33	Coludn't allocate memory for PPMd
+7100855168	1	42	Crypto codec not supported yet (ID: 0x%lX)
+7100855198	1	21	Unknown codec ID: %lX
+71008551b0	5	21	Damaged 7-Zip archive
+71008551c8	1	22	Truncated 7z file data
+71008551e0	1	37	Failed to clean up bzip2 decompressor
+7100855208	1	36	Failed to clean up zlib decompressor
+7100855230	5	25	Truncated 7-Zip file body
+7100855250	2	33	No memory for 7-Zip decompression
+7100855278	1	22	BCJ2 conversion Failed
+7100855290	1	24	Decompression failed(%d)
+71008552b0	1	31	Failed to clean up decompressor
+71008552d0	1	25	bzip decompression failed
+71008552f0	1	30	File decompression failed (%d)
+7100855310	1	29	Zstd decompression failed: %s
+7100855330	1	28	Decompression internal error
+7100855350	1	39	Failed to initialize PPMd range decoder
+7100855378	1	21	Failed to decode PPMd
+7100855390	1	25	Truncated 7-Zip file data
+71008553b0	2	14	archive header
+71008553c0	1	12	file content
+71008553d0	1	48	The %s is encrypted, but currently not supported
+7100855408	1	64	The %s is encoded with many filters, but currently not supported
+7100855450	1	32	Unsupported form of BCJ2 streams
+7100855478	4	23	Malformed 7-Zip archive
+7100855490	1	36	7-Zip bad CRC: 0x%lx should be 0x%lx
+71008554c0	1	30	Couldn't find out 7-Zip header
+71008554e0	1	22	Not 7-Zip archive file
+71008554f8	2	24	Couldn't allocate memory
+7100855518	1	23	Malformed Header offset
+7100855530	1	27	Unexpected Property ID = %X
+7100855550	4	8	UTF-16LE
+7100855560	1	34	Can't allocate memory for Pathname
+7100855588	1	55	Pathname cannot be converted from %s to current locale.
+71008555c0	1	33	Can't allocate memory for Symname
+71008555e8	1	32	archive_read_support_format_7zip
+7100855610	1	24	Can't allocate 7zip data
+7100855630	3	8	UTF-16BE
+7100855640	1	5	CP932
+7100855658	1	17	Programming error
+7100855670	1	56	Could not allocate memory for a string conversion object
+71008556b0	1	63	A character-set conversion not fully supported on this platform
+7100855700	0	6	closed
+7100855708	0	12	archive_read
+7100855718	0	13	archive_write
+7100855728	0	13	archive_match
+7100855738	1	17	archive_read_disk
+7100855750	1	18	archive_write_disk
+7100855768	1	27	PROGRAMMER ERROR: Function 
+7100855788	1	38	 invoked with invalid archive handle.\n
+71008557b0	1	87	PROGRAMMER ERROR: Function '%s' invoked on '%s' archive object, which is not supported.
+7100855808	1	99	INTERNAL ERROR: Function '%s' invoked with archive structure in state '%s', should be in state '%s'
+7100855878	1	17	 {0x%08x, 0x%08x}
+7100855890	1	54	\n    combined CRCs: stored = 0x%08x, computed = 0x%08x
+71008558c8	1	18	1.0.8, 13-Jul-2019
+71008558e0	1	412	\n\nbzip2/libbzip2: internal error number %d.\nThis is a bug in bzip2/libbzip2, %s.\nPlease report it to: bzip2-devel@sourceware.org.  If this happened\nwhen you were using some program which uses libbzip2 as a\ncomponent, you should also report this bug to the author(s)\nof that program.  Please make an effort to report this bug;\ntimely and accurate bug reports eventually lead to higher\nquality software.  Thanks.\n\n
+7100855a80	1	1056	\n*** A special note about internal error number 1007 ***\n\nExperience suggests that a common cause of i.e. 1007\nis unreliable memory or other hardware.  The 1007 assertion\njust happens to cross-check the results of huge numbers of\nmemory reads/writes, and so acts (unintendedly) as a stress\ntest of your memory system.\n\nI suggest the following: try compressing the file again,\npossibly monitoring progress in detail with the -vv flag.\n\n* If the error cannot be reproduced, and/or happens at different\n  points in compression, you may have a flaky memory system.\n  Try a memory-test program.  I have used Memtest86\n  (www.memtest86.com).  At the time of writing it is free (GPLd).\n  Memtest86 tests memory much more thorougly than your BIOSs\n  power-on test, and may find failures that the BIOS doesn't.\n\n* If the error can be repeatably reproduced, this is a bug in\n  bzip2, and I would very much like to hear about it.  Please\n  let me know, and, ideally, save a copy of the file causing the\n  problem -- without which I will be unable to investigate it.\n\n
+7100855ea8	1	19	\n    [%d: huff+mtf 
+7100855ec0	1	6	rt+rld
+7100855ec8	1	14	std::bad_alloc
+7100855ed8	1	35	__gnu_cxx::__concurrence_lock_error
+7100855f00	1	37	__gnu_cxx::__concurrence_unlock_error
+7100855f28	1	16	GLIBCXX_TUNABLES
+7100855f40	2	8	obj_size
+7100855f50	2	9	obj_count
+7100855f60	0	15	glibcxx.eh_pool
+7100855f70	1	14	std::exception
+7100855f80	1	18	std::bad_exception
+7100855f98	1	40	__gnu_cxx::__concurrence_broadcast_error
+7100855fc8	1	35	__gnu_cxx::__concurrence_wait_error
+7100856048	31	41	basic_string::_S_construct null not valid
+7100856078	16	26	uninitialized __any_string
+7100856098	2	44	cannot create shim for unknown locale::facet
+71008560c8	4	18	basic_string::copy
+71008560e0	2	23	basic_string::_S_create
+71008560f8	4	28	basic_string::_M_replace_aux
+7100856118	2	20	basic_string::assign
+7100856130	2	20	basic_string::resize
+7100856148	8	5	%.*Lf
+7100856150	11	8	%m/%d/%y
+7100856168	10	8	%H:%M:%S
+7100856178	1	59	basic_filebuf::underflow codecvt::max_length() is not valid
+71008561b8	1	53	basic_filebuf::underflow incomplete character in file
+71008561f0	1	54	basic_filebuf::underflow invalid byte sequence in file
+7100856228	1	47	basic_filebuf::underflow error reading the file
+7100856258	1	44	basic_filebuf::xsgetn error reading the file
+7100856288	1	54	basic_filebuf::_M_convert_to_external conversion error
+71008562c0	1	17	bad_function_call
+71008562d8	1	16	basic_ios::clear
+71008562f8	1	49	random_device::_M_init_pretr1(const std::string&)
+7100856330	1	47	Invalid collating element in regular expression
+7100856360	1	45	Invalid character class in regular expression
+7100856390	1	36	Invalid escape in regular expression
+71008563b8	1	44	Invalid back reference in regular expression
+71008563e8	1	44	Mismatched '[' and ']' in regular expression
+7100856418	1	44	Mismatched '(' and ')' in regular expression
+7100856448	1	44	Mismatched '{' and '}' in regular expression
+7100856478	1	43	Invalid range in '{}' in regular expression
+71008564a8	1	45	Invalid character range in regular expression
+71008564d8	1	49	Insufficient memory to compile regular expression
+7100856510	1	46	Invalid '?', '*', or '+' in regular expression
+7100856540	1	56	Complexity of regex match exceeded implementation limits
+7100856580	1	44	Insufficient memory to determine regex match
+71008565b0	1	47	Unexpected null character in regular expression
+71008565e0	1	33	Conflicting regex grammar options
+7100856608	1	11	regex error
+7100856618	1	7	generic
+7100856620	1	6	system
+7100856628	0	53	cannot advance non-dereferenceable directory iterator
+7100856660	1	33	directory iterator cannot advance
+7100856688	1	45	cannot increment recursive directory iterator
+71008566b8	1	50	recursive directory iterator cannot open directory
+71008566f0	1	20	cannot get file size
+7100856708	1	6	status
+7100856710	2	18	filesystem error: 
+7100856728	1	25	std::bad_array_new_length
+7100856748	1	13	std::bad_cast
+7100856760	1	48	locale::facet::_S_create_c_locale name not valid
+7100856798	7	36	-+xX0123456789abcdef0123456789ABCDEF
+71008567c0	7	26	-+xX0123456789abcdefABCDEF
+71008567e1	8	10	0123456789
+7100856848	1	14	%a %b %e %T %Y
+7100856868	5	11	%I:%M:%S %p
+7100856878	3	7	January
+7100856880	3	8	February
+7100856890	3	5	March
+7100856898	3	5	April
+71008568b0	3	6	August
+71008568b8	3	9	September
+71008568c8	3	7	October
+71008568d0	3	8	November
+71008568e0	3	8	December
+71008568f8	1	8	iostream
+7100856908	1	14	iostream error
+7100856918	1	12	, function: 
+7100856928	1	46	assertion "%s" failed: file "%s", line %d%s%s\n
+7100856958	1	6	%s%.*d
+7100856960	1	7	%s%0.*d
+7100856978	1	14	%.2d/%.2d/%.2d
+7100856988	1	7	Y-%m-%d
+71008569a8	1	9	%.2d:%.2d
+71008569c0	1	14	%.2d:%.2d:%.2d
+71008569d0	1	7	%e-%b-%
+71008569d8	1	11	%+03ld%.2ld
+71008569e8	1	7	Success
+71008569f0	1	9	Not owner
+7100856a00	1	15	No such process
+7100856a10	1	23	Interrupted system call
+7100856a28	1	9	I/O error
+7100856a38	1	25	No such device or address
+7100856a58	1	17	Arg list too long
+7100856a70	1	17	Exec format error
+7100856a88	1	24	Socket already connected
+7100856aa8	1	15	Bad file number
+7100856ab8	1	11	No children
+7100856ac8	1	28	Destination address required
+7100856ae8	1	17	No more processes
+7100856b00	1	11	Bad address
+7100856b10	1	23	Device or resource busy
+7100856b28	1	11	File exists
+7100856b38	1	17	Cross-device link
+7100856b50	1	14	No such device
+7100856b60	1	12	Host is down
+7100856b70	1	30	Connection already in progress
+7100856b90	1	14	Is a directory
+7100856ba0	1	35	Network interface is not configured
+7100856bc8	1	29	Connection aborted by network
+7100856be8	1	29	Too many open files in system
+7100856c08	1	31	File descriptor value too large
+7100856c28	1	22	Not a character device
+7100856c40	1	14	Text file busy
+7100856c50	1	14	File too large
+7100856c60	1	19	Host is unreachable
+7100856c78	1	23	No space left on device
+7100856c90	1	12	Illegal seek
+7100856ca0	1	21	Read-only file system
+7100856cb8	1	14	Too many links
+7100856cc8	1	11	Broken pipe
+7100856cd8	1	46	Mathematics argument out of domain of function
+7100856d08	1	16	Result too large
+7100856d20	1	26	No message of desired type
+7100856d40	1	18	Identifier removed
+7100856d58	1	21	Illegal byte sequence
+7100856d70	1	8	Deadlock
+7100856d80	1	22	Network is unreachable
+7100856d98	1	7	No lock
+7100856da0	1	12	Not a stream
+7100856db0	1	20	Stream ioctl timeout
+7100856dc8	1	19	No stream resources
+7100856de0	1	23	Virtual circuit is gone
+7100856df8	1	14	Protocol error
+7100856e08	1	16	Unknown protocol
+7100856e20	1	18	Multihop attempted
+7100856e38	1	11	Bad message
+7100856e48	1	24	Function not implemented
+7100856e68	1	26	File or path name too long
+7100856e88	1	23	Too many symbolic links
+7100856ea0	1	25	No buffer space available
+7100856ec0	1	7	No data
+7100856ec8	1	47	Address family not supported by protocol family
+7100856ef8	1	30	Protocol wrong type for socket
+7100856f18	1	30	Socket operation on non-socket
+7100856f38	1	22	Protocol not available
+7100856f50	1	18	Connection refused
+7100856f68	1	24	Connection reset by peer
+7100856f88	1	22	Address already in use
+7100856fa0	1	21	Address not available
+7100856fb8	1	32	Software caused connection abort
+7100856fe0	1	23	Socket is not connected
+7100856ff8	1	27	Socket is already connected
+7100857018	1	18	Operation canceled
+7100857030	1	21	State not recoverable
+7100857048	1	19	Previous owner died
+7100857060	1	33	Operation not supported on socket
+7100857088	1	37	Value too large for defined data type
+71008570b0	1	16	Message too long
+71008570c8	1	20	Connection timed out
+71008570e0	1	5	POSIX
+71008570e8	4	5	ASCII
+71008570f0	1	10	ISO-8859-1
+7100857100	1	9	cjksingle
+7100857110	1	9	cjknarrow
+7100857120	1	7	cjkwide
+7100857140	1	5	EUCJP
+7100857160	1	9	ISO-8859-
+7100857180	1	7	CP20866
+7100857188	1	7	CP21866
+7100857190	1	5	CP103
+7100857198	1	8	GEORGIAN
+71008571a8	1	5	CP101
+71008571b0	1	5	PT154
+71008571b8	1	5	CP102
+71008571d0	1	5	CP874
+71008571d8	2	6	LC_ALL
+71008571e8	1	10	LC_COLLATE
+71008571f8	1	8	LC_CTYPE
+7100857208	1	11	LC_MONETARY
+7100857218	1	10	LC_NUMERIC
+7100857228	1	7	LC_TIME
+7100857230	1	11	LC_MESSAGES
+7100857248	1	5	inity
+7100857258	12	16	Balloc succeeded
+7100857270	2	70	../../../../../newlib-4.5.0.20241231/newlib/libc/stdlib/gdtoa-gethex.c
+71008572b8	1	5	^[yY]
+71008572c0	1	5	^[nN]
+71008572d0	2	62	../../../../../newlib-4.5.0.20241231/newlib/libc/stdlib/dtoa.c
+7100857310	2	18	%11[-+0-9A-Za-z]%n
+7100857328	2	13	%11[A-Za-z]%n
+7100857350	1	18	M%hu%n.%hu%n.%hu%n
+7100857368	1	18	/%hu%n:%hu%n:%hu%n
+7100857380	4	20	%a %b %e %H:%M:%S %Y
+7100857398	1	23	%a %b %e %H:%M:%S %Z %Y
+71008573b8	8	63	../../../../../newlib-4.5.0.20241231/newlib/libc/stdlib/mprec.c
+71008573f8	1	12	St9exception
+7100857408	1	15	St11logic_error
+7100857418	1	16	St12length_error
+7100857430	1	16	St12out_of_range
+710085b316	0	22	J,![CDATA[!DOCTYPE?xml
+710085b358	1	15	UTF-16BEUTF16BE
+710085b368	1	15	UTF-16LEUTF16LE
+710085b400	1	19	17NXResultException
+710085bc20	1	8	EFI PART
+710085bc90	1	97	Proc-Type: 4,ENCDEK-Info: DES-EDDEK-Info: DES-CBDEK-Info: AES-12DEK-Info: AES-19DEK-Info: AES-25 
+710085d2e8	1	5	Adobe
+710085e360	1	17	St13runtime_error
+710085ecd8	1	17	N4utf89exceptionE
+710085ecf0	1	27	N4utf818invalid_code_pointE
+710085ed40	1	15	St11regex_error
+710085f718	1	20	18UserBreakException
+710085f730	1	34	N2nx5utils2fs18BreakScanExceptionE
+71008605b8	1	22	N4utf813invalid_utf16E
+71008605d0	1	24	N4utf815not_enough_roomE
+71008605f0	1	21	N4utf812invalid_utf8E
+7100861d00	1	16	St12domain_error
+7100861d18	1	20	St16invalid_argument
+7100861d30	1	27	N9qrcodegen13data_too_longE
+71008f3388	1	22	20NotAControlException
+71008f33a0	1	26	24NotAContentMetaException
+71008f3b20	1	48	HierarchicalIntegrityVerificationStorage::Master
+71008f3b58	1	44	HierarchicalIntegrityVerificationStorage::L1
+71008f3b90	0	44	HierarchicalIntegrityVerificationStorage::L2
+71008f3bc8	0	44	HierarchicalIntegrityVerificationStorage::L3
+71008f3c00	0	44	HierarchicalIntegrityVerificationStorage::L4
+71008f3c38	0	44	HierarchicalIntegrityVerificationStorage::L5
+71008f6e48	1	33	N3dbi3mtp21MtpInitiatorExceptionE
+71008fab58	1	25	23DBIOfferUpdateException
+71008faf78	1	46	N8nlohmann16json_abi_v3_11_36detail9exceptionE
+71008fafa8	1	48	N8nlohmann16json_abi_v3_11_36detail10type_errorE
+71008fafe0	1	50	N8nlohmann16json_abi_v3_11_36detail12out_of_rangeE
+71008fb018	1	49	N8nlohmann16json_abi_v3_11_36detail11parse_errorE
+71008fb050	1	54	N8nlohmann16json_abi_v3_11_36detail16invalid_iteratorE
+71008fb660	1	24	N4pugi15xpath_exceptionE
+71008fb680	1	12	St9bad_alloc
+71008fb690	1	18	PSt13runtime_error
+71008ffd80	1	14	12NtpException
+7100900ae0	1	27	N3dbi5utils4poco9ExceptionE
+7100900b00	1	35	N3dbi5utils4poco16RuntimeExceptionE
+7100900b28	1	32	N3dbi5utils4poco13DataExceptionE
+7100900b50	1	34	N3dbi5utils4poco15SyntaxExceptionE
+7100900b78	1	37	N3dbi5utils4poco18URISyntaxExceptionE
+7100913e08	0	7	!ENTITY
+7100996198	0	6	error 
+71009961a0	1	24	N3fmt3v1112format_errorE
+71009961c0	1	16	St12system_error
+7100996889	9	199	0010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+7100996b82	0	46	8ccccc/Bcccccccccccccccccccccccccccccccccccccc
+71009ba6b0	1	36	0123456789abcdefghijklmnopqrstuvwxyz
+71009ba6d8	2	5	(nil)
+71009ba6e8	1	36	0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+71009bae40	1	64	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+71009bae88	1	64	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
+71009bb2e8	1	7	2.5.4.3
+71009bb2f8	1	9	2.5.29.17
+71009bb578	1	22	Accept-ranges: bytes\n
+71009bb5b8	1	21	_libssh2_channel_free
+71009bb5e0	1	26	_libssh2_sha_algo_ctx_init
+71009bbf80	6	64	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+71009bbfc8	1	9	sftp_init
+71009bbfd8	1	17	sftp_close_handle
+71009bbff0	3	9	sftp_read
+71009bc048	1	7	decrypt
+71009bc050	1	23	_libssh2_transport_read
+71009bc06d	0	22	keepalive@libssh2.orgW
+71009bdac0	0	46	 inflate 1.3.1 Copyright 1995-2024 Mark Adler 
+71009c59a0	3	16	0123456789ABCDEF
+71009c59c0	2	16	0123456789abcdef
+71009c59e0	1	16	0123456789abcdef
+71009c5aa0	5	34	android.gui.IGraphicBufferProducer
+71009c5b78	1	9	8RAR_EXIT
+71009cc900	1	36	Fatal Internal Error in libarchive: 
+71009cc94b	0	21	Z2fQ`0123456789abcdef
+71009ccc10	1	33	N10__cxxabiv117__class_type_infoE
+71009ccc38	1	38	N9__gnu_cxx24__concurrence_lock_errorE
+71009ccc60	1	40	N9__gnu_cxx26__concurrence_unlock_errorE
+71009ccc90	1	17	St13bad_exception
+71009ccca8	1	31	N10__cxxabiv115__forced_unwindE
+71009cccc8	1	35	N10__cxxabiv119__foreign_exceptionE
+71009cccf0	1	32	N10__cxxabiv116__enum_type_infoE
+71009ccd18	1	43	N9__gnu_cxx29__concurrence_broadcast_errorE
+71009ccd48	1	38	N9__gnu_cxx24__concurrence_wait_errorE
+71009ccd78	3	35	N10__cxxabiv119__pointer_type_infoE
+71009ccda0	1	36	N10__cxxabiv120__si_class_type_infoE
+71009ccdc8	1	12	St9type_info
+71009ccdd8	1	17	NSt6locale5facetE
+71009cce70	1	52	*NSt13__facet_shims12_GLOBAL__N_113numpunct_shimIcEE
+71009ccea8	1	51	*NSt13__facet_shims12_GLOBAL__N_112collate_shimIcEE
+71009ccee0	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIcLb1EEE
+71009ccf20	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIcLb0EEE
+71009ccf60	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_get_shimIcEE
+71009ccf98	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_put_shimIcEE
+71009ccfd0	1	52	*NSt13__facet_shims12_GLOBAL__N_113messages_shimIcEE
+71009cd008	1	52	*NSt13__facet_shims12_GLOBAL__N_113numpunct_shimIwEE
+71009cd040	1	51	*NSt13__facet_shims12_GLOBAL__N_112collate_shimIwEE
+71009cd078	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIwLb1EEE
+71009cd0b8	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIwLb0EEE
+71009cd0f8	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_get_shimIwEE
+71009cd130	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_put_shimIwEE
+71009cd168	1	52	*NSt13__facet_shims12_GLOBAL__N_113messages_shimIwEE
+71009cd1a0	1	24	NSt6locale5facet6__shimE
+71009cd1c0	1	52	*NSt13__facet_shims12_GLOBAL__N_113time_get_shimIcEE
+71009cd1f8	1	52	*NSt13__facet_shims12_GLOBAL__N_113time_get_shimIwEE
+71009cd230	1	14	St10ctype_base
+71009cd240	1	11	St5ctypeIcE
+71009cd250	1	11	St5ctypeIwE
+71009cd308	1	14	St10money_base
+71009cd318	1	17	St13messages_base
+71009cd330	1	12	St9time_base
+71009cd340	1	23	NSt7__cxx117collateIcEE
+71009cd358	1	24	NSt7__cxx118numpunctIcEE
+71009cd378	1	31	NSt7__cxx1110moneypunctIcLb1EEE
+71009cd398	1	31	NSt7__cxx1110moneypunctIcLb0EEE
+71009cd3b8	1	24	NSt7__cxx118messagesIcEE
+71009cd3d8	1	69	NSt7__cxx119money_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEEE
+71009cd420	1	69	NSt7__cxx119money_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEEE
+71009cd468	1	68	NSt7__cxx118time_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEEE
+71009cd4b0	1	52	*NSt13__facet_shims12_GLOBAL__N_113numpunct_shimIcEE
+71009cd4e8	1	51	*NSt13__facet_shims12_GLOBAL__N_112collate_shimIcEE
+71009cd520	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIcLb1EEE
+71009cd560	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIcLb0EEE
+71009cd5a0	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_get_shimIcEE
+71009cd5d8	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_put_shimIcEE
+71009cd610	1	52	*NSt13__facet_shims12_GLOBAL__N_113messages_shimIcEE
+71009cd648	1	52	*NSt13__facet_shims12_GLOBAL__N_113numpunct_shimIwEE
+71009cd680	1	51	*NSt13__facet_shims12_GLOBAL__N_112collate_shimIwEE
+71009cd6b8	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIwLb1EEE
+71009cd6f8	1	58	*NSt13__facet_shims12_GLOBAL__N_115moneypunct_shimIwLb0EEE
+71009cd738	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_get_shimIwEE
+71009cd770	1	53	*NSt13__facet_shims12_GLOBAL__N_114money_put_shimIwEE
+71009cd7a8	1	52	*NSt13__facet_shims12_GLOBAL__N_113messages_shimIwEE
+71009cd7e0	1	52	*NSt13__facet_shims12_GLOBAL__N_113time_get_shimIcEE
+71009cd818	1	52	*NSt13__facet_shims12_GLOBAL__N_113time_get_shimIwEE
+71009cd900	1	23	NSt7__cxx117collateIwEE
+71009cd918	1	24	NSt7__cxx118numpunctIwEE
+71009cd938	1	31	NSt7__cxx1110moneypunctIwLb1EEE
+71009cd958	1	31	NSt7__cxx1110moneypunctIwLb0EEE
+71009cd978	1	24	NSt7__cxx118messagesIwEE
+71009cd998	1	69	NSt7__cxx119money_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEEE
+71009cd9e0	1	69	NSt7__cxx119money_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEEE
+71009cda28	1	68	NSt7__cxx118time_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEEE
+71009cda70	1	38	St13basic_filebufIcSt11char_traitsIcEE
+71009cda98	1	39	St14basic_ifstreamIcSt11char_traitsIcEE
+71009cdac0	1	39	St14basic_ofstreamIcSt11char_traitsIcEE
+71009cdae8	1	21	St17bad_function_call
+71009cdb00	1	33	St9basic_iosIcSt11char_traitsIcEE
+71009cdb28	1	11	St8ios_base
+71009cdbe8	1	16	St12codecvt_base
+71009cdc00	1	13	St7collateIcE
+71009cdc10	1	14	St8numpunctIcE
+71009cdc20	1	57	St7num_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE
+71009cdc60	1	57	St7num_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE
+71009cdca0	1	24	St17__timepunct_cacheIcE
+71009cdcc0	1	18	St11__timepunctIcE
+71009cdcd8	1	21	St10moneypunctIcLb1EE
+71009cdcf0	1	21	St10moneypunctIcLb0EE
+71009cdd08	1	14	St8messagesIcE
+71009cdd18	1	43	St23__codecvt_abstract_baseIcc10_mbstate_tE
+71009cdd48	1	59	St9money_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE
+71009cdd88	1	59	St9money_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE
+71009cddc8	1	58	St8time_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE
+71009cde08	1	58	St8time_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE
+71009cde48	1	29	St18__moneypunct_cacheIcLb0EE
+71009cde68	1	29	St18__moneypunct_cacheIcLb1EE
+71009cde88	1	23	St16__numpunct_cacheIcE
+71009cdeb8	3	23	St19_Sp_make_shared_tag
+71009cded0	1	55	NSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEEE
+71009cdf08	1	59	NSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEEE
+71009cdf48	1	40	St15basic_streambufIcSt11char_traitsIcEE
+71009cdf78	1	24	NSt3_V214error_categoryE
+71009cdf98	1	41	*N12_GLOBAL__N_122generic_error_categoryE
+71009cdfc8	1	40	*N12_GLOBAL__N_121system_error_categoryE
+71009ce0a0	1	13	St7collateIwE
+71009ce0b0	1	28	St21__ctype_abstract_baseIwE
+71009ce0d0	1	14	St8numpunctIwE
+71009ce0e0	1	57	St7num_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE
+71009ce120	1	57	St7num_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE
+71009ce160	1	24	St17__timepunct_cacheIwE
+71009ce180	1	18	St11__timepunctIwE
+71009ce198	1	21	St10moneypunctIwLb1EE
+71009ce1b0	1	21	St10moneypunctIwLb0EE
+71009ce1c8	1	14	St8messagesIwE
+71009ce1d8	1	43	St23__codecvt_abstract_baseIwc10_mbstate_tE
+71009ce208	1	59	St9money_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE
+71009ce248	1	59	St9money_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE
+71009ce288	1	58	St8time_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE
+71009ce2c8	1	58	St8time_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE
+71009ce308	1	29	St18__moneypunct_cacheIwLb0EE
+71009ce328	1	29	St18__moneypunct_cacheIwLb1EE
+71009ce348	1	23	St16__numpunct_cacheIwE
+71009ce370	1	46	St11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE
+71009ce3a0	1	51	St16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE
+71009ce3d8	1	131	St23_Sp_counted_ptr_inplaceINSt10filesystem7__cxx1128recursive_directory_iterator10_Dir_stackESaIS3_ELN9__gnu_cxx12_Lock_policyE2EE
+71009ce460	1	42	NSt10filesystem7__cxx1116filesystem_errorE
+71009ce490	1	113	St23_Sp_counted_ptr_inplaceINSt10filesystem7__cxx1116filesystem_error5_ImplESaIS3_ELN9__gnu_cxx12_Lock_policyE2EE
+71009ce508	1	24	St20bad_array_new_length
+71009ce528	1	11	St8bad_cast
+71009ce538	1	39	N10__cxxabiv123__fundamental_type_infoE
+71009ce570	1	33	N10__cxxabiv117__pbase_type_infoE
+71009ce5b0	3	45	N10__cxxabiv129__pointer_to_member_type_infoE
+71009ce5e0	1	37	N10__cxxabiv121__vmi_class_type_infoE
+71009ce608	1	26	St7codecvtIcc10_mbstate_tE
+71009ce628	1	26	St7codecvtIwc10_mbstate_tE
+71009ce688	1	44	St23__codecvt_abstract_baseIDsc10_mbstate_tE
+71009ce6b8	1	27	St7codecvtIDsc10_mbstate_tE
+71009ce6d8	1	44	St23__codecvt_abstract_baseIDic10_mbstate_tE
+71009ce708	1	27	St7codecvtIDic10_mbstate_tE
+71009ce728	1	45	St23__codecvt_abstract_baseIDsDu10_mbstate_tE
+71009ce758	1	28	St7codecvtIDsDu10_mbstate_tE
+71009ce778	1	45	St23__codecvt_abstract_baseIDiDu10_mbstate_tE
+71009ce7a8	1	28	St7codecvtIDiDu10_mbstate_tE
+71009ce7c8	1	28	NSt8ios_base7failureB5cxx11E
+71009ce7e8	1	17	St13__ios_failure
+71009ce800	1	23	St19__iosfail_type_info
+71009ce818	1	36	*N12_GLOBAL__N_117io_error_categoryE
+71009ce840	2	21	NSt8ios_base7failureE
+71009cfa84	8	16	0123456789abcdef
+71009cfa95	4	16	0123456789ABCDEF
+71009cfb70	18	32	0000000000000000                
+71009cfcf0	18	32	0000000000000000                
+71009d34f0	7	32	0000000000000000                
+7100af2020	3	24	XXXX PNG chunk not known
+7100af2a44	0	10	CA00000003
+7100af2d00	0	15	Root-CA00000003
+7100af2d44	0	10	XS00000020
+7100af49b8	4	7	C.UTF-8
+7100af4b20	2	7	C.UTF-8
+.rodata::7100000008	0	12	HOMEBREWNRO0

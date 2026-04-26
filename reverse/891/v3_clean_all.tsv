@@ -1,0 +1,148 @@
+rodata_off	key	variant	length	plaintext	source
+0x009c29a1	0xd3c5d3e9a5c3dffb	counter_xor	32	КшсЕЫвесЛЮдФЙтфтЩЕуГКувуНБжХЭжхж	multi_variant
+0x0085f688	0x0b9727712bd3710f	counter_cumsum	18	зарегистрированный	multi_variant
+0x008fb9c8	0x1b4d3197319727a9	counter_cumsum	19	(шестнадцатеричный)	multi_variant
+0x8fb9c8	0x1b4d3197319727a9	counter_cumsum	20	(шестнадцатеричный)	immediate_walker
+0x008fb8b0	0x51f58571cddb4f0b	counter_cumsum	32	Пробуем мультипрограмный вариант	multi_variant
+0x858b60	0x690325cdb72339dd	counter_cumsum	15	редактируьъНИЯУ	immediate_walker
+0x008fd2b0	0x999d4b3b8b37d57d	counter_xor	16	Предупреждения: 	multi_variant
+0x008f76a8	0x41836b3f6d83a1df	counter_xor	32	Рекомендуется заменить SD карту 	multi_variant
+0x008fb8d8	0x1b358ba3cff317c1	counter_xor	17	экспортирован: {}	multi_variant
+0x009000e8	0xcbd183fffdf7b7d1	counter_xor	18	установленные игры	multi_variant
+0x8577b8	0xa99907975fab8d47	counter_cumsum	14	плейсхолдеров	immediate_walker
+0x85a690	0x8ba31d5705cf6377	counter_cumsum	13	Родительский	immediate_walker
+0x85aa90	0xa989dfbd29d3d7f7	counter_cumsum	12	родительског	immediate_walker
+0x85b1c8	0xc1d99f3b4bd991c7	counter_cumsum	13	Генерируется	immediate_walker
+0x858258	0x4dab2141bbd30dff	counter_cumsum	13	ОТСУТСТВУЕТ.q	immediate_walker
+0x8595d0	0x097fd7258f4b41a3	counter_cumsum	12	возрастного	immediate_walker
+0x859e50	0xa9cbb3f5112bfd7b	counter_cumsum	12	ПожалуйсЖбН	immediate_walker
+0x85a058	0x9d991dd9c9199135	counter_cumsum	11	требованйтС	immediate_walker
+0x857d08	0xedbf0d572d3bf945	counter_cumsum	11	устройстРЛ(	immediate_walker
+0x8587b8	0xebc9d71f67afcdbb	counter_cumsum	13	интерфейса: A	immediate_walker
+0x859468	0x71fdb3b94379c919	counter_cumsum	11	контентеЩгA	immediate_walker
+0x859b18	0x636381356d654d07	counter_cumsum	11	Показывать>	immediate_walker
+0x859b80	0x41fbfd3f2baffbeb	counter_cumsum	10	картриджеа	immediate_walker
+0x85a968	0xbb43cfebb327fbf9	counter_cumsum	10	скачаннонЫ	immediate_walker
+0x85aaf8	0xf9f103f1d567cf0d	counter_cumsum	12	прошивкиБАHб	immediate_walker
+0x008f53b8	0x29456b557951478b	counter_xor	32	были ошибки. Проверьте наличие E	multi_variant
+0x857570	0x9feb11c90fef2bf1	counter_cumsum	9	Операцияд	immediate_walker
+0x857ba0	0xe3630bb39de37dcf	counter_cumsum	10	Удаляется	immediate_walker
+0x857fb0	0xc561b1ebefdfafdd	counter_cumsum	11	ПолученнШ%o	immediate_walker
+0x8580d0	0x13359f2b8f0fe179	counter_cumsum	10	Ожидаемыдh	immediate_walker
+0x8591d8	0xadcfa30549ddbf1d	counter_cumsum	9	СозданиеЦ	immediate_walker
+0x859a88	0x0fa71533ff8f5111	counter_cumsum	11	АвтоповтшYИ	immediate_walker
+0x85a2d8	0x0f21471511ffa1a1	counter_cumsum	10	следующищ)	immediate_walker
+0x85a458	0xd7439f3541addbe7	counter_cumsum	9	созданияс	immediate_walker
+0x85a618	0xe1f9abd1e3514d83	counter_cumsum	9	запущеныИ	immediate_walker
+0x85aa70	0xa77961a76da12f81	counter_cumsum	10	мобильныш,	immediate_walker
+0x85aba0	0x57e1db7fdd695d39	counter_cumsum	10	Запустить	immediate_walker
+0x008f7680	0x0bb593d1c3a7a55f	counter_cumsum	32	записи на носитель слишком низка	multi_variant
+0x008fd400	0x4fd7c925bd4b5361	counter_cumsum	32	Кажется ваша SD карта является п	multi_variant
+0x008fff58	0x953dd3a1b585d35d	counter_xor	32	времени через Интернет в настрой	multi_variant
+0x009002d8	0x03d39d4d0579b1cd	counter_cumsum	19	или оставьте пустым	multi_variant
+0x8575a8	0x0725656b8bef4335	counter_cumsum	8	сохранен	prefix_scan
+0x857790	0x998521a5b12781c5	counter_cumsum	8	Удаление	prefix_scan
+0x8577d0	0x9789ed57b36bd9ef	counter_cumsum	11	системно|Vб	immediate_walker
+0x857d68	0x9f15c9a33b2d0d6f	counter_cumsum	8	Восстано	prefix_scan
+0x858290	0x2d6f036d75d789f1	counter_cumsum	8	Установк	prefix_scan
+0x858ac8	0xed030bf9afedd19d	counter_cumsum	8	Сохранен	prefix_scan
+0x858c10	0xf5f5c57fd3e517c5	counter_cumsum	8	хранилищ	prefix_scan
+0x858c18	0xb5235d29a90b1715	counter_cumsum	8	посылаем	prefix_scan
+0x858c28	0xabe1412985df8513	counter_cumsum	8	Свободно	prefix_scan
+0x858d40	0x559909ffd3d3b7ff	counter_cumsum	8	привязки	prefix_scan
+0x858d68	0x2567ab97e33ba1cd	counter_cumsum	10	получени'у	immediate_walker
+0x858fa8	0xc367335909bdbb4b	counter_cumsum	8	Просмотр	prefix_scan
+0x8595c0	0x59df6defc9d92357	counter_cumsum	9	запретовt	immediate_walker
+0x8596f8	0x53db7b698d4dcf8b	counter_cumsum	10	ПолучениV&	immediate_walker
+0x8597c0	0x1dd7098fc98121fd	counter_cumsum	8	Форсиров	prefix_scan
+0x8598a0	0xedcbf77947cfdb3b	counter_cumsum	8	Информац	prefix_scan
+0x8598f0	0x8d0f5103d199b973	counter_cumsum	8	Проверяю	prefix_scan
+0x859938	0xefc9f7495d2fc567	counter_cumsum	8	Проверка	prefix_scan
+0x859a68	0xe34defc71b53b787	counter_cumsum	8	обновлен	prefix_scan
+0x859c48	0x2571811187f15535	counter_cumsum	13	Использо8'i~4	immediate_walker
+0x859e18	0x5dbb5b1fd1039357	counter_cumsum	8	Установл	prefix_scan
+0x859ee0	0x5571470d9d0d6523	counter_cumsum	8	информац	prefix_scan
+0x859f38	0x0dc505f513f12d2d	counter_cumsum	8	Загрузка	prefix_scan
+0x85a180	0x05078773b707319b	counter_cumsum	8	Настройк	prefix_scan
+0x85a340	0x953fc5a3d1431fe9	counter_cumsum	12	собираетPРЫл	immediate_walker
+0x85a540	0xc99955256dc14941	counter_cumsum	10	КонтроллAD	immediate_walker
+0x85a550	0x69e7c3df9353fb03	counter_cumsum	8	значение	prefix_scan
+0x85a5a0	0x879b751539874163	counter_cumsum	8	Сохранён	prefix_scan
+0x85a5a8	0x879b751539874163	counter_cumsum	8	параметр	prefix_scan
+0x85aac8	0xdb338d1929fdc993	counter_cumsum	8	Завершен	prefix_scan
+0x85acd8	0x7991f55d09b5a18f	counter_cumsum	8	Загружае	prefix_scan
+0x85ace8	0x93dbcbd9e7bbf973	counter_cumsum	8	Загружен	prefix_scan
+0x85b0b0	0x872deb877559312b	counter_cumsum	8	аргумент	prefix_scan
+0x0083f2ac	0xa1afb5b11fa3ad89	counter_xor	32	ШхбkтЭауОэжUббУтНая!юарРЫут[Дпкв	multi_variant
+0x00850723	0x8bad81fb5fc7e9df	counter_xor	32	ъИг_ШюХьмьЩVямХнАКиaЩбЙчощСPскЖл	multi_variant
+0x00850761	0x95c1fbfffdd967af	counter_xor	32	И%ХогШатУ;Во9нОуВ+Йм9ЩцжВ9Я10фИш	multi_variant
+0x00900773	0xedf3ffc5cbcfe145	counter_xor	32	EгокеШСМFГплф!ТНGаямг"УОHюрнх%ЖП	multi_variant
+0x009138a2	0x3137030b2137eb3b	counter_xor	32	З)ТЕнеПЫУ&СНайВБЛ?ЙВьсНКГ4АЬсьЕт	multi_variant
+0x00913dc1	0xddeb5dd9c7d5f7e3	counter_xor	32	ЮБийшzЬгЮОщюж[МяУПпоуGГнТНатаvьш	multi_variant
+0x00998c66	0xe7e1390df56b370f	counter_xor	32	схRЗяфщХлгAЫрерГмф^ЬсдуФне{ВлцЭЕ	multi_variant
+0x00999eff	0x6b116531613b41e5	counter_xor	32	ААдф5еНаББцо6фМэЦЦбп7гЛшЛДащ0хКр	multi_variant
+0x0099c96b	0xc54f8fef6967bbd7	counter_xor	32	ГШДхънлgХЧКиюссbИЫЙнатрaЙЬИкбуя`	multi_variant
+0x0099f86b	0xfd45056379d7219d	counter_xor	32	ЮдAЫЖЦсЭмеN%*НпHнйOg<МяероLJФДчн	multi_variant
+0x009a26ec	0xabd303255fd1271d	counter_xor	32	Ма-ртЕш%ЛншНуБ+!КонОрЦк#жлдЛъЮи 	multi_variant
+0x009a2f35	0x8341c1370f6d3307	counter_xor	32	НцЖючтщSА РаякчVЮ&СбпоъQЦ0ЛгсльP	multi_variant
+0x009a489b	0x5b81b3a17f999761	counter_xor	32	КЕйС[юрЩСЛиП)аямТНхH:мпХМАоJ=ивЖ	multi_variant
+0x009b99c6	0xdf15c787eb8bd18f	counter_xor	32	кямКог_ъэрбЛьхDЮесшМяиMАнтпНЙйzБ	multi_variant
+0x00a032ec	0x65c5c91ba3cbcf77	counter_xor	32	ШмоsкоеЕУрхlллфРТсиeммггВпй:нйхэ	multi_variant
+0x8575d0	0x27d1e363737fbba9	counter_cumsum	8	Найдено	prefix_scan
+0x85aa00	0xc54b5723f1bb3307	counter_cumsum	9	уверены,'	immediate_walker
+0x008391de	0xd7d33b458387d1f5	counter_xor	32	Уяцюt;свЖрлгt<тьВсмфt=уыЬтне|>жз	multi_variant
+0x00839acf	0x632df5fdf5c5fbd3	counter_xor	32	сиКесе-cтоХфпф.dунИгяф/eжйФх.х0f	multi_variant
+0x00900420	0xe3fdbf235fa7c7fd	counter_cumsum	20	2ая панель, (+) меню	multi_variant
+0x00997437	0x23db652581655311	counter_xor	32	НдhkзЯжиМеkhыХянЛчjiьОпоКсenвЙсл	multi_variant
+0x0099c5aa	0x5f2b1bc14fb1fdd1	counter_xor	32	шменй+^ччндяо,[Ащокпл-TЮд0нсу.UЦ	multi_variant
+0x009a06df	0x215faf29bb4d8b95	counter_xor	32	коя`wЙццхйр]tВЭйиесTuЬЩофдлOrЫЧв	multi_variant
+0x009a11fc	0x5571470d9d0d6523	counter_xor	32	ШЗ@Стьn;ЧЫMПувH8ЫЬAЯржW9ЬВОноуi6	multi_variant
+0x009a1ca3	0x43b1b5ab412b55b1	counter_xor	32	огхиу&Rйлбонр#Qжмансс Pжйюмпп!Wп	multi_variant
+0x009a3c27	0x43ef13df67f7a36f	counter_xor	32	МИго]XъЙРХхбbYюОСКиеcZаХПЖйд`GбИ	multi_variant
+0x009a6627	0x9ba723d997bb8141	counter_xor	32	ресq#eоБэйт\RiюЮщмуГEuаVоужяPtб}	multi_variant
+0x009fd877	0xd3ed79a33dc90b3d	counter_xor	32	Ехх=+ъЛвЙок>xщОпСнй?IэНяЭмм@bуЯр	multi_variant
+0x00a201a5	0x617549fbcd030f41	counter_xor	32	EсйлШая`FПмоЭррcGЫлнЩОяb@фаяЧЬчe	multi_variant
+0x857728	0x9bfb6fe551c96181	counter_cumsum	10	Найден {Ч`	immediate_walker
+0x857c08	0x9dcfc3b1450b25cd	counter_cumsum	8	Размер:	prefix_scan
+0x8582f8	0x63b5e159d1356371	counter_cumsum	9	не можете	immediate_walker
+0x858d38	0x11af317f19b1176f	counter_cumsum	11	сокета: 3KЩ	immediate_walker
+0x8599d8	0x2de1b3e54b8fe961	counter_cumsum	8	ошибка:	prefix_scan
+0x85a040	0xdfcb61f5734d13f3	counter_cumsum	10	NCA файлцв	immediate_walker
+0x85b0d0	0x1bcb07e5f1e1d733	counter_cumsum	10	аватар..]5	immediate_walker
+0x8fd278	0x17f10fdf890b991d	counter_cumsum	17	ЩюFфПpД~ц\hРсЦуМг	immediate_walker
+0x900420	0xe3fdbf235fa7c7fd	counter_cumsum	21	2ая панель, (+) меню	immediate_walker
+0x0085dac0	0xdfc3377757c7d1cb	counter_xor	32	мваQq1еыйтн^~>бФйтн^~>бФисм]}=аЕ	multi_variant
+0x00999eef	0xc72dd1d5793b41f7	counter_xor	32	САдБяqрYЭБцшрrяlЩЦбэсsпcЧДаяэtоz	multi_variant
+0x009a0a33	0x1fc9b9150b4d8987	counter_xor	32	ЕтпмwГTкЛусдtзWЭКЙраuыVКХОмлzьQЕ	multi_variant
+0x009a119d	0x873d8b7b0bb7077b	counter_xor	32	ДазйДgPEЦжуоЦ@SLБАтхБ_ROАовиАt-B	multi_variant
+0x009a1417	0x070981a3fd2965a9	counter_xor	32	шфиФя%И/ьцйсж$Й$ыюков+К;чал;т.Л6	multi_variant
+0x009a1caf	0x590bdd9fc1334997	counter_xor	32	ИэпSАKХиФщвQчFОнГржUъEНуДву_э|Мю	multi_variant
+0x009a2156	0x2f7fc3afcb834f51	counter_xor	32	Уйе.'F8йцул):AиуШто(э@йтювй+)Cов	multi_variant
+0x009a774d	0x2921abad29c94559	counter_xor	32	,лXыь)юш/б+ыш)цч.4Yяз.бв)х-ресес	multi_variant
+0x009c785a	0xd9f72fcf57f3e7cf	counter_xor	32	оГпTо/огпХбFп0ЭыяИлGя1нерЙРYр2юб	multi_variant
+0x8582a8	0x673931653de3f76b	counter_cumsum	11	Файлы игГ'k	immediate_walker
+0x858808	0x13d905d7c92be5c7	counter_cumsum	12	на SD карте	immediate_walker
+0x85b128	0xe3fdbf235fa7c7fd	counter_cumsum	13	выбор, AЩеmмР	immediate_walker
+0x00839b36	0x1bcb07e5f1e1d733	counter_xor	32	3впек7Е+4ьсгх8Б,5ыреи9Ц-6зуцф:Ю.	multi_variant
+0x0099c8e6	0x4717f9b3f9b7c51d	counter_xor	32	oУf{юиееjЖkxайлйiВlyбкокXЬm~олбх	multi_variant
+0x009a22a3	0x13056bb79b2f4b63	counter_xor	32	ДяйО0ПЮDЦпуТ?ЯЦzБстд>РБFАНвЩ=оМ|	multi_variant
+0x009a46b3	0xc583bb5171619f79	counter_xor	32	МЖ3ЕхяяWЦо0Иглж.Тп1ХйовCЖя6Амйт[	multi_variant
+0x00a031b5	0xb5efd1d16de9c307	counter_xor	32	ЫеИе#пКqЖбЙр сТ*ВцКШ рУ#ТюЛЛ'уЖ@	multi_variant
+0x00a15973	0xedd51dcf3b017bef	counter_xor	32	Ккж:оМ|ЛТпу=пр|ОУыт<як}НЖБс?рЮsЯ	multi_variant
+0x00a21337	0x093f23c5fffbeded	counter_xor	32	ОМ'1г'ОгЛН`од пеМОIне!ИдРП:мй"Зц	multi_variant
+0x837820	0xaff7c78d7d91c927	counter_cumsum	11	EМоЦяiМх"еа	immediate_walker
+0x857ca0	0x75cb5d4951c92ddd	counter_cumsum	12	?;Х4P<ь4ЩнНН	immediate_walker
+0x85a280	0x073d6fcba327314b	counter_cumsum	10	(+) меню:ь	immediate_walker
+0x8fbbe0	0xb515639d1f513507	counter_cumsum	8	игры	prefix_scan
+0x0085dbd0	0x37c937cb4bd7cdc1	counter_xor	32	амеXъ#э"тьнZш/щ/шваUу!с!щицWв#у#	multi_variant
+0x00996e61	0xc7932fe9399121c5	counter_xor	32	окn#Юеlпохm.Цзkыниl5Бшjбанk4Еьiо	multi_variant
+0x009a2a84	0x5fef8bab57efd78f	counter_xor	32	р?ЭцУcЛко0ВллdЮТП1гмоeзУЯ2гнйfсЖ	multi_variant
+0x009a377b	0x4531574f6535c141	counter_xor	32	ю65Енф2заP5фск1ГюW4ерл0ДгR;лям7М	multi_variant
+0x009ba7dd	0xedcbf77947cfdb3b	counter_xor	32	;До{yнкш<Опxzулд=Зяm{ьмЯ>ерR|ОнБ	multi_variant
+0x009eca31	0x57c10f2b29c5534b	counter_xor	32	ътг)онюSюсд*ьяц\ере+Асб]чпй,Зпе^	multi_variant
+0x00a037dd	0xb929cbc7a983c5d1	counter_xor	32	раO1аке:яб@2нлж9пц53омо>вл.4лнь9	multi_variant
+0x00a1873d	0x59e15f5f11df2b55	counter_xor	32	У(ома\ЮИВ/ДраcБФЖ.ЕсаbБкШ-ФьОaЕю	multi_variant
+0x00a227fb	0xbb35d7356929e539	counter_xor	32	оГ)Ибу1OлД*Фаз& лЕ+цюш3}кЙ,поь<z	multi_variant
+0x837850	0x2995a31f6fd5f551	counter_cumsum	10	3гmsОКя.NМ	immediate_walker
+0x8586d8	0xb32f0fabd9bd6f85	counter_cumsum	11	жUНйбEGKп@Ч	immediate_walker
+0x85a520	0x7babe30d110b4333	counter_cumsum	12	сЙ!d{фм wбии	immediate_walker
